@@ -1,0 +1,330 @@
+[gd_resource type="SpriteFrames" load_steps=81 format=3 uid="uid://datha0dq26a8k"]
+
+[ext_resource type="Texture2D" uid="uid://dy6vdbtjp3yu2" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00000.png" id="1_cv5rb"]
+[ext_resource type="Texture2D" uid="uid://c5xlvxgyubu5e" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00001.png" id="2_arivk"]
+[ext_resource type="Texture2D" uid="uid://cyj84nrdkm30y" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00002.png" id="3_jpap1"]
+[ext_resource type="Texture2D" uid="uid://b7t7b171rkygn" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00003.png" id="4_ca317"]
+[ext_resource type="Texture2D" uid="uid://by2r2la7rkglj" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00004.png" id="5_ue4e6"]
+[ext_resource type="Texture2D" uid="uid://daqh61or1f3wt" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00005.png" id="6_eyq44"]
+[ext_resource type="Texture2D" uid="uid://ch08fb0dbkppl" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00006.png" id="7_dmha4"]
+[ext_resource type="Texture2D" uid="uid://dfql4mxbwqdal" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00007.png" id="8_pn868"]
+[ext_resource type="Texture2D" uid="uid://cfuo5s6erhjhx" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00008.png" id="9_i3id8"]
+[ext_resource type="Texture2D" uid="uid://bf1m2vi3p0fau" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00009.png" id="10_j6mbc"]
+[ext_resource type="Texture2D" uid="uid://cib7sbrcfgrkt" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00010.png" id="11_20wgt"]
+[ext_resource type="Texture2D" uid="uid://728666p8es5s" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00011.png" id="12_ecx1h"]
+[ext_resource type="Texture2D" uid="uid://c56w11l7vbvjc" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00012.png" id="13_urj20"]
+[ext_resource type="Texture2D" uid="uid://bjjkwgbw5y4cq" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00013.png" id="14_xdtq5"]
+[ext_resource type="Texture2D" uid="uid://dtyvetx3hdv0j" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00014.png" id="15_djqou"]
+[ext_resource type="Texture2D" uid="uid://li7yhn76hnbp" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00015.png" id="16_fk13r"]
+[ext_resource type="Texture2D" uid="uid://chy3f73ai7klg" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00016.png" id="17_ho2ey"]
+[ext_resource type="Texture2D" uid="uid://cufkuhbcfyrbw" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00017.png" id="18_6lvqf"]
+[ext_resource type="Texture2D" uid="uid://c14algatcc8fs" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00018.png" id="19_38feb"]
+[ext_resource type="Texture2D" uid="uid://bf66esj0a25w5" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00019.png" id="20_20d4a"]
+[ext_resource type="Texture2D" uid="uid://b4ofae35g27xg" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00020.png" id="21_1ew3p"]
+[ext_resource type="Texture2D" uid="uid://bi58lyit34w4" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00021.png" id="22_ov8v6"]
+[ext_resource type="Texture2D" uid="uid://bg16rge2ymeib" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00022.png" id="23_hars5"]
+[ext_resource type="Texture2D" uid="uid://odfrpaxseqtr" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00023.png" id="24_irs0j"]
+[ext_resource type="Texture2D" uid="uid://br3s1cpoboil7" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00024.png" id="25_y1ai0"]
+[ext_resource type="Texture2D" uid="uid://dopgv17ibky8b" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00025.png" id="26_qjeci"]
+[ext_resource type="Texture2D" uid="uid://botu15pl2hyly" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00026.png" id="27_nb8wf"]
+[ext_resource type="Texture2D" uid="uid://b0red0tqrflr7" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00027.png" id="28_8b4y3"]
+[ext_resource type="Texture2D" uid="uid://cugjik20tni2h" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00028.png" id="29_is4yu"]
+[ext_resource type="Texture2D" uid="uid://cau1ecfc3sy3r" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00029.png" id="30_1spot"]
+[ext_resource type="Texture2D" uid="uid://ch4b2so3unft1" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00030.png" id="31_f44g0"]
+[ext_resource type="Texture2D" uid="uid://c5cr578v0tkg0" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00031.png" id="32_t7rk8"]
+[ext_resource type="Texture2D" uid="uid://bkefyj1ap884p" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00032.png" id="33_j8hbf"]
+[ext_resource type="Texture2D" uid="uid://b44sqlhb8qg6y" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00033.png" id="34_i4atv"]
+[ext_resource type="Texture2D" uid="uid://dcbp5ugr2tgaw" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00034.png" id="35_o27ep"]
+[ext_resource type="Texture2D" uid="uid://lpjtdlkwqrko" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00035.png" id="36_l1gfv"]
+[ext_resource type="Texture2D" uid="uid://dgl0fxnky1ett" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00036.png" id="37_m0j0d"]
+[ext_resource type="Texture2D" uid="uid://blskenlrvtblj" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00037.png" id="38_dykb4"]
+[ext_resource type="Texture2D" uid="uid://dtqletyw43te5" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00038.png" id="39_wyw82"]
+[ext_resource type="Texture2D" uid="uid://ce2fgduqtr132" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00039.png" id="40_4y50l"]
+[ext_resource type="Texture2D" uid="uid://c4tdqsgvm6vik" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00040.png" id="41_tg75y"]
+[ext_resource type="Texture2D" uid="uid://dbanq6iwqmsij" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00041.png" id="42_uovnr"]
+[ext_resource type="Texture2D" uid="uid://bgkk7ucvo5crl" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00042.png" id="43_a511r"]
+[ext_resource type="Texture2D" uid="uid://daui2tegv6lcc" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00043.png" id="44_8p2iy"]
+[ext_resource type="Texture2D" uid="uid://cmwucfvaf2kq5" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00044.png" id="45_jfo2c"]
+[ext_resource type="Texture2D" uid="uid://dbittem0aq1wk" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00045.png" id="46_h0n1x"]
+[ext_resource type="Texture2D" uid="uid://cf8w62e5jdk8o" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00046.png" id="47_8otsr"]
+[ext_resource type="Texture2D" uid="uid://c73obgqktrd65" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00047.png" id="48_gv3cl"]
+[ext_resource type="Texture2D" uid="uid://dmklchvmrl33a" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00048.png" id="49_wl3qi"]
+[ext_resource type="Texture2D" uid="uid://ba6if4n0hbnb3" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00049.png" id="50_da0uj"]
+[ext_resource type="Texture2D" uid="uid://burqtnddrbwnl" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00050.png" id="51_etyjq"]
+[ext_resource type="Texture2D" uid="uid://ce8wi08ggxyda" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00051.png" id="52_k3o0d"]
+[ext_resource type="Texture2D" uid="uid://bt4avijckx7aw" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00052.png" id="53_gljjm"]
+[ext_resource type="Texture2D" uid="uid://cm1iem0vn68rr" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00053.png" id="54_gvkd1"]
+[ext_resource type="Texture2D" uid="uid://bex3s6jgkptt6" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00054.png" id="55_qndh1"]
+[ext_resource type="Texture2D" uid="uid://qagjw3ex4lpo" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00055.png" id="56_us40a"]
+[ext_resource type="Texture2D" uid="uid://bvs21tm8jese7" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00056.png" id="57_dhbc4"]
+[ext_resource type="Texture2D" uid="uid://lqd3ljam8jcp" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00057.png" id="58_8ov02"]
+[ext_resource type="Texture2D" uid="uid://cpduonwt7o7jj" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00058.png" id="59_tb5yg"]
+[ext_resource type="Texture2D" uid="uid://d7l3b8khcoy7" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00059.png" id="60_kxprs"]
+[ext_resource type="Texture2D" uid="uid://c4macdy6dpmwp" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00060.png" id="61_8uj2r"]
+[ext_resource type="Texture2D" uid="uid://cawu2et4pg0gw" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00061.png" id="62_08s4f"]
+[ext_resource type="Texture2D" uid="uid://dlore1ga73hf8" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00062.png" id="63_wwc3n"]
+[ext_resource type="Texture2D" uid="uid://b2is5nsrivhay" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00063.png" id="64_is8cw"]
+[ext_resource type="Texture2D" uid="uid://f216t1sedu4m" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00064.png" id="65_3p0ir"]
+[ext_resource type="Texture2D" uid="uid://blffnfrhns2ko" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00065.png" id="66_ioxnj"]
+[ext_resource type="Texture2D" uid="uid://bh3c5jqidd1vn" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00066.png" id="67_tbd0x"]
+[ext_resource type="Texture2D" uid="uid://b5f8ag6d2wb3i" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00067.png" id="68_2a3ta"]
+[ext_resource type="Texture2D" uid="uid://bo3bwvdpucxnb" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00068.png" id="69_28hei"]
+[ext_resource type="Texture2D" uid="uid://glyi2nvx6e8e" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00069.png" id="70_yecs5"]
+[ext_resource type="Texture2D" uid="uid://ckhe16t43xfu0" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00070.png" id="71_50o6l"]
+[ext_resource type="Texture2D" uid="uid://c3tkkyk0116at" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00071.png" id="72_kqqjs"]
+[ext_resource type="Texture2D" uid="uid://w3tw1lhupih1" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00072.png" id="73_avki0"]
+[ext_resource type="Texture2D" uid="uid://c4rbxi6p8ylcr" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00073.png" id="74_3vquy"]
+[ext_resource type="Texture2D" uid="uid://c37joj18ubysy" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00074.png" id="75_31hh7"]
+[ext_resource type="Texture2D" uid="uid://bfqwfqjrhdvp8" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00075.png" id="76_jut0x"]
+[ext_resource type="Texture2D" uid="uid://mtccgtw0atn2" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00076.png" id="77_7wttx"]
+[ext_resource type="Texture2D" uid="uid://d14ql3el55wrs" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00077.png" id="78_j5lsc"]
+[ext_resource type="Texture2D" uid="uid://ftqq1h47a4oh" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00078.png" id="79_0atny"]
+[ext_resource type="Texture2D" uid="uid://c584igoxx40d1" path="res://addons/icon_animation/assets/28気づきライン/28気づきライン_rend_00079.png" id="80_n0jxj"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_cv5rb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_arivk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_jpap1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_ca317")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_ue4e6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_eyq44")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_dmha4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_pn868")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_i3id8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_j6mbc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_20wgt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_ecx1h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_urj20")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_xdtq5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_djqou")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_fk13r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_ho2ey")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_6lvqf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_38feb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_20d4a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_1ew3p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_ov8v6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_hars5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_irs0j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_y1ai0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_qjeci")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_nb8wf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_8b4y3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_is4yu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_1spot")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_f44g0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_t7rk8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_j8hbf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_i4atv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_o27ep")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_l1gfv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_m0j0d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_dykb4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_wyw82")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_4y50l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_tg75y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_uovnr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_a511r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_8p2iy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_jfo2c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_h0n1x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_8otsr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_gv3cl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_wl3qi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_da0uj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_etyjq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_k3o0d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_gljjm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_gvkd1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_qndh1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_us40a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_dhbc4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_8ov02")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_tb5yg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_kxprs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_8uj2r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_08s4f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_wwc3n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_is8cw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_3p0ir")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_ioxnj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_tbd0x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_2a3ta")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_28hei")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_yecs5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_50o6l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_kqqjs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_avki0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_3vquy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_31hh7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_jut0x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_7wttx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_j5lsc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_0atny")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_n0jxj")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]

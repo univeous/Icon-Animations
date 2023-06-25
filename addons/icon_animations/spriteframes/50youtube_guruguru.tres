@@ -1,0 +1,738 @@
+[gd_resource type="SpriteFrames" load_steps=183 format=3 uid="uid://dl1bqp75b588e"]
+
+[ext_resource type="Texture2D" uid="uid://bpsb5eyhjufec" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00000.png" id="1_hle0l"]
+[ext_resource type="Texture2D" uid="uid://2gmh344dg1ed" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00001.png" id="2_37gxo"]
+[ext_resource type="Texture2D" uid="uid://dkacemn06300q" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00002.png" id="3_mye68"]
+[ext_resource type="Texture2D" uid="uid://vy3yu5ycmp61" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00003.png" id="4_tcx37"]
+[ext_resource type="Texture2D" uid="uid://b68x15wqfs1g0" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00004.png" id="5_tk4si"]
+[ext_resource type="Texture2D" uid="uid://kal5eg2a35vh" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00005.png" id="6_x1j2h"]
+[ext_resource type="Texture2D" uid="uid://biw68e8s5b3dw" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00006.png" id="7_ndwbb"]
+[ext_resource type="Texture2D" uid="uid://o73tdnayiouj" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00007.png" id="8_j7yaj"]
+[ext_resource type="Texture2D" uid="uid://b44l0d176rqk6" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00008.png" id="9_00ro5"]
+[ext_resource type="Texture2D" uid="uid://dqry8p3auosni" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00009.png" id="10_q6d4f"]
+[ext_resource type="Texture2D" uid="uid://bl2cd6jgljeym" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00010.png" id="11_tqoep"]
+[ext_resource type="Texture2D" uid="uid://b6xjb2msi6dsq" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00011.png" id="12_rscqy"]
+[ext_resource type="Texture2D" uid="uid://defxxvacaoq23" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00012.png" id="13_s4usv"]
+[ext_resource type="Texture2D" uid="uid://lxsyer377y0k" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00013.png" id="14_wsr3y"]
+[ext_resource type="Texture2D" uid="uid://cnwouaq07a52v" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00014.png" id="15_h7xiu"]
+[ext_resource type="Texture2D" uid="uid://dq3qm3td201te" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00015.png" id="16_4mhms"]
+[ext_resource type="Texture2D" uid="uid://c7ra7h36qcdcv" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00016.png" id="17_gphr8"]
+[ext_resource type="Texture2D" uid="uid://bqkixqmydtwgh" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00017.png" id="18_oouji"]
+[ext_resource type="Texture2D" uid="uid://d2rujb6rwf0ge" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00018.png" id="19_j0exv"]
+[ext_resource type="Texture2D" uid="uid://bfiegxglxrx71" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00019.png" id="20_bn05a"]
+[ext_resource type="Texture2D" uid="uid://cu4wanphjtvuj" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00020.png" id="21_asc7d"]
+[ext_resource type="Texture2D" uid="uid://c8alukidkjm81" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00021.png" id="22_lpnbk"]
+[ext_resource type="Texture2D" uid="uid://dyp81dlc3wmyp" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00022.png" id="23_dapcy"]
+[ext_resource type="Texture2D" uid="uid://d0x5cc2j8gl2f" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00023.png" id="24_sdcxu"]
+[ext_resource type="Texture2D" uid="uid://cui3iisfll787" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00024.png" id="25_yvpkr"]
+[ext_resource type="Texture2D" uid="uid://djvd0bcfed31m" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00025.png" id="26_d2ytu"]
+[ext_resource type="Texture2D" uid="uid://dx4d68srynvup" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00026.png" id="27_xykf7"]
+[ext_resource type="Texture2D" uid="uid://cqfjcnr5ykgtb" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00027.png" id="28_ixk6e"]
+[ext_resource type="Texture2D" uid="uid://dckcrnyq5j665" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00028.png" id="29_dm3j8"]
+[ext_resource type="Texture2D" uid="uid://c5k4nqxm42lda" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00029.png" id="30_pyp5a"]
+[ext_resource type="Texture2D" uid="uid://c6pxojbmsv0jh" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00030.png" id="31_n43es"]
+[ext_resource type="Texture2D" uid="uid://c335gwanfit1c" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00031.png" id="32_10qnr"]
+[ext_resource type="Texture2D" uid="uid://diidbwb1lwpuj" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00032.png" id="33_5fd8i"]
+[ext_resource type="Texture2D" uid="uid://q8y52gm404mq" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00033.png" id="34_07vec"]
+[ext_resource type="Texture2D" uid="uid://blerfbopqp16y" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00034.png" id="35_3rapt"]
+[ext_resource type="Texture2D" uid="uid://dba0caror1ths" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00035.png" id="36_foe53"]
+[ext_resource type="Texture2D" uid="uid://cypd8ugxhl8o" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00036.png" id="37_00317"]
+[ext_resource type="Texture2D" uid="uid://dlc34i347dybd" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00037.png" id="38_0r6l0"]
+[ext_resource type="Texture2D" uid="uid://diry718s7fn80" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00038.png" id="39_of6qo"]
+[ext_resource type="Texture2D" uid="uid://es5g4bpfo4s7" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00039.png" id="40_vyx3x"]
+[ext_resource type="Texture2D" uid="uid://cf3he50ibr3vd" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00040.png" id="41_o01vm"]
+[ext_resource type="Texture2D" uid="uid://c6gwmhuu7m17i" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00041.png" id="42_6gcqs"]
+[ext_resource type="Texture2D" uid="uid://bdy1hddnj1bv" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00042.png" id="43_o2hm8"]
+[ext_resource type="Texture2D" uid="uid://bgr8vevfa627y" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00043.png" id="44_k21f8"]
+[ext_resource type="Texture2D" uid="uid://cqpag6ci5p05f" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00044.png" id="45_5be4x"]
+[ext_resource type="Texture2D" uid="uid://h38pin0so460" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00045.png" id="46_tesr8"]
+[ext_resource type="Texture2D" uid="uid://bisiobduxchxv" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00046.png" id="47_8ysym"]
+[ext_resource type="Texture2D" uid="uid://mh28715xg8xi" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00047.png" id="48_4qblk"]
+[ext_resource type="Texture2D" uid="uid://bd5spiyugqus0" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00048.png" id="49_1k5r4"]
+[ext_resource type="Texture2D" uid="uid://dvwugg5o257ll" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00049.png" id="50_nic0r"]
+[ext_resource type="Texture2D" uid="uid://bxbtfirc4pc0f" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00050.png" id="51_o8lu5"]
+[ext_resource type="Texture2D" uid="uid://dwq1d0dxjpf4t" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00051.png" id="52_ht30l"]
+[ext_resource type="Texture2D" uid="uid://vt4fkim1rwhm" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00052.png" id="53_g2es5"]
+[ext_resource type="Texture2D" uid="uid://c0hcdl0ap2yaj" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00053.png" id="54_sufyr"]
+[ext_resource type="Texture2D" uid="uid://wwt0wsbo0bwa" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00054.png" id="55_i68rc"]
+[ext_resource type="Texture2D" uid="uid://muyo8il6wi4l" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00055.png" id="56_rls6r"]
+[ext_resource type="Texture2D" uid="uid://c6lialf67ufmg" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00056.png" id="57_kella"]
+[ext_resource type="Texture2D" uid="uid://nurv5f0w5e7n" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00057.png" id="58_8t347"]
+[ext_resource type="Texture2D" uid="uid://dxtcf0e2q5ng0" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00058.png" id="59_fyavc"]
+[ext_resource type="Texture2D" uid="uid://d2t7snuv8tt2u" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00059.png" id="60_xehgn"]
+[ext_resource type="Texture2D" uid="uid://c4tvs1alxcfls" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00060.png" id="61_moqlh"]
+[ext_resource type="Texture2D" uid="uid://ddm5okxuttbxs" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00061.png" id="62_moia6"]
+[ext_resource type="Texture2D" uid="uid://c73sdtsuf3wvy" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00062.png" id="63_dd3jj"]
+[ext_resource type="Texture2D" uid="uid://cq5b3yh32bqcy" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00063.png" id="64_1midx"]
+[ext_resource type="Texture2D" uid="uid://wm6t27fkid2f" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00064.png" id="65_4nkp7"]
+[ext_resource type="Texture2D" uid="uid://c2hkkpm855nhw" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00065.png" id="66_asy55"]
+[ext_resource type="Texture2D" uid="uid://b1pmiimv5ut0h" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00066.png" id="67_a2js4"]
+[ext_resource type="Texture2D" uid="uid://dp26ex4jfwcwp" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00067.png" id="68_6gen5"]
+[ext_resource type="Texture2D" uid="uid://bxmtr2opnp4x6" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00068.png" id="69_rus7w"]
+[ext_resource type="Texture2D" uid="uid://dp0w5tgpyvwuw" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00069.png" id="70_ha6hv"]
+[ext_resource type="Texture2D" uid="uid://ritstcvgee0" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00070.png" id="71_v51jw"]
+[ext_resource type="Texture2D" uid="uid://b6dd6cg50lamn" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00071.png" id="72_iw1hw"]
+[ext_resource type="Texture2D" uid="uid://dyspfxs22rv1s" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00072.png" id="73_5worl"]
+[ext_resource type="Texture2D" uid="uid://cyirsqf8w6o6u" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00073.png" id="74_ikalg"]
+[ext_resource type="Texture2D" uid="uid://dpcaj7ns16afe" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00074.png" id="75_p8ldl"]
+[ext_resource type="Texture2D" uid="uid://cp13v2mydbd6r" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00075.png" id="76_c4l7d"]
+[ext_resource type="Texture2D" uid="uid://dta2k7hpelva3" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00076.png" id="77_8jo7y"]
+[ext_resource type="Texture2D" uid="uid://dx0wfjwuatbyg" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00077.png" id="78_yxcap"]
+[ext_resource type="Texture2D" uid="uid://lg7u41yvjbrq" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00078.png" id="79_64qp7"]
+[ext_resource type="Texture2D" uid="uid://bit6xxmmv7v4d" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00079.png" id="80_e5iym"]
+[ext_resource type="Texture2D" uid="uid://v4xke5uxaa3f" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00080.png" id="81_57808"]
+[ext_resource type="Texture2D" uid="uid://b5jxaqbaahumw" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00081.png" id="82_e8ytb"]
+[ext_resource type="Texture2D" uid="uid://cyy00wwbiwkdb" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00082.png" id="83_bp0jl"]
+[ext_resource type="Texture2D" uid="uid://dhnmns7s213jg" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00083.png" id="84_6qjl0"]
+[ext_resource type="Texture2D" uid="uid://c0v4dv3x5tr0a" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00084.png" id="85_ytx1e"]
+[ext_resource type="Texture2D" uid="uid://bjrm3tcuputwk" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00085.png" id="86_21yiv"]
+[ext_resource type="Texture2D" uid="uid://bcdk6xmxavmn" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00086.png" id="87_25su3"]
+[ext_resource type="Texture2D" uid="uid://b3i6tgef0616c" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00087.png" id="88_7e5ie"]
+[ext_resource type="Texture2D" uid="uid://njxi0xxm1q7a" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00088.png" id="89_6urqe"]
+[ext_resource type="Texture2D" uid="uid://c6vt7b12fbl0k" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00089.png" id="90_uod7w"]
+[ext_resource type="Texture2D" uid="uid://b7sb2x687wsa1" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00090.png" id="91_y305k"]
+[ext_resource type="Texture2D" uid="uid://dh33xm8r7ejr" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00091.png" id="92_hmx7n"]
+[ext_resource type="Texture2D" uid="uid://cmxdu7kguwigf" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00092.png" id="93_cwm2a"]
+[ext_resource type="Texture2D" uid="uid://c7txk3cmsvgmu" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00093.png" id="94_dh8v8"]
+[ext_resource type="Texture2D" uid="uid://o7sdri88b2y1" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00094.png" id="95_ee6a7"]
+[ext_resource type="Texture2D" uid="uid://wq28fohb3bf1" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00095.png" id="96_tud07"]
+[ext_resource type="Texture2D" uid="uid://dpj8gps1v6ka3" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00096.png" id="97_jfmvd"]
+[ext_resource type="Texture2D" uid="uid://c60rdbxqo6nmc" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00097.png" id="98_l3y5e"]
+[ext_resource type="Texture2D" uid="uid://bsuigrje8odyf" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00098.png" id="99_yy703"]
+[ext_resource type="Texture2D" uid="uid://b4mw4b2mnmypq" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00099.png" id="100_qa6b2"]
+[ext_resource type="Texture2D" uid="uid://bjhedqb1s07eo" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00100.png" id="101_7oocr"]
+[ext_resource type="Texture2D" uid="uid://cvhejgklj6130" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00101.png" id="102_wqn04"]
+[ext_resource type="Texture2D" uid="uid://c54dijjg53c1d" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00102.png" id="103_4xa58"]
+[ext_resource type="Texture2D" uid="uid://c3muhhs42akhe" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00103.png" id="104_rmb8x"]
+[ext_resource type="Texture2D" uid="uid://c4qpqbhdf0k13" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00104.png" id="105_18on0"]
+[ext_resource type="Texture2D" uid="uid://dx11pg57lgntn" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00105.png" id="106_kos8j"]
+[ext_resource type="Texture2D" uid="uid://dthkaeocklg" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00106.png" id="107_rvr5e"]
+[ext_resource type="Texture2D" uid="uid://cfn7srwvuetwm" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00107.png" id="108_8xhfh"]
+[ext_resource type="Texture2D" uid="uid://cubjjambw1c40" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00108.png" id="109_pyvxd"]
+[ext_resource type="Texture2D" uid="uid://dw68oqkooudfp" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00109.png" id="110_mgbf4"]
+[ext_resource type="Texture2D" uid="uid://cj3yo58fd3m6w" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00110.png" id="111_fcold"]
+[ext_resource type="Texture2D" uid="uid://baigcefodh7hd" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00111.png" id="112_fs6ff"]
+[ext_resource type="Texture2D" uid="uid://lsohc4tbxjo6" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00112.png" id="113_wyyfu"]
+[ext_resource type="Texture2D" uid="uid://icrocqlw6r6c" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00113.png" id="114_v6vl4"]
+[ext_resource type="Texture2D" uid="uid://pi4fl4lgq8m6" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00114.png" id="115_5jymu"]
+[ext_resource type="Texture2D" uid="uid://caly6o8c0poki" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00115.png" id="116_mwq1s"]
+[ext_resource type="Texture2D" uid="uid://l3us4qi35fu5" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00116.png" id="117_a26jx"]
+[ext_resource type="Texture2D" uid="uid://devvvlyc72lty" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00117.png" id="118_rj82r"]
+[ext_resource type="Texture2D" uid="uid://b7ueb2wstfyp5" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00118.png" id="119_wn4s6"]
+[ext_resource type="Texture2D" uid="uid://d2sdc5hm868i6" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00119.png" id="120_ot4rx"]
+[ext_resource type="Texture2D" uid="uid://c4g5m1yimrark" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00120.png" id="121_jc7fc"]
+[ext_resource type="Texture2D" uid="uid://dyy3h8m4necpn" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00121.png" id="122_lg8yr"]
+[ext_resource type="Texture2D" uid="uid://75niknfgcqi1" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00122.png" id="123_ljovy"]
+[ext_resource type="Texture2D" uid="uid://cfqtdrqao3vex" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00123.png" id="124_53hoa"]
+[ext_resource type="Texture2D" uid="uid://pg1sextcpa0y" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00124.png" id="125_wjgos"]
+[ext_resource type="Texture2D" uid="uid://dysa7qjyqb725" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00125.png" id="126_4rb8e"]
+[ext_resource type="Texture2D" uid="uid://di3k8iol8i500" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00126.png" id="127_a1j38"]
+[ext_resource type="Texture2D" uid="uid://elijwjp0nh4y" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00127.png" id="128_itn7k"]
+[ext_resource type="Texture2D" uid="uid://bt1k8uh8e4d1p" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00128.png" id="129_1owli"]
+[ext_resource type="Texture2D" uid="uid://g3tm83odq7yc" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00129.png" id="130_napkv"]
+[ext_resource type="Texture2D" uid="uid://6xmojh7sdhb8" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00130.png" id="131_hft2c"]
+[ext_resource type="Texture2D" uid="uid://3k8v3uwe3t41" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00131.png" id="132_05kqj"]
+[ext_resource type="Texture2D" uid="uid://co2lijfu1txbv" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00132.png" id="133_0lint"]
+[ext_resource type="Texture2D" uid="uid://c7ktfjkkbjfkg" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00133.png" id="134_eock4"]
+[ext_resource type="Texture2D" uid="uid://d0pjepkyewli" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00134.png" id="135_x1rvj"]
+[ext_resource type="Texture2D" uid="uid://diyijta78ahmu" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00135.png" id="136_0p57g"]
+[ext_resource type="Texture2D" uid="uid://cfkqkolrw838e" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00136.png" id="137_q6jsw"]
+[ext_resource type="Texture2D" uid="uid://b0svrvu7efcar" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00137.png" id="138_o7f3a"]
+[ext_resource type="Texture2D" uid="uid://cjbwgd4lf87lw" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00138.png" id="139_8lker"]
+[ext_resource type="Texture2D" uid="uid://d3sxq2pe2umwo" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00139.png" id="140_s0uae"]
+[ext_resource type="Texture2D" uid="uid://qf87cxiuhhvm" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00140.png" id="141_3mdf3"]
+[ext_resource type="Texture2D" uid="uid://d1yiffne7dyy4" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00141.png" id="142_mlmc5"]
+[ext_resource type="Texture2D" uid="uid://brgoks55fqsp3" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00142.png" id="143_4vpq7"]
+[ext_resource type="Texture2D" uid="uid://c7t74k0e3ms3e" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00143.png" id="144_g0cmt"]
+[ext_resource type="Texture2D" uid="uid://bvkmkmahotb83" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00144.png" id="145_rqf03"]
+[ext_resource type="Texture2D" uid="uid://8b5mpnchkw00" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00145.png" id="146_jtdlq"]
+[ext_resource type="Texture2D" uid="uid://cuvrhdjvlntni" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00146.png" id="147_gxrd3"]
+[ext_resource type="Texture2D" uid="uid://5o4f2gn6q6rt" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00147.png" id="148_ee6yu"]
+[ext_resource type="Texture2D" uid="uid://bj5lu0e7ly7wh" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00148.png" id="149_ptax8"]
+[ext_resource type="Texture2D" uid="uid://bt5nnfhm82kcw" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00149.png" id="150_vksru"]
+[ext_resource type="Texture2D" uid="uid://cirn8bm6ynabs" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00150.png" id="151_s77ah"]
+[ext_resource type="Texture2D" uid="uid://byynv73lkkydw" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00151.png" id="152_8k6qx"]
+[ext_resource type="Texture2D" uid="uid://cislx8ue5pmse" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00152.png" id="153_5ayuq"]
+[ext_resource type="Texture2D" uid="uid://ehr1jhqn7mr" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00153.png" id="154_w7meo"]
+[ext_resource type="Texture2D" uid="uid://d33hckxs4i4uv" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00154.png" id="155_vlcuk"]
+[ext_resource type="Texture2D" uid="uid://08xigitp3jx1" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00155.png" id="156_jvd1b"]
+[ext_resource type="Texture2D" uid="uid://jdk7w14wer4i" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00156.png" id="157_alueo"]
+[ext_resource type="Texture2D" uid="uid://b8sfo65iok6lw" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00157.png" id="158_yv6yg"]
+[ext_resource type="Texture2D" uid="uid://xewxdjy3jcua" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00158.png" id="159_35e13"]
+[ext_resource type="Texture2D" uid="uid://pags4vu32boq" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00159.png" id="160_uxocq"]
+[ext_resource type="Texture2D" uid="uid://1x47sepyffxg" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00160.png" id="161_pf8wa"]
+[ext_resource type="Texture2D" uid="uid://do6bg1nobon61" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00161.png" id="162_a2lrm"]
+[ext_resource type="Texture2D" uid="uid://b0rl8h1r1doeq" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00162.png" id="163_dbn5l"]
+[ext_resource type="Texture2D" uid="uid://o27jk2yjwfpf" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00163.png" id="164_de13h"]
+[ext_resource type="Texture2D" uid="uid://bs5p7kp3u5b8u" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00164.png" id="165_8eruu"]
+[ext_resource type="Texture2D" uid="uid://bbwwooheutd8k" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00165.png" id="166_qs0x3"]
+[ext_resource type="Texture2D" uid="uid://7dvg2wyvfb3l" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00166.png" id="167_6u1gv"]
+[ext_resource type="Texture2D" uid="uid://6p7u8mgn8wmd" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00167.png" id="168_en83b"]
+[ext_resource type="Texture2D" uid="uid://cl3hxbveqdmr8" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00168.png" id="169_mhse4"]
+[ext_resource type="Texture2D" uid="uid://cpaeatoc1wmlb" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00169.png" id="170_wokt4"]
+[ext_resource type="Texture2D" uid="uid://xau0idyg37f6" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00170.png" id="171_cvtru"]
+[ext_resource type="Texture2D" uid="uid://b6x6o4xkm048c" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00171.png" id="172_ystkf"]
+[ext_resource type="Texture2D" uid="uid://b7047icw3p56x" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00172.png" id="173_08623"]
+[ext_resource type="Texture2D" uid="uid://tpvoetuf8a8n" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00173.png" id="174_ll15w"]
+[ext_resource type="Texture2D" uid="uid://dy17nij7rg2rf" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00174.png" id="175_f87u2"]
+[ext_resource type="Texture2D" uid="uid://bayb5n8txjrop" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00175.png" id="176_k8v2p"]
+[ext_resource type="Texture2D" uid="uid://ddn0hcajqj8fn" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00176.png" id="177_6s6mn"]
+[ext_resource type="Texture2D" uid="uid://8riofb6jtq2" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00177.png" id="178_fyynn"]
+[ext_resource type="Texture2D" uid="uid://nofdkvmk33hk" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00178.png" id="179_c1sir"]
+[ext_resource type="Texture2D" uid="uid://c744xykm3pxsd" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00179.png" id="180_em8hq"]
+[ext_resource type="Texture2D" uid="uid://b6xlcmqno48le" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00180.png" id="181_245hx"]
+[ext_resource type="Texture2D" uid="uid://dy6oi2jbdi8ka" path="res://addons/icon_animation/assets/50youtube_guruguru/50youtube_guruguru_rend_00181.png" id="182_negcc"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_hle0l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_37gxo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_mye68")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_tcx37")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_tk4si")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_x1j2h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_ndwbb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_j7yaj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_00ro5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_q6d4f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_tqoep")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_rscqy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_s4usv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_wsr3y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_h7xiu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_4mhms")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_gphr8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_oouji")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_j0exv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_bn05a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_asc7d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_lpnbk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_dapcy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_sdcxu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_yvpkr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_d2ytu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_xykf7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_ixk6e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_dm3j8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_pyp5a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_n43es")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_10qnr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_5fd8i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_07vec")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_3rapt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_foe53")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_00317")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_0r6l0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_of6qo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_vyx3x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_o01vm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_6gcqs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_o2hm8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_k21f8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_5be4x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_tesr8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_8ysym")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_4qblk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_1k5r4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_nic0r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_o8lu5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_ht30l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_g2es5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_sufyr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_i68rc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_rls6r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_kella")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_8t347")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_fyavc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_xehgn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_moqlh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_moia6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_dd3jj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_1midx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_4nkp7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_asy55")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_a2js4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_6gen5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_rus7w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_ha6hv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_v51jw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_iw1hw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_5worl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_ikalg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_p8ldl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_c4l7d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_8jo7y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_yxcap")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_64qp7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_e5iym")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_57808")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_e8ytb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_bp0jl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_6qjl0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_ytx1e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_21yiv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_25su3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_7e5ie")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_6urqe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_uod7w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_y305k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_hmx7n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_cwm2a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_dh8v8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("95_ee6a7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("96_tud07")
+}, {
+"duration": 1.0,
+"texture": ExtResource("97_jfmvd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("98_l3y5e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("99_yy703")
+}, {
+"duration": 1.0,
+"texture": ExtResource("100_qa6b2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("101_7oocr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("102_wqn04")
+}, {
+"duration": 1.0,
+"texture": ExtResource("103_4xa58")
+}, {
+"duration": 1.0,
+"texture": ExtResource("104_rmb8x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("105_18on0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("106_kos8j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("107_rvr5e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("108_8xhfh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("109_pyvxd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("110_mgbf4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("111_fcold")
+}, {
+"duration": 1.0,
+"texture": ExtResource("112_fs6ff")
+}, {
+"duration": 1.0,
+"texture": ExtResource("113_wyyfu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("114_v6vl4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("115_5jymu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("116_mwq1s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("117_a26jx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("118_rj82r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("119_wn4s6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("120_ot4rx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("121_jc7fc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("122_lg8yr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("123_ljovy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("124_53hoa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("125_wjgos")
+}, {
+"duration": 1.0,
+"texture": ExtResource("126_4rb8e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("127_a1j38")
+}, {
+"duration": 1.0,
+"texture": ExtResource("128_itn7k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("129_1owli")
+}, {
+"duration": 1.0,
+"texture": ExtResource("130_napkv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("131_hft2c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("132_05kqj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("133_0lint")
+}, {
+"duration": 1.0,
+"texture": ExtResource("134_eock4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("135_x1rvj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("136_0p57g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("137_q6jsw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("138_o7f3a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("139_8lker")
+}, {
+"duration": 1.0,
+"texture": ExtResource("140_s0uae")
+}, {
+"duration": 1.0,
+"texture": ExtResource("141_3mdf3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("142_mlmc5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("143_4vpq7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("144_g0cmt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("145_rqf03")
+}, {
+"duration": 1.0,
+"texture": ExtResource("146_jtdlq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("147_gxrd3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("148_ee6yu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("149_ptax8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("150_vksru")
+}, {
+"duration": 1.0,
+"texture": ExtResource("151_s77ah")
+}, {
+"duration": 1.0,
+"texture": ExtResource("152_8k6qx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("153_5ayuq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("154_w7meo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("155_vlcuk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("156_jvd1b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("157_alueo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("158_yv6yg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("159_35e13")
+}, {
+"duration": 1.0,
+"texture": ExtResource("160_uxocq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("161_pf8wa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("162_a2lrm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("163_dbn5l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("164_de13h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("165_8eruu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("166_qs0x3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("167_6u1gv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("168_en83b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("169_mhse4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("170_wokt4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("171_cvtru")
+}, {
+"duration": 1.0,
+"texture": ExtResource("172_ystkf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("173_08623")
+}, {
+"duration": 1.0,
+"texture": ExtResource("174_ll15w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("175_f87u2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("176_k8v2p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("177_6s6mn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("178_fyynn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("179_c1sir")
+}, {
+"duration": 1.0,
+"texture": ExtResource("180_em8hq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("181_245hx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("182_negcc")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]

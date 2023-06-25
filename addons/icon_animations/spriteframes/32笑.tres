@@ -1,0 +1,322 @@
+[gd_resource type="SpriteFrames" load_steps=79 format=3 uid="uid://clih0crxfr3kw"]
+
+[ext_resource type="Texture2D" uid="uid://c4444uqgub3cj" path="res://addons/icon_animation/assets/32笑/32笑_rend_00000.png" id="1_gipmp"]
+[ext_resource type="Texture2D" uid="uid://b4gk0oxa7ddbe" path="res://addons/icon_animation/assets/32笑/32笑_rend_00001.png" id="2_577tu"]
+[ext_resource type="Texture2D" uid="uid://d2fa178glit4x" path="res://addons/icon_animation/assets/32笑/32笑_rend_00002.png" id="3_d0lq6"]
+[ext_resource type="Texture2D" uid="uid://bc7smouu2630c" path="res://addons/icon_animation/assets/32笑/32笑_rend_00003.png" id="4_nwv5s"]
+[ext_resource type="Texture2D" uid="uid://e5bqgtikggnb" path="res://addons/icon_animation/assets/32笑/32笑_rend_00004.png" id="5_e4jm7"]
+[ext_resource type="Texture2D" uid="uid://ctjp1c3u7xo5f" path="res://addons/icon_animation/assets/32笑/32笑_rend_00005.png" id="6_ms86r"]
+[ext_resource type="Texture2D" uid="uid://b1xqqusmdm0lg" path="res://addons/icon_animation/assets/32笑/32笑_rend_00006.png" id="7_hfktq"]
+[ext_resource type="Texture2D" uid="uid://civ58uxl3si5m" path="res://addons/icon_animation/assets/32笑/32笑_rend_00007.png" id="8_bwkfs"]
+[ext_resource type="Texture2D" uid="uid://dj5e4lmgtfeg8" path="res://addons/icon_animation/assets/32笑/32笑_rend_00008.png" id="9_a0rcw"]
+[ext_resource type="Texture2D" uid="uid://cj3bq1awiqifb" path="res://addons/icon_animation/assets/32笑/32笑_rend_00009.png" id="10_wley6"]
+[ext_resource type="Texture2D" uid="uid://bx1ebrugqkvgm" path="res://addons/icon_animation/assets/32笑/32笑_rend_00010.png" id="11_7ylnw"]
+[ext_resource type="Texture2D" uid="uid://bngylihn0pa5j" path="res://addons/icon_animation/assets/32笑/32笑_rend_00011.png" id="12_22quo"]
+[ext_resource type="Texture2D" uid="uid://gkoxme0rl3nj" path="res://addons/icon_animation/assets/32笑/32笑_rend_00012.png" id="13_a12e4"]
+[ext_resource type="Texture2D" uid="uid://c874d36qe3th2" path="res://addons/icon_animation/assets/32笑/32笑_rend_00013.png" id="14_ne7si"]
+[ext_resource type="Texture2D" uid="uid://bhin67o0ocop0" path="res://addons/icon_animation/assets/32笑/32笑_rend_00014.png" id="15_b6d7m"]
+[ext_resource type="Texture2D" uid="uid://bn3ancbvn6nxc" path="res://addons/icon_animation/assets/32笑/32笑_rend_00015.png" id="16_lw7cp"]
+[ext_resource type="Texture2D" uid="uid://dervhfmo7yd3p" path="res://addons/icon_animation/assets/32笑/32笑_rend_00016.png" id="17_b578d"]
+[ext_resource type="Texture2D" uid="uid://bppg4qnw3pxnu" path="res://addons/icon_animation/assets/32笑/32笑_rend_00017.png" id="18_hs3m0"]
+[ext_resource type="Texture2D" uid="uid://b55sle5u7b5id" path="res://addons/icon_animation/assets/32笑/32笑_rend_00018.png" id="19_7cqsb"]
+[ext_resource type="Texture2D" uid="uid://dwmq003mh618t" path="res://addons/icon_animation/assets/32笑/32笑_rend_00019.png" id="20_xvcak"]
+[ext_resource type="Texture2D" uid="uid://ba8g7bkc0fmgp" path="res://addons/icon_animation/assets/32笑/32笑_rend_00020.png" id="21_0uctj"]
+[ext_resource type="Texture2D" uid="uid://c8vv1gaiis775" path="res://addons/icon_animation/assets/32笑/32笑_rend_00021.png" id="22_ivr2u"]
+[ext_resource type="Texture2D" uid="uid://4ygmyou3ykxi" path="res://addons/icon_animation/assets/32笑/32笑_rend_00022.png" id="23_fdhoc"]
+[ext_resource type="Texture2D" uid="uid://dtxrkmmqbu4mr" path="res://addons/icon_animation/assets/32笑/32笑_rend_00023.png" id="24_h2fj6"]
+[ext_resource type="Texture2D" uid="uid://crvt1fuey1nu3" path="res://addons/icon_animation/assets/32笑/32笑_rend_00024.png" id="25_u858r"]
+[ext_resource type="Texture2D" uid="uid://bm7u27lxmkb75" path="res://addons/icon_animation/assets/32笑/32笑_rend_00025.png" id="26_40pfe"]
+[ext_resource type="Texture2D" uid="uid://bixghn23h258q" path="res://addons/icon_animation/assets/32笑/32笑_rend_00026.png" id="27_6kvfr"]
+[ext_resource type="Texture2D" uid="uid://dciaxatwvyvxh" path="res://addons/icon_animation/assets/32笑/32笑_rend_00027.png" id="28_pc2qn"]
+[ext_resource type="Texture2D" uid="uid://bgugs4cp81eak" path="res://addons/icon_animation/assets/32笑/32笑_rend_00028.png" id="29_dhc0s"]
+[ext_resource type="Texture2D" uid="uid://j12f4kxhworh" path="res://addons/icon_animation/assets/32笑/32笑_rend_00029.png" id="30_bkrpr"]
+[ext_resource type="Texture2D" uid="uid://boc80olxm7gur" path="res://addons/icon_animation/assets/32笑/32笑_rend_00030.png" id="31_3k727"]
+[ext_resource type="Texture2D" uid="uid://buwa3tnah42tp" path="res://addons/icon_animation/assets/32笑/32笑_rend_00031.png" id="32_pulm8"]
+[ext_resource type="Texture2D" uid="uid://g7nuhog0uvt8" path="res://addons/icon_animation/assets/32笑/32笑_rend_00032.png" id="33_qxmfb"]
+[ext_resource type="Texture2D" uid="uid://b5673aebtmiaw" path="res://addons/icon_animation/assets/32笑/32笑_rend_00033.png" id="34_dqr6g"]
+[ext_resource type="Texture2D" uid="uid://6s6m7yl2c5vg" path="res://addons/icon_animation/assets/32笑/32笑_rend_00034.png" id="35_wmk2q"]
+[ext_resource type="Texture2D" uid="uid://c5ltrflo7pa7n" path="res://addons/icon_animation/assets/32笑/32笑_rend_00035.png" id="36_pm0vg"]
+[ext_resource type="Texture2D" uid="uid://cceajabraa43x" path="res://addons/icon_animation/assets/32笑/32笑_rend_00036.png" id="37_phd74"]
+[ext_resource type="Texture2D" uid="uid://drvt4avovuotw" path="res://addons/icon_animation/assets/32笑/32笑_rend_00037.png" id="38_nigh1"]
+[ext_resource type="Texture2D" uid="uid://b2k14p3nbp7ud" path="res://addons/icon_animation/assets/32笑/32笑_rend_00038.png" id="39_k328u"]
+[ext_resource type="Texture2D" uid="uid://c20kvlqfnioso" path="res://addons/icon_animation/assets/32笑/32笑_rend_00039.png" id="40_haysy"]
+[ext_resource type="Texture2D" uid="uid://v8gppxpqjdmg" path="res://addons/icon_animation/assets/32笑/32笑_rend_00040.png" id="41_xh7ej"]
+[ext_resource type="Texture2D" uid="uid://chae6sinc2hlh" path="res://addons/icon_animation/assets/32笑/32笑_rend_00041.png" id="42_rw31n"]
+[ext_resource type="Texture2D" uid="uid://cuesjcmci3uvi" path="res://addons/icon_animation/assets/32笑/32笑_rend_00042.png" id="43_tg51h"]
+[ext_resource type="Texture2D" uid="uid://dqeno8i8r50oj" path="res://addons/icon_animation/assets/32笑/32笑_rend_00043.png" id="44_cicho"]
+[ext_resource type="Texture2D" uid="uid://n3xgghgofjyt" path="res://addons/icon_animation/assets/32笑/32笑_rend_00044.png" id="45_1rs54"]
+[ext_resource type="Texture2D" uid="uid://bk3bp360i4ubk" path="res://addons/icon_animation/assets/32笑/32笑_rend_00045.png" id="46_fbet6"]
+[ext_resource type="Texture2D" uid="uid://c8cv06g6dm4w6" path="res://addons/icon_animation/assets/32笑/32笑_rend_00046.png" id="47_aye5t"]
+[ext_resource type="Texture2D" uid="uid://d1dic6oqunfep" path="res://addons/icon_animation/assets/32笑/32笑_rend_00047.png" id="48_ks1ep"]
+[ext_resource type="Texture2D" uid="uid://rq882k1i1w00" path="res://addons/icon_animation/assets/32笑/32笑_rend_00048.png" id="49_2wlac"]
+[ext_resource type="Texture2D" uid="uid://devt2fvksmrbj" path="res://addons/icon_animation/assets/32笑/32笑_rend_00049.png" id="50_mwjsu"]
+[ext_resource type="Texture2D" uid="uid://b166ti8nncos1" path="res://addons/icon_animation/assets/32笑/32笑_rend_00050.png" id="51_j6t27"]
+[ext_resource type="Texture2D" uid="uid://tjlwqrhpwoat" path="res://addons/icon_animation/assets/32笑/32笑_rend_00051.png" id="52_m4onj"]
+[ext_resource type="Texture2D" uid="uid://brt4byhocy5x1" path="res://addons/icon_animation/assets/32笑/32笑_rend_00052.png" id="53_wcvxj"]
+[ext_resource type="Texture2D" uid="uid://bj8m5kl6f6agf" path="res://addons/icon_animation/assets/32笑/32笑_rend_00053.png" id="54_d3i00"]
+[ext_resource type="Texture2D" uid="uid://bv7rafkj7k0tu" path="res://addons/icon_animation/assets/32笑/32笑_rend_00054.png" id="55_xyw6y"]
+[ext_resource type="Texture2D" uid="uid://ljcesvpgrcth" path="res://addons/icon_animation/assets/32笑/32笑_rend_00055.png" id="56_oyel7"]
+[ext_resource type="Texture2D" uid="uid://capd04o42w253" path="res://addons/icon_animation/assets/32笑/32笑_rend_00056.png" id="57_yr6ep"]
+[ext_resource type="Texture2D" uid="uid://cj7hf6xqey1s" path="res://addons/icon_animation/assets/32笑/32笑_rend_00057.png" id="58_pd7j3"]
+[ext_resource type="Texture2D" uid="uid://c1k6nctm870lb" path="res://addons/icon_animation/assets/32笑/32笑_rend_00058.png" id="59_uxl5c"]
+[ext_resource type="Texture2D" uid="uid://gdgkqnl8d4ht" path="res://addons/icon_animation/assets/32笑/32笑_rend_00059.png" id="60_2n8gv"]
+[ext_resource type="Texture2D" uid="uid://2hp67cms0y6y" path="res://addons/icon_animation/assets/32笑/32笑_rend_00060.png" id="61_i2ugw"]
+[ext_resource type="Texture2D" uid="uid://1y0mx4habc65" path="res://addons/icon_animation/assets/32笑/32笑_rend_00061.png" id="62_5q3vq"]
+[ext_resource type="Texture2D" uid="uid://q3vdarcvecqk" path="res://addons/icon_animation/assets/32笑/32笑_rend_00062.png" id="63_n7yl6"]
+[ext_resource type="Texture2D" uid="uid://qe3blcq2k0an" path="res://addons/icon_animation/assets/32笑/32笑_rend_00063.png" id="64_inegh"]
+[ext_resource type="Texture2D" uid="uid://ydh1r50yfafb" path="res://addons/icon_animation/assets/32笑/32笑_rend_00064.png" id="65_fejuk"]
+[ext_resource type="Texture2D" uid="uid://fsw5cjtjggt7" path="res://addons/icon_animation/assets/32笑/32笑_rend_00065.png" id="66_rjn66"]
+[ext_resource type="Texture2D" uid="uid://bx2h6ia3mfte5" path="res://addons/icon_animation/assets/32笑/32笑_rend_00066.png" id="67_xrxlm"]
+[ext_resource type="Texture2D" uid="uid://ce08rcv0rhwoc" path="res://addons/icon_animation/assets/32笑/32笑_rend_00067.png" id="68_xemem"]
+[ext_resource type="Texture2D" uid="uid://7gh8i0mscx5" path="res://addons/icon_animation/assets/32笑/32笑_rend_00068.png" id="69_k6gvs"]
+[ext_resource type="Texture2D" uid="uid://b64hvdofxdrvq" path="res://addons/icon_animation/assets/32笑/32笑_rend_00069.png" id="70_0fgul"]
+[ext_resource type="Texture2D" uid="uid://bus7tvupyxiyr" path="res://addons/icon_animation/assets/32笑/32笑_rend_00070.png" id="71_3psec"]
+[ext_resource type="Texture2D" uid="uid://8pugwaxdf4u5" path="res://addons/icon_animation/assets/32笑/32笑_rend_00071.png" id="72_echxe"]
+[ext_resource type="Texture2D" uid="uid://cb2sws0qiaohe" path="res://addons/icon_animation/assets/32笑/32笑_rend_00072.png" id="73_yet4e"]
+[ext_resource type="Texture2D" uid="uid://dyjawn6duwbvw" path="res://addons/icon_animation/assets/32笑/32笑_rend_00073.png" id="74_erftg"]
+[ext_resource type="Texture2D" uid="uid://dpwn7ujbbxn2t" path="res://addons/icon_animation/assets/32笑/32笑_rend_00074.png" id="75_xdccq"]
+[ext_resource type="Texture2D" uid="uid://dpr214f7y4wv2" path="res://addons/icon_animation/assets/32笑/32笑_rend_00075.png" id="76_d5ybk"]
+[ext_resource type="Texture2D" uid="uid://cg6xnth337esf" path="res://addons/icon_animation/assets/32笑/32笑_rend_00076.png" id="77_a1rte"]
+[ext_resource type="Texture2D" uid="uid://cs0r4woj2ue5a" path="res://addons/icon_animation/assets/32笑/32笑_rend_00077.png" id="78_qwx6w"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_gipmp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_577tu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_d0lq6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_nwv5s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_e4jm7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_ms86r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_hfktq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_bwkfs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_a0rcw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_wley6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_7ylnw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_22quo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_a12e4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_ne7si")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_b6d7m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_lw7cp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_b578d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_hs3m0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_7cqsb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_xvcak")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_0uctj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_ivr2u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_fdhoc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_h2fj6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_u858r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_40pfe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_6kvfr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_pc2qn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_dhc0s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_bkrpr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_3k727")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_pulm8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_qxmfb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_dqr6g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_wmk2q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_pm0vg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_phd74")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_nigh1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_k328u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_haysy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_xh7ej")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_rw31n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_tg51h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_cicho")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_1rs54")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_fbet6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_aye5t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_ks1ep")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_2wlac")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_mwjsu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_j6t27")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_m4onj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_wcvxj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_d3i00")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_xyw6y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_oyel7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_yr6ep")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_pd7j3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_uxl5c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_2n8gv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_i2ugw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_5q3vq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_n7yl6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_inegh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_fejuk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_rjn66")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_xrxlm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_xemem")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_k6gvs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_0fgul")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_3psec")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_echxe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_yet4e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_erftg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_xdccq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_d5ybk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_a1rte")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_qwx6w")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]

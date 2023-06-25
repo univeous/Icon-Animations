@@ -1,0 +1,490 @@
+[gd_resource type="SpriteFrames" load_steps=121 format=3 uid="uid://cbmhdrj2um4i8"]
+
+[ext_resource type="Texture2D" uid="uid://ceqw6iga2yva0" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00000.png" id="1_dicse"]
+[ext_resource type="Texture2D" uid="uid://ph4y5xhpd0na" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00001.png" id="2_cghwh"]
+[ext_resource type="Texture2D" uid="uid://b75mcgmviqqdf" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00002.png" id="3_m2r5s"]
+[ext_resource type="Texture2D" uid="uid://boeeridkabyb5" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00003.png" id="4_bexgr"]
+[ext_resource type="Texture2D" uid="uid://blmcypm00uk37" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00004.png" id="5_euyov"]
+[ext_resource type="Texture2D" uid="uid://t0ljucmids2x" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00005.png" id="6_tqbol"]
+[ext_resource type="Texture2D" uid="uid://c016jqxr6sbhk" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00006.png" id="7_uvwl4"]
+[ext_resource type="Texture2D" uid="uid://bq7hx415wgrso" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00007.png" id="8_oqnuc"]
+[ext_resource type="Texture2D" uid="uid://dvvgf1ly80nq1" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00008.png" id="9_qryb5"]
+[ext_resource type="Texture2D" uid="uid://bf3p0jjk2cygr" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00009.png" id="10_rr3gc"]
+[ext_resource type="Texture2D" uid="uid://c6a3dcmlwuhs3" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00010.png" id="11_nn2gk"]
+[ext_resource type="Texture2D" uid="uid://barwp74q11sxx" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00011.png" id="12_pchiu"]
+[ext_resource type="Texture2D" uid="uid://c3f4ocfs2qjw3" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00012.png" id="13_4be8u"]
+[ext_resource type="Texture2D" uid="uid://de6nqnl44tji7" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00013.png" id="14_aatbu"]
+[ext_resource type="Texture2D" uid="uid://bj861y5am77uc" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00014.png" id="15_admca"]
+[ext_resource type="Texture2D" uid="uid://burmaqob4sbpv" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00015.png" id="16_vjk07"]
+[ext_resource type="Texture2D" uid="uid://dcvila8wga00w" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00016.png" id="17_clfyy"]
+[ext_resource type="Texture2D" uid="uid://dvtqujxm0ce0u" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00017.png" id="18_woc7t"]
+[ext_resource type="Texture2D" uid="uid://chwskqwrscr5y" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00018.png" id="19_ruqw4"]
+[ext_resource type="Texture2D" uid="uid://dn8gvk3ro16n" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00019.png" id="20_k4dvh"]
+[ext_resource type="Texture2D" uid="uid://con67rpwfva1" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00020.png" id="21_ywubx"]
+[ext_resource type="Texture2D" uid="uid://ddj4qk3teycw3" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00021.png" id="22_eukql"]
+[ext_resource type="Texture2D" uid="uid://d1af8ukklgrnm" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00022.png" id="23_5ajt3"]
+[ext_resource type="Texture2D" uid="uid://d1tqi1jv3d5jj" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00023.png" id="24_464jb"]
+[ext_resource type="Texture2D" uid="uid://emt0ahlqfif6" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00024.png" id="25_d3j6f"]
+[ext_resource type="Texture2D" uid="uid://b623i7ilfmdx3" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00025.png" id="26_ltwnq"]
+[ext_resource type="Texture2D" uid="uid://b26p57a7lwomq" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00026.png" id="27_d3kwb"]
+[ext_resource type="Texture2D" uid="uid://cbwkeq3ssr0d7" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00027.png" id="28_jw2jm"]
+[ext_resource type="Texture2D" uid="uid://buf2tn4qr1lqx" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00028.png" id="29_uvjkm"]
+[ext_resource type="Texture2D" uid="uid://witgwau2gfl0" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00029.png" id="30_6kdy5"]
+[ext_resource type="Texture2D" uid="uid://cbb1ppao7hgga" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00030.png" id="31_yq4aw"]
+[ext_resource type="Texture2D" uid="uid://bcijticxetgla" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00031.png" id="32_d1q1p"]
+[ext_resource type="Texture2D" uid="uid://dfgit1xvcedgd" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00032.png" id="33_uccg4"]
+[ext_resource type="Texture2D" uid="uid://b04s8nnlseo37" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00033.png" id="34_20jv3"]
+[ext_resource type="Texture2D" uid="uid://dl7okc7sma7ff" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00034.png" id="35_yyegq"]
+[ext_resource type="Texture2D" uid="uid://dqx0eocxabifj" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00035.png" id="36_mg5ya"]
+[ext_resource type="Texture2D" uid="uid://moracydsuw2a" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00036.png" id="37_fkw34"]
+[ext_resource type="Texture2D" uid="uid://dba3f70fav4rm" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00037.png" id="38_bmu5s"]
+[ext_resource type="Texture2D" uid="uid://cihujhwhnxxoh" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00038.png" id="39_pvq11"]
+[ext_resource type="Texture2D" uid="uid://cu3s13dfpolxl" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00039.png" id="40_hfagd"]
+[ext_resource type="Texture2D" uid="uid://boibqkk7khad3" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00040.png" id="41_mow0i"]
+[ext_resource type="Texture2D" uid="uid://cndifab5qkwcr" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00041.png" id="42_q4bar"]
+[ext_resource type="Texture2D" uid="uid://y1t6vx6xu20k" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00042.png" id="43_jw1xn"]
+[ext_resource type="Texture2D" uid="uid://b1jjf3h08076w" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00043.png" id="44_acw1i"]
+[ext_resource type="Texture2D" uid="uid://cl5yo5y1npdv8" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00044.png" id="45_g77ek"]
+[ext_resource type="Texture2D" uid="uid://lbtq7ff75xih" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00045.png" id="46_iwij5"]
+[ext_resource type="Texture2D" uid="uid://c0303u706d16p" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00046.png" id="47_hr3f6"]
+[ext_resource type="Texture2D" uid="uid://b0622mm8i2hms" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00047.png" id="48_0a72f"]
+[ext_resource type="Texture2D" uid="uid://cwstiharj1qdw" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00048.png" id="49_1dybo"]
+[ext_resource type="Texture2D" uid="uid://bnhusg62u5moh" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00049.png" id="50_jgfaw"]
+[ext_resource type="Texture2D" uid="uid://dr7t6thvq0ssy" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00050.png" id="51_p0rs5"]
+[ext_resource type="Texture2D" uid="uid://ltqrtddcqb3a" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00051.png" id="52_f47nj"]
+[ext_resource type="Texture2D" uid="uid://lq54c4sguwgi" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00052.png" id="53_iyut3"]
+[ext_resource type="Texture2D" uid="uid://b4ar7qgaiqknm" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00053.png" id="54_568k5"]
+[ext_resource type="Texture2D" uid="uid://dlw6vpxkp1u3k" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00054.png" id="55_4fhdg"]
+[ext_resource type="Texture2D" uid="uid://bwsf7ht1ry3lp" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00055.png" id="56_jdlnw"]
+[ext_resource type="Texture2D" uid="uid://d0xh8q5cpmrjt" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00056.png" id="57_46lxn"]
+[ext_resource type="Texture2D" uid="uid://c2ntva3m66iw7" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00057.png" id="58_o0mjr"]
+[ext_resource type="Texture2D" uid="uid://bd3nqifnetddk" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00058.png" id="59_eromi"]
+[ext_resource type="Texture2D" uid="uid://d032upcrdk7l5" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00059.png" id="60_r2cnu"]
+[ext_resource type="Texture2D" uid="uid://6sls2em4ergu" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00060.png" id="61_4pl8c"]
+[ext_resource type="Texture2D" uid="uid://by336epgalbfi" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00061.png" id="62_gh53i"]
+[ext_resource type="Texture2D" uid="uid://c2tl0fvo6kxhn" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00062.png" id="63_hhthj"]
+[ext_resource type="Texture2D" uid="uid://qervumbid1wk" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00063.png" id="64_xvknj"]
+[ext_resource type="Texture2D" uid="uid://dprpioekm3qfd" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00064.png" id="65_dwna3"]
+[ext_resource type="Texture2D" uid="uid://cm1vju18f263j" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00065.png" id="66_vckyi"]
+[ext_resource type="Texture2D" uid="uid://dj1u3wbnon4l4" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00066.png" id="67_iwprd"]
+[ext_resource type="Texture2D" uid="uid://sgb24i7srsou" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00067.png" id="68_kvig1"]
+[ext_resource type="Texture2D" uid="uid://kpsky345ty8t" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00068.png" id="69_pfxby"]
+[ext_resource type="Texture2D" uid="uid://b0m6r1oyqi88b" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00069.png" id="70_n6m8t"]
+[ext_resource type="Texture2D" uid="uid://diml0fqfoajbh" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00070.png" id="71_g478q"]
+[ext_resource type="Texture2D" uid="uid://cg0lh44p56btx" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00071.png" id="72_n68s2"]
+[ext_resource type="Texture2D" uid="uid://bvsq75v4ajyjv" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00072.png" id="73_nguvu"]
+[ext_resource type="Texture2D" uid="uid://rm8q6egd6242" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00073.png" id="74_sc27g"]
+[ext_resource type="Texture2D" uid="uid://cu2xan02de2tk" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00074.png" id="75_y50hd"]
+[ext_resource type="Texture2D" uid="uid://clrbi057sf18p" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00075.png" id="76_l0rft"]
+[ext_resource type="Texture2D" uid="uid://clf4fbubmcqlt" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00076.png" id="77_vojk3"]
+[ext_resource type="Texture2D" uid="uid://2y1q3sl15sck" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00077.png" id="78_am2jq"]
+[ext_resource type="Texture2D" uid="uid://ovywhumipf17" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00078.png" id="79_lilxf"]
+[ext_resource type="Texture2D" uid="uid://b1pv12htn1kvh" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00079.png" id="80_hp5vn"]
+[ext_resource type="Texture2D" uid="uid://dh0q1g71owsr0" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00080.png" id="81_vrdsk"]
+[ext_resource type="Texture2D" uid="uid://kiaqfqdyq0rs" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00081.png" id="82_f4s7p"]
+[ext_resource type="Texture2D" uid="uid://bb7dpmccha4qw" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00082.png" id="83_tfrus"]
+[ext_resource type="Texture2D" uid="uid://c1ya8mgwok8td" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00083.png" id="84_aepop"]
+[ext_resource type="Texture2D" uid="uid://bbeorggh6jrqf" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00084.png" id="85_s42gm"]
+[ext_resource type="Texture2D" uid="uid://w6ffbrjiec30" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00085.png" id="86_btxr2"]
+[ext_resource type="Texture2D" uid="uid://blyxneyqxvh75" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00086.png" id="87_4olwp"]
+[ext_resource type="Texture2D" uid="uid://bcdgtvo2fr8id" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00087.png" id="88_mm4bs"]
+[ext_resource type="Texture2D" uid="uid://8cgewwsriash" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00088.png" id="89_pwdmb"]
+[ext_resource type="Texture2D" uid="uid://beuhcteisbxrp" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00089.png" id="90_bra2g"]
+[ext_resource type="Texture2D" uid="uid://dw8j5mg1ucenb" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00090.png" id="91_wj8wj"]
+[ext_resource type="Texture2D" uid="uid://qx5pqgpmrhmj" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00091.png" id="92_7lc1i"]
+[ext_resource type="Texture2D" uid="uid://bnfwnxo5lf30h" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00092.png" id="93_8dyfe"]
+[ext_resource type="Texture2D" uid="uid://7wr5y6k75oll" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00093.png" id="94_lldsk"]
+[ext_resource type="Texture2D" uid="uid://s1nx64ltayoj" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00094.png" id="95_myu0k"]
+[ext_resource type="Texture2D" uid="uid://d36k3x5xls4rn" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00095.png" id="96_kvaxk"]
+[ext_resource type="Texture2D" uid="uid://ft8uxvbc30e4" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00096.png" id="97_8rpx2"]
+[ext_resource type="Texture2D" uid="uid://cpsmgtvngxkh2" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00097.png" id="98_2w0xw"]
+[ext_resource type="Texture2D" uid="uid://ysunyj882a7m" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00098.png" id="99_rr6kl"]
+[ext_resource type="Texture2D" uid="uid://b28ftq1dd5dlv" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00099.png" id="100_vx2ux"]
+[ext_resource type="Texture2D" uid="uid://dxvpxbvuld02d" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00100.png" id="101_4t5ys"]
+[ext_resource type="Texture2D" uid="uid://c23y8er8s2l5f" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00101.png" id="102_35oov"]
+[ext_resource type="Texture2D" uid="uid://dtdejgi5t33e6" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00102.png" id="103_do7sp"]
+[ext_resource type="Texture2D" uid="uid://p7jo46rmq11n" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00103.png" id="104_awbg8"]
+[ext_resource type="Texture2D" uid="uid://dixcb55jugxou" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00104.png" id="105_ynnh7"]
+[ext_resource type="Texture2D" uid="uid://cg1xn54d4xmrr" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00105.png" id="106_3t56k"]
+[ext_resource type="Texture2D" uid="uid://biox54b4ey0qr" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00106.png" id="107_qg8br"]
+[ext_resource type="Texture2D" uid="uid://b8l1h3r8lxr0m" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00107.png" id="108_xv82p"]
+[ext_resource type="Texture2D" uid="uid://1jmqukbp61ad" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00108.png" id="109_y5m4d"]
+[ext_resource type="Texture2D" uid="uid://sv265iq5iwjv" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00109.png" id="110_gluqo"]
+[ext_resource type="Texture2D" uid="uid://nrkea7mk7um0" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00110.png" id="111_bte8n"]
+[ext_resource type="Texture2D" uid="uid://bco5fkgaekxh1" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00111.png" id="112_jv5m7"]
+[ext_resource type="Texture2D" uid="uid://4lrmgpjxg8ej" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00112.png" id="113_r4bxu"]
+[ext_resource type="Texture2D" uid="uid://chygl1kcaberq" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00113.png" id="114_vatwy"]
+[ext_resource type="Texture2D" uid="uid://c724j0ybrcqou" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00114.png" id="115_qyiw8"]
+[ext_resource type="Texture2D" uid="uid://cgd1s2ou7fi8s" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00115.png" id="116_5gibw"]
+[ext_resource type="Texture2D" uid="uid://c8g663y3skqhe" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00116.png" id="117_0rutv"]
+[ext_resource type="Texture2D" uid="uid://bqvrfq7ai0m4y" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00117.png" id="118_s1gmy"]
+[ext_resource type="Texture2D" uid="uid://chkmbu0wjlart" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00118.png" id="119_43fgj"]
+[ext_resource type="Texture2D" uid="uid://bhhve31ohy7bg" path="res://addons/icon_animation/assets/26あせあせD_水滴/26_あせあせD_水滴_rend_00119.png" id="120_awx06"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_dicse")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_cghwh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_m2r5s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_bexgr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_euyov")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_tqbol")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_uvwl4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_oqnuc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_qryb5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_rr3gc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_nn2gk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_pchiu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_4be8u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_aatbu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_admca")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_vjk07")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_clfyy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_woc7t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_ruqw4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_k4dvh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_ywubx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_eukql")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_5ajt3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_464jb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_d3j6f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_ltwnq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_d3kwb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_jw2jm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_uvjkm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_6kdy5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_yq4aw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_d1q1p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_uccg4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_20jv3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_yyegq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_mg5ya")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_fkw34")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_bmu5s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_pvq11")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_hfagd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_mow0i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_q4bar")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_jw1xn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_acw1i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_g77ek")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_iwij5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_hr3f6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_0a72f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_1dybo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_jgfaw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_p0rs5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_f47nj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_iyut3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_568k5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_4fhdg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_jdlnw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_46lxn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_o0mjr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_eromi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_r2cnu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_4pl8c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_gh53i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_hhthj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_xvknj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_dwna3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_vckyi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_iwprd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_kvig1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_pfxby")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_n6m8t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_g478q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_n68s2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_nguvu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_sc27g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_y50hd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_l0rft")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_vojk3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_am2jq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_lilxf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_hp5vn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_vrdsk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_f4s7p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_tfrus")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_aepop")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_s42gm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_btxr2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_4olwp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_mm4bs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_pwdmb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_bra2g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_wj8wj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_7lc1i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_8dyfe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_lldsk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("95_myu0k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("96_kvaxk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("97_8rpx2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("98_2w0xw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("99_rr6kl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("100_vx2ux")
+}, {
+"duration": 1.0,
+"texture": ExtResource("101_4t5ys")
+}, {
+"duration": 1.0,
+"texture": ExtResource("102_35oov")
+}, {
+"duration": 1.0,
+"texture": ExtResource("103_do7sp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("104_awbg8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("105_ynnh7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("106_3t56k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("107_qg8br")
+}, {
+"duration": 1.0,
+"texture": ExtResource("108_xv82p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("109_y5m4d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("110_gluqo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("111_bte8n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("112_jv5m7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("113_r4bxu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("114_vatwy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("115_qyiw8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("116_5gibw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("117_0rutv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("118_s1gmy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("119_43fgj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("120_awx06")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]

@@ -1,0 +1,286 @@
+[gd_resource type="SpriteFrames" load_steps=70 format=3 uid="uid://o8prtjembrx7"]
+
+[ext_resource type="Texture2D" uid="uid://xj4aqlhqdhf5" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00000.png" id="1_r06bc"]
+[ext_resource type="Texture2D" uid="uid://be747pgj25wc6" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00001.png" id="2_5kvn4"]
+[ext_resource type="Texture2D" uid="uid://3b7p3no4plew" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00002.png" id="3_vswuu"]
+[ext_resource type="Texture2D" uid="uid://b7i2kmhwoyn0" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00003.png" id="4_dy7nf"]
+[ext_resource type="Texture2D" uid="uid://c3gh02kqntfd6" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00004.png" id="5_bog7r"]
+[ext_resource type="Texture2D" uid="uid://cjnt03ngrdrra" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00005.png" id="6_t1pqb"]
+[ext_resource type="Texture2D" uid="uid://rh1hp60u7k2" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00006.png" id="7_qrwju"]
+[ext_resource type="Texture2D" uid="uid://i6gjnnwb8ic8" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00007.png" id="8_nihr5"]
+[ext_resource type="Texture2D" uid="uid://dvj7p8ekcxs1g" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00008.png" id="9_0hjxv"]
+[ext_resource type="Texture2D" uid="uid://dluhx73r8ta3f" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00009.png" id="10_pr66k"]
+[ext_resource type="Texture2D" uid="uid://01lfubre70wa" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00010.png" id="11_tye1o"]
+[ext_resource type="Texture2D" uid="uid://netamukhovbg" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00011.png" id="12_ou4ua"]
+[ext_resource type="Texture2D" uid="uid://bfn87unje60bg" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00012.png" id="13_e7p2j"]
+[ext_resource type="Texture2D" uid="uid://c708q58j2kml" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00013.png" id="14_3m1fd"]
+[ext_resource type="Texture2D" uid="uid://c2tergcsx1lb" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00014.png" id="15_3kxhq"]
+[ext_resource type="Texture2D" uid="uid://byaviug6gqmkk" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00015.png" id="16_0eyoi"]
+[ext_resource type="Texture2D" uid="uid://6i1b5vmlt4mu" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00016.png" id="17_knhrb"]
+[ext_resource type="Texture2D" uid="uid://b1uyp5qubtynj" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00017.png" id="18_gyxpn"]
+[ext_resource type="Texture2D" uid="uid://ds86uh6cic6uo" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00018.png" id="19_8n273"]
+[ext_resource type="Texture2D" uid="uid://c63tgqq143eg8" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00019.png" id="20_rvajs"]
+[ext_resource type="Texture2D" uid="uid://xfyo567kjxtd" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00020.png" id="21_hr2hn"]
+[ext_resource type="Texture2D" uid="uid://cj716xnclj3vu" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00021.png" id="22_icorx"]
+[ext_resource type="Texture2D" uid="uid://cdk4oqrqoom5v" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00022.png" id="23_1qoyj"]
+[ext_resource type="Texture2D" uid="uid://c7h5maargr7gh" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00023.png" id="24_3gtah"]
+[ext_resource type="Texture2D" uid="uid://y6wd8n6gccue" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00024.png" id="25_h7did"]
+[ext_resource type="Texture2D" uid="uid://bmwurnvpir6wl" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00025.png" id="26_hy73c"]
+[ext_resource type="Texture2D" uid="uid://dku87smlyl1r7" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00026.png" id="27_i2um7"]
+[ext_resource type="Texture2D" uid="uid://do53jil76upra" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00027.png" id="28_r2guy"]
+[ext_resource type="Texture2D" uid="uid://dxjkdwm4ioekg" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00028.png" id="29_e5cj0"]
+[ext_resource type="Texture2D" uid="uid://cuemx1xnakjr0" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00029.png" id="30_75bx1"]
+[ext_resource type="Texture2D" uid="uid://dgp1uublni520" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00030.png" id="31_yaoux"]
+[ext_resource type="Texture2D" uid="uid://d0awrvju4ux3a" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00031.png" id="32_bg37g"]
+[ext_resource type="Texture2D" uid="uid://bi45d72kbrwvw" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00032.png" id="33_wmxx5"]
+[ext_resource type="Texture2D" uid="uid://bdvokxcw8f4f2" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00033.png" id="34_wieqe"]
+[ext_resource type="Texture2D" uid="uid://dha6oqmd37hyh" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00034.png" id="35_47q2l"]
+[ext_resource type="Texture2D" uid="uid://i5j6ovfwxnpd" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00035.png" id="36_5c4a8"]
+[ext_resource type="Texture2D" uid="uid://bua76imyhaea4" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00036.png" id="37_uev7u"]
+[ext_resource type="Texture2D" uid="uid://wl3lkji550bk" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00037.png" id="38_vkrbg"]
+[ext_resource type="Texture2D" uid="uid://d34xk0ewvrvxo" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00038.png" id="39_u40r7"]
+[ext_resource type="Texture2D" uid="uid://bsxv6v0fu7xsb" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00039.png" id="40_o37g5"]
+[ext_resource type="Texture2D" uid="uid://b0owlmiw3o8r5" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00040.png" id="41_jgx33"]
+[ext_resource type="Texture2D" uid="uid://b0jpgnito3btl" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00041.png" id="42_5yini"]
+[ext_resource type="Texture2D" uid="uid://c7d2655cmunye" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00042.png" id="43_hevmh"]
+[ext_resource type="Texture2D" uid="uid://ymqcowitopna" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00043.png" id="44_qjomn"]
+[ext_resource type="Texture2D" uid="uid://cmisdc6ikicu0" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00044.png" id="45_t7i3d"]
+[ext_resource type="Texture2D" uid="uid://ppyppxyc3we4" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00045.png" id="46_lafdr"]
+[ext_resource type="Texture2D" uid="uid://r6r6xehngte7" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00046.png" id="47_rd160"]
+[ext_resource type="Texture2D" uid="uid://brd4v20fctr1s" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00047.png" id="48_r65df"]
+[ext_resource type="Texture2D" uid="uid://dfh8wuv46quj" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00048.png" id="49_pamem"]
+[ext_resource type="Texture2D" uid="uid://7hbfca8seqlo" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00049.png" id="50_iqatb"]
+[ext_resource type="Texture2D" uid="uid://cpxfyl6eok4fx" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00050.png" id="51_m22gf"]
+[ext_resource type="Texture2D" uid="uid://cfuwvomv1c82x" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00051.png" id="52_8nt5v"]
+[ext_resource type="Texture2D" uid="uid://5d58umfdvqa8" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00052.png" id="53_ywt52"]
+[ext_resource type="Texture2D" uid="uid://c66v6u50yp0f7" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00053.png" id="54_67a8g"]
+[ext_resource type="Texture2D" uid="uid://cs0v1mo8wwh44" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00054.png" id="55_lof5f"]
+[ext_resource type="Texture2D" uid="uid://dxpoff8f77rq4" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00055.png" id="56_sw6e2"]
+[ext_resource type="Texture2D" uid="uid://xh3j2cmo6fw1" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00056.png" id="57_cannk"]
+[ext_resource type="Texture2D" uid="uid://cdksd66gvoic6" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00057.png" id="58_v6tmq"]
+[ext_resource type="Texture2D" uid="uid://biej3s27k2lhb" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00058.png" id="59_d6b4e"]
+[ext_resource type="Texture2D" uid="uid://bxvnavp1sgfn4" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00059.png" id="60_olq5k"]
+[ext_resource type="Texture2D" uid="uid://2n88a4nyyqqj" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00060.png" id="61_nmhci"]
+[ext_resource type="Texture2D" uid="uid://e2lrsejdmthu" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00061.png" id="62_23853"]
+[ext_resource type="Texture2D" uid="uid://d2rgy1e3dce7m" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00062.png" id="63_am8cj"]
+[ext_resource type="Texture2D" uid="uid://pqdch0e0vmq7" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00063.png" id="64_4vx6r"]
+[ext_resource type="Texture2D" uid="uid://osd5k7wtbi71" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00064.png" id="65_4slh7"]
+[ext_resource type="Texture2D" uid="uid://1aetm741svop" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00065.png" id="66_2ho0c"]
+[ext_resource type="Texture2D" uid="uid://bpn5c1w52ak5o" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00066.png" id="67_aancl"]
+[ext_resource type="Texture2D" uid="uid://br5gl5o28cb3t" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00067.png" id="68_n3udd"]
+[ext_resource type="Texture2D" uid="uid://r24whs0hhmn4" path="res://addons/icon_animation/assets/37流れ星/37流れ星_rend_00068.png" id="69_d3rh0"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_r06bc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_5kvn4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_vswuu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_dy7nf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_bog7r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_t1pqb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_qrwju")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_nihr5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_0hjxv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_pr66k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_tye1o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_ou4ua")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_e7p2j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_3m1fd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_3kxhq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_0eyoi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_knhrb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_gyxpn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_8n273")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_rvajs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_hr2hn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_icorx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_1qoyj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_3gtah")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_h7did")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_hy73c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_i2um7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_r2guy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_e5cj0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_75bx1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_yaoux")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_bg37g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_wmxx5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_wieqe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_47q2l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_5c4a8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_uev7u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_vkrbg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_u40r7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_o37g5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_jgx33")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_5yini")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_hevmh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_qjomn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_t7i3d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_lafdr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_rd160")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_r65df")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_pamem")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_iqatb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_m22gf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_8nt5v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_ywt52")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_67a8g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_lof5f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_sw6e2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_cannk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_v6tmq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_d6b4e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_olq5k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_nmhci")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_23853")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_am8cj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_4vx6r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_4slh7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_2ho0c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_aancl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_n3udd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_d3rh0")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]

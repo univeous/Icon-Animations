@@ -1,0 +1,542 @@
+[gd_resource type="SpriteFrames" load_steps=134 format=3 uid="uid://bu6lawmbvxql8"]
+
+[ext_resource type="Texture2D" uid="uid://cnnnbb5ioresa" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00006.png" id="1_gjpej"]
+[ext_resource type="Texture2D" uid="uid://cn6qxr33e0w7u" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00007.png" id="2_cdcgt"]
+[ext_resource type="Texture2D" uid="uid://c5anxnb48pl18" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00008.png" id="3_ajmrh"]
+[ext_resource type="Texture2D" uid="uid://41rr21ae2i3o" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00009.png" id="4_5qofd"]
+[ext_resource type="Texture2D" uid="uid://b5ayby6aq243t" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00010.png" id="5_47lvx"]
+[ext_resource type="Texture2D" uid="uid://cuj1skrrmxc7w" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00011.png" id="6_k072e"]
+[ext_resource type="Texture2D" uid="uid://byfpfrtn3gek3" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00012.png" id="7_ep2tp"]
+[ext_resource type="Texture2D" uid="uid://cyk0qt5bfjgbb" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00013.png" id="8_tgqrc"]
+[ext_resource type="Texture2D" uid="uid://dhycjb35n0nds" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00014.png" id="9_6mle5"]
+[ext_resource type="Texture2D" uid="uid://s6wa8f0ktsq4" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00015.png" id="10_mxx1p"]
+[ext_resource type="Texture2D" uid="uid://ca8nxostitt7a" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00016.png" id="11_w7opk"]
+[ext_resource type="Texture2D" uid="uid://dupmaimxrvgas" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00017.png" id="12_kqjxb"]
+[ext_resource type="Texture2D" uid="uid://dcluwh2e1ve84" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00018.png" id="13_r1fsw"]
+[ext_resource type="Texture2D" uid="uid://be82nsi0qycyq" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00019.png" id="14_o6g6b"]
+[ext_resource type="Texture2D" uid="uid://cqkf5yl431pht" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00020.png" id="15_1qb5y"]
+[ext_resource type="Texture2D" uid="uid://dwfsrc78u8wpe" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00021.png" id="16_serjh"]
+[ext_resource type="Texture2D" uid="uid://bvynf4865mn5u" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00022.png" id="17_5c877"]
+[ext_resource type="Texture2D" uid="uid://b6ajo3ystymst" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00023.png" id="18_h1iwf"]
+[ext_resource type="Texture2D" uid="uid://b1okjifk0kvuf" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00024.png" id="19_lijso"]
+[ext_resource type="Texture2D" uid="uid://dsf26sgwdeel5" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00025.png" id="20_3fwry"]
+[ext_resource type="Texture2D" uid="uid://dnogd2ah5wycb" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00026.png" id="21_owcbg"]
+[ext_resource type="Texture2D" uid="uid://dgvvops0ii4ud" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00027.png" id="22_1rdoh"]
+[ext_resource type="Texture2D" uid="uid://bwq1y4sywk2o1" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00028.png" id="23_cmei7"]
+[ext_resource type="Texture2D" uid="uid://dbekv274hsjsv" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00029.png" id="24_mhyd7"]
+[ext_resource type="Texture2D" uid="uid://d0t3cqgjmrvas" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00030.png" id="25_wdmrh"]
+[ext_resource type="Texture2D" uid="uid://mxatnb74dceo" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00031.png" id="26_s8s6w"]
+[ext_resource type="Texture2D" uid="uid://cj3kf6s0l61r2" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00032.png" id="27_6evp7"]
+[ext_resource type="Texture2D" uid="uid://dss23kl5qrhbc" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00033.png" id="28_f4wn3"]
+[ext_resource type="Texture2D" uid="uid://crljes4ntsnx8" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00034.png" id="29_4k8xf"]
+[ext_resource type="Texture2D" uid="uid://bvfr3n6mtrv36" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00035.png" id="30_yi1rp"]
+[ext_resource type="Texture2D" uid="uid://d3bjdawtnsbhg" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00036.png" id="31_ja848"]
+[ext_resource type="Texture2D" uid="uid://bbbqqt2qr4oe3" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00037.png" id="32_qi0l1"]
+[ext_resource type="Texture2D" uid="uid://c44d653olj8ko" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00038.png" id="33_647v6"]
+[ext_resource type="Texture2D" uid="uid://bj5cj8rwlgrh7" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00039.png" id="34_nutuh"]
+[ext_resource type="Texture2D" uid="uid://c2l4t8ul4o8j1" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00040.png" id="35_bmqq7"]
+[ext_resource type="Texture2D" uid="uid://c1vr86kr4fd3y" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00041.png" id="36_bdgbm"]
+[ext_resource type="Texture2D" uid="uid://bconqtvayy6nt" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00042.png" id="37_n6v3w"]
+[ext_resource type="Texture2D" uid="uid://mlrxm6ntygwa" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00043.png" id="38_in726"]
+[ext_resource type="Texture2D" uid="uid://c8187vsnje5sn" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00044.png" id="39_bw7is"]
+[ext_resource type="Texture2D" uid="uid://b7v24vxqfejb5" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00045.png" id="40_2ln18"]
+[ext_resource type="Texture2D" uid="uid://bpwxrjdl0o0iv" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00046.png" id="41_fbquf"]
+[ext_resource type="Texture2D" uid="uid://c8yxebwvb1ug" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00047.png" id="42_uso4a"]
+[ext_resource type="Texture2D" uid="uid://cjlwg6cipuekl" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00048.png" id="43_exf85"]
+[ext_resource type="Texture2D" uid="uid://bj5p7s82x4ojw" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00049.png" id="44_ukerv"]
+[ext_resource type="Texture2D" uid="uid://beewrd4dvtgwa" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00050.png" id="45_ch67h"]
+[ext_resource type="Texture2D" uid="uid://ctikh8fy5xo2v" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00051.png" id="46_4al6l"]
+[ext_resource type="Texture2D" uid="uid://bg4546yxxobat" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00052.png" id="47_macb4"]
+[ext_resource type="Texture2D" uid="uid://d04xjfh0cb2vb" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00053.png" id="48_4l2i6"]
+[ext_resource type="Texture2D" uid="uid://csq2bveykvjwg" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00054.png" id="49_0gfss"]
+[ext_resource type="Texture2D" uid="uid://ctbke0srroslr" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00055.png" id="50_uldep"]
+[ext_resource type="Texture2D" uid="uid://c67pw31xhw1ex" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00056.png" id="51_fh66n"]
+[ext_resource type="Texture2D" uid="uid://c1l60a5mugxvx" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00057.png" id="52_jatuh"]
+[ext_resource type="Texture2D" uid="uid://8qcv7l4ua77a" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00058.png" id="53_0shbf"]
+[ext_resource type="Texture2D" uid="uid://b327th4lxdv5s" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00059.png" id="54_vwkky"]
+[ext_resource type="Texture2D" uid="uid://bbyt05hn8uppx" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00060.png" id="55_y4g3g"]
+[ext_resource type="Texture2D" uid="uid://cpglluhjqf474" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00061.png" id="56_4r842"]
+[ext_resource type="Texture2D" uid="uid://drim37rndp1ey" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00062.png" id="57_rpdjc"]
+[ext_resource type="Texture2D" uid="uid://21hsipr3endo" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00063.png" id="58_olow0"]
+[ext_resource type="Texture2D" uid="uid://t0nnc26jlwn2" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00064.png" id="59_mmm5l"]
+[ext_resource type="Texture2D" uid="uid://cs2c3y0jmy2l4" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00065.png" id="60_8h5mi"]
+[ext_resource type="Texture2D" uid="uid://csn0de40nf4i5" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00066.png" id="61_phmjj"]
+[ext_resource type="Texture2D" uid="uid://cf608kfp0c3wg" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00067.png" id="62_473t0"]
+[ext_resource type="Texture2D" uid="uid://b2xub3vn3ebme" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00068.png" id="63_vch36"]
+[ext_resource type="Texture2D" uid="uid://dgaiccmt42w8v" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00069.png" id="64_aavj3"]
+[ext_resource type="Texture2D" uid="uid://bboeaqxw14xeh" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00070.png" id="65_gsjpi"]
+[ext_resource type="Texture2D" uid="uid://c2hbyvl2jf1xu" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00071.png" id="66_yeys0"]
+[ext_resource type="Texture2D" uid="uid://bdex0mslorem3" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00072.png" id="67_pn3nv"]
+[ext_resource type="Texture2D" uid="uid://yylbqgc8hs0w" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00073.png" id="68_1wilx"]
+[ext_resource type="Texture2D" uid="uid://bxaovohdf8yxr" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00074.png" id="69_qyxbm"]
+[ext_resource type="Texture2D" uid="uid://opwp2ivorc3l" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00075.png" id="70_k6r1r"]
+[ext_resource type="Texture2D" uid="uid://b5lycbo87yvnt" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00076.png" id="71_t2ixo"]
+[ext_resource type="Texture2D" uid="uid://igxmglrawfr8" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00077.png" id="72_m5glb"]
+[ext_resource type="Texture2D" uid="uid://4wcyr7jnqbda" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00078.png" id="73_jifoi"]
+[ext_resource type="Texture2D" uid="uid://chowjren8ew68" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00079.png" id="74_cgipc"]
+[ext_resource type="Texture2D" uid="uid://drbjas5rjxyxv" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00080.png" id="75_kc4ux"]
+[ext_resource type="Texture2D" uid="uid://bgub44s1fbmle" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00081.png" id="76_q7sy6"]
+[ext_resource type="Texture2D" uid="uid://bdynx565154mm" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00082.png" id="77_qgvs8"]
+[ext_resource type="Texture2D" uid="uid://dpqpwme53uqku" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00083.png" id="78_bfqft"]
+[ext_resource type="Texture2D" uid="uid://bd40pt7b08j8c" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00084.png" id="79_10ay5"]
+[ext_resource type="Texture2D" uid="uid://be22xskqph1qq" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00085.png" id="80_aowu7"]
+[ext_resource type="Texture2D" uid="uid://cn38nprsymka7" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00086.png" id="81_fi3od"]
+[ext_resource type="Texture2D" uid="uid://cry7opt6esnx2" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00087.png" id="82_wm7ya"]
+[ext_resource type="Texture2D" uid="uid://c5eyj5jfta05f" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00088.png" id="83_tdj5w"]
+[ext_resource type="Texture2D" uid="uid://cvmdcjirkrk2f" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00089.png" id="84_okffs"]
+[ext_resource type="Texture2D" uid="uid://bdrwrucogvxpm" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00090.png" id="85_6p4a5"]
+[ext_resource type="Texture2D" uid="uid://dj1dyxvgo5b75" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00091.png" id="86_6po57"]
+[ext_resource type="Texture2D" uid="uid://bxojy6gjj0v82" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00092.png" id="87_a4vac"]
+[ext_resource type="Texture2D" uid="uid://hgfdsygfg6lj" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00093.png" id="88_a88mi"]
+[ext_resource type="Texture2D" uid="uid://ca2xyyhujpxm5" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00094.png" id="89_4vrxx"]
+[ext_resource type="Texture2D" uid="uid://dpiqh4q23xskj" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00095.png" id="90_3wmnc"]
+[ext_resource type="Texture2D" uid="uid://cxq4ggb30r1um" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00096.png" id="91_sshnj"]
+[ext_resource type="Texture2D" uid="uid://cdleng2ar2esn" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00097.png" id="92_w3xln"]
+[ext_resource type="Texture2D" uid="uid://dr7wnher8ywua" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00098.png" id="93_qwo0h"]
+[ext_resource type="Texture2D" uid="uid://jejuvtm0wm5n" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00099.png" id="94_15agw"]
+[ext_resource type="Texture2D" uid="uid://csfr3lkkgdgit" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00100.png" id="95_lek6c"]
+[ext_resource type="Texture2D" uid="uid://cbvwxmy1oxas4" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00101.png" id="96_1rwy3"]
+[ext_resource type="Texture2D" uid="uid://bwshxlwjbmy8y" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00102.png" id="97_sfkws"]
+[ext_resource type="Texture2D" uid="uid://cgvqit0svgmm7" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00103.png" id="98_gxr64"]
+[ext_resource type="Texture2D" uid="uid://bn38p1n5w3umb" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00104.png" id="99_783nc"]
+[ext_resource type="Texture2D" uid="uid://ds0m8a6om82y0" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00105.png" id="100_cs3ti"]
+[ext_resource type="Texture2D" uid="uid://dwudh1ll1fm6c" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00106.png" id="101_n8ywn"]
+[ext_resource type="Texture2D" uid="uid://bfy88qauovpei" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00107.png" id="102_tuw6j"]
+[ext_resource type="Texture2D" uid="uid://dhbp3n5vix1ip" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00108.png" id="103_rtik6"]
+[ext_resource type="Texture2D" uid="uid://dow11hg4yaj6q" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00109.png" id="104_14fet"]
+[ext_resource type="Texture2D" uid="uid://d2ago7omtd0pm" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00110.png" id="105_swveu"]
+[ext_resource type="Texture2D" uid="uid://toybd1tifdhu" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00111.png" id="106_jvkw8"]
+[ext_resource type="Texture2D" uid="uid://twl1apipyibg" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00112.png" id="107_hvnsx"]
+[ext_resource type="Texture2D" uid="uid://b73yqryujjnlw" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00113.png" id="108_h1ujm"]
+[ext_resource type="Texture2D" uid="uid://dvysymybpyou0" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00114.png" id="109_gstpo"]
+[ext_resource type="Texture2D" uid="uid://bk8amdj1eeo2m" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00115.png" id="110_4yxvi"]
+[ext_resource type="Texture2D" uid="uid://ca3krmqw13m5g" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00116.png" id="111_8qgrf"]
+[ext_resource type="Texture2D" uid="uid://tov1yavpunim" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00117.png" id="112_4knod"]
+[ext_resource type="Texture2D" uid="uid://dkw3kx7cjfkn4" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00118.png" id="113_c1cam"]
+[ext_resource type="Texture2D" uid="uid://dbrraq8s48k4l" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00119.png" id="114_o10y2"]
+[ext_resource type="Texture2D" uid="uid://dg30p25bdiaa" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00120.png" id="115_pxu5o"]
+[ext_resource type="Texture2D" uid="uid://b5fnmrixyu0jy" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00121.png" id="116_evk07"]
+[ext_resource type="Texture2D" uid="uid://b250lhvqyr5qx" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00122.png" id="117_b05kc"]
+[ext_resource type="Texture2D" uid="uid://c22wpht4ufsri" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00123.png" id="118_kxrxa"]
+[ext_resource type="Texture2D" uid="uid://cn3cpifhd7vxd" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00124.png" id="119_jqkia"]
+[ext_resource type="Texture2D" uid="uid://msbah8mj83rk" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00125.png" id="120_4unnb"]
+[ext_resource type="Texture2D" uid="uid://ctlk7hqfn8rrr" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00126.png" id="121_6s4a1"]
+[ext_resource type="Texture2D" uid="uid://bp3ehdbbioyil" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00127.png" id="122_0jxjs"]
+[ext_resource type="Texture2D" uid="uid://6dkfhj657tyi" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00128.png" id="123_xesow"]
+[ext_resource type="Texture2D" uid="uid://d3khl82fdu7sm" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00129.png" id="124_ljbd2"]
+[ext_resource type="Texture2D" uid="uid://mwecn8lnrep2" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00130.png" id="125_mjjfw"]
+[ext_resource type="Texture2D" uid="uid://bufh1d12sdde5" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00131.png" id="126_gv6bp"]
+[ext_resource type="Texture2D" uid="uid://chreb6nnn33i1" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00132.png" id="127_0ljuk"]
+[ext_resource type="Texture2D" uid="uid://b222l3l77mfnd" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00133.png" id="128_gq3ms"]
+[ext_resource type="Texture2D" uid="uid://dqk1rindhrepx" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00134.png" id="129_jxmoq"]
+[ext_resource type="Texture2D" uid="uid://c55sid0ytgn15" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00135.png" id="130_mq1ao"]
+[ext_resource type="Texture2D" uid="uid://dfop460c0qf4x" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00136.png" id="131_htxxn"]
+[ext_resource type="Texture2D" uid="uid://civamn0126tcp" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00137.png" id="132_a6if2"]
+[ext_resource type="Texture2D" uid="uid://dwnquecqrvolk" path="res://addons/icon_animation/assets/21バッテンB_角度/21バッテンB_角度_rend_00138.png" id="133_j2qou"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_gjpej")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_cdcgt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_ajmrh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_5qofd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_47lvx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_k072e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_ep2tp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_tgqrc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_6mle5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_mxx1p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_w7opk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_kqjxb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_r1fsw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_o6g6b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_1qb5y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_serjh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_5c877")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_h1iwf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_lijso")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_3fwry")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_owcbg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_1rdoh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_cmei7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_mhyd7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_wdmrh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_s8s6w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_6evp7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_f4wn3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_4k8xf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_yi1rp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_ja848")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_qi0l1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_647v6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_nutuh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_bmqq7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_bdgbm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_n6v3w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_in726")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_bw7is")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_2ln18")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_fbquf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_uso4a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_exf85")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_ukerv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_ch67h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_4al6l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_macb4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_4l2i6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_0gfss")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_uldep")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_fh66n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_jatuh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_0shbf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_vwkky")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_y4g3g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_4r842")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_rpdjc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_olow0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_mmm5l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_8h5mi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_phmjj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_473t0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_vch36")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_aavj3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_gsjpi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_yeys0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_pn3nv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_1wilx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_qyxbm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_k6r1r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_t2ixo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_m5glb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_jifoi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_cgipc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_kc4ux")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_q7sy6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_qgvs8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_bfqft")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_10ay5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_aowu7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_fi3od")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_wm7ya")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_tdj5w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_okffs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_6p4a5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_6po57")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_a4vac")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_a88mi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_4vrxx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_3wmnc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_sshnj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_w3xln")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_qwo0h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_15agw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("95_lek6c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("96_1rwy3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("97_sfkws")
+}, {
+"duration": 1.0,
+"texture": ExtResource("98_gxr64")
+}, {
+"duration": 1.0,
+"texture": ExtResource("99_783nc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("100_cs3ti")
+}, {
+"duration": 1.0,
+"texture": ExtResource("101_n8ywn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("102_tuw6j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("103_rtik6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("104_14fet")
+}, {
+"duration": 1.0,
+"texture": ExtResource("105_swveu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("106_jvkw8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("107_hvnsx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("108_h1ujm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("109_gstpo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("110_4yxvi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("111_8qgrf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("112_4knod")
+}, {
+"duration": 1.0,
+"texture": ExtResource("113_c1cam")
+}, {
+"duration": 1.0,
+"texture": ExtResource("114_o10y2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("115_pxu5o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("116_evk07")
+}, {
+"duration": 1.0,
+"texture": ExtResource("117_b05kc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("118_kxrxa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("119_jqkia")
+}, {
+"duration": 1.0,
+"texture": ExtResource("120_4unnb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("121_6s4a1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("122_0jxjs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("123_xesow")
+}, {
+"duration": 1.0,
+"texture": ExtResource("124_ljbd2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("125_mjjfw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("126_gv6bp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("127_0ljuk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("128_gq3ms")
+}, {
+"duration": 1.0,
+"texture": ExtResource("129_jxmoq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("130_mq1ao")
+}, {
+"duration": 1.0,
+"texture": ExtResource("131_htxxn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("132_a6if2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("133_j2qou")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]

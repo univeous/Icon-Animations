@@ -1,0 +1,430 @@
+[gd_resource type="SpriteFrames" load_steps=106 format=3 uid="uid://cp6a5srxk23t3"]
+
+[ext_resource type="Texture2D" uid="uid://ck1yqmqeu52fl" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00000.png" id="1_kthhq"]
+[ext_resource type="Texture2D" uid="uid://c0uc38t3rispd" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00001.png" id="2_pomwg"]
+[ext_resource type="Texture2D" uid="uid://qtpfqypqrxgj" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00002.png" id="3_vedi5"]
+[ext_resource type="Texture2D" uid="uid://cxmdqcdw1vq0n" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00003.png" id="4_2aebl"]
+[ext_resource type="Texture2D" uid="uid://bt13patnpgsqw" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00004.png" id="5_qyuw7"]
+[ext_resource type="Texture2D" uid="uid://fpskri064pxt" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00005.png" id="6_fwy7y"]
+[ext_resource type="Texture2D" uid="uid://dcli23loyqgbo" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00006.png" id="7_yt3u1"]
+[ext_resource type="Texture2D" uid="uid://cu4rcodt7lwn7" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00007.png" id="8_ky3oa"]
+[ext_resource type="Texture2D" uid="uid://drsywetsr7pdx" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00008.png" id="9_vbh4c"]
+[ext_resource type="Texture2D" uid="uid://bf147t4lqsvpw" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00009.png" id="10_a5ic3"]
+[ext_resource type="Texture2D" uid="uid://dymkvyoefatl" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00010.png" id="11_ewsau"]
+[ext_resource type="Texture2D" uid="uid://b4hy7p1q2kskr" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00011.png" id="12_y645t"]
+[ext_resource type="Texture2D" uid="uid://yxbskk6bashk" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00012.png" id="13_jh35e"]
+[ext_resource type="Texture2D" uid="uid://dmqowt4whm242" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00013.png" id="14_jvkd1"]
+[ext_resource type="Texture2D" uid="uid://bpiuoyy8cubb2" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00014.png" id="15_prp2e"]
+[ext_resource type="Texture2D" uid="uid://c3s81qurw8uh5" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00015.png" id="16_hauue"]
+[ext_resource type="Texture2D" uid="uid://cdgjwdb4chk5p" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00016.png" id="17_mi1th"]
+[ext_resource type="Texture2D" uid="uid://5f8mxb2riros" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00017.png" id="18_rl77n"]
+[ext_resource type="Texture2D" uid="uid://dpc5ch0no52tk" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00018.png" id="19_82c4c"]
+[ext_resource type="Texture2D" uid="uid://cgodu8adn1w0x" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00019.png" id="20_r0ylc"]
+[ext_resource type="Texture2D" uid="uid://dkk5s8rrfa6yw" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00020.png" id="21_vqk0v"]
+[ext_resource type="Texture2D" uid="uid://5ly6rio0788i" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00021.png" id="22_ln8ka"]
+[ext_resource type="Texture2D" uid="uid://bwdukac275458" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00022.png" id="23_2c3ql"]
+[ext_resource type="Texture2D" uid="uid://bdsv6ibppv3nd" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00023.png" id="24_nlnp6"]
+[ext_resource type="Texture2D" uid="uid://y8wm5x5gargq" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00024.png" id="25_omild"]
+[ext_resource type="Texture2D" uid="uid://bnxujhpqbgr7i" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00025.png" id="26_4raqi"]
+[ext_resource type="Texture2D" uid="uid://tld6j0rhs0ke" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00026.png" id="27_h584h"]
+[ext_resource type="Texture2D" uid="uid://wjkqwosatmq" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00027.png" id="28_oxb4a"]
+[ext_resource type="Texture2D" uid="uid://c37th2sesuwqu" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00028.png" id="29_j1vjj"]
+[ext_resource type="Texture2D" uid="uid://bh87lmrs71snk" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00029.png" id="30_emmbq"]
+[ext_resource type="Texture2D" uid="uid://b6qpgpqk12r28" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00030.png" id="31_u4f0d"]
+[ext_resource type="Texture2D" uid="uid://bbombvoxpgkqm" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00031.png" id="32_m3nev"]
+[ext_resource type="Texture2D" uid="uid://da2u0cyue2sih" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00032.png" id="33_qh6my"]
+[ext_resource type="Texture2D" uid="uid://3v324k4qb8sk" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00033.png" id="34_4moic"]
+[ext_resource type="Texture2D" uid="uid://ck60oycvbcpan" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00034.png" id="35_l6rjp"]
+[ext_resource type="Texture2D" uid="uid://bxdkq4et36v7s" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00035.png" id="36_e6iww"]
+[ext_resource type="Texture2D" uid="uid://c66l5xm38poef" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00036.png" id="37_ipkf3"]
+[ext_resource type="Texture2D" uid="uid://clote4tamnddu" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00037.png" id="38_vug1h"]
+[ext_resource type="Texture2D" uid="uid://ba4trvv6ki4ll" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00038.png" id="39_67ng7"]
+[ext_resource type="Texture2D" uid="uid://dhra06ya22tmj" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00039.png" id="40_syq8l"]
+[ext_resource type="Texture2D" uid="uid://cteiu6ww1jis0" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00040.png" id="41_lv2op"]
+[ext_resource type="Texture2D" uid="uid://c067ilqxd57d5" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00041.png" id="42_vi3r0"]
+[ext_resource type="Texture2D" uid="uid://dajmqafggh2ek" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00042.png" id="43_o7ni8"]
+[ext_resource type="Texture2D" uid="uid://3288plelhse5" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00043.png" id="44_dxwhl"]
+[ext_resource type="Texture2D" uid="uid://dxthrtnem037f" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00044.png" id="45_i5vv2"]
+[ext_resource type="Texture2D" uid="uid://ndaes4e4n2qw" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00045.png" id="46_ob58i"]
+[ext_resource type="Texture2D" uid="uid://cm5x2t6srjt1l" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00046.png" id="47_i8lqt"]
+[ext_resource type="Texture2D" uid="uid://df5kldvv8u32i" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00047.png" id="48_20ixj"]
+[ext_resource type="Texture2D" uid="uid://33qvqxxe54e2" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00048.png" id="49_ixbnv"]
+[ext_resource type="Texture2D" uid="uid://ctfgpe0hagy2y" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00049.png" id="50_83hdg"]
+[ext_resource type="Texture2D" uid="uid://cigsrkp0cel0k" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00050.png" id="51_vtu27"]
+[ext_resource type="Texture2D" uid="uid://c6wpnqiifckbm" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00051.png" id="52_j6t1u"]
+[ext_resource type="Texture2D" uid="uid://dnjok3mn683t8" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00052.png" id="53_noxq1"]
+[ext_resource type="Texture2D" uid="uid://dqhk0tas2025y" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00053.png" id="54_qxl0j"]
+[ext_resource type="Texture2D" uid="uid://cdl8bbt7dusv8" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00054.png" id="55_cpvdt"]
+[ext_resource type="Texture2D" uid="uid://byggoy87fowkk" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00055.png" id="56_ugacb"]
+[ext_resource type="Texture2D" uid="uid://su6hf6285vdr" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00056.png" id="57_j0yev"]
+[ext_resource type="Texture2D" uid="uid://cwe088paodot1" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00057.png" id="58_07rq4"]
+[ext_resource type="Texture2D" uid="uid://caknudcfr281d" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00058.png" id="59_kf0xe"]
+[ext_resource type="Texture2D" uid="uid://37jpvkpyc4gw" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00059.png" id="60_y3hbn"]
+[ext_resource type="Texture2D" uid="uid://vp2s80gvbb7h" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00060.png" id="61_1b1dh"]
+[ext_resource type="Texture2D" uid="uid://bqjtit3lgay4i" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00061.png" id="62_07qm2"]
+[ext_resource type="Texture2D" uid="uid://bjr1mqn2n5cgx" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00062.png" id="63_u651v"]
+[ext_resource type="Texture2D" uid="uid://crg0y4t02b80o" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00063.png" id="64_n0eve"]
+[ext_resource type="Texture2D" uid="uid://b7aue62nkkit7" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00064.png" id="65_6cgpr"]
+[ext_resource type="Texture2D" uid="uid://ctwxm5lgve7ja" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00065.png" id="66_cxlg6"]
+[ext_resource type="Texture2D" uid="uid://dwy83u7m1xtva" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00066.png" id="67_d2w3v"]
+[ext_resource type="Texture2D" uid="uid://dy8lje1ku7s2r" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00067.png" id="68_ies3n"]
+[ext_resource type="Texture2D" uid="uid://dxgvluvqjj3ps" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00068.png" id="69_2vilx"]
+[ext_resource type="Texture2D" uid="uid://dhvysi0yluwbo" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00069.png" id="70_4gklr"]
+[ext_resource type="Texture2D" uid="uid://5dhxec3l8kjd" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00070.png" id="71_mc2pg"]
+[ext_resource type="Texture2D" uid="uid://dti8qlayeqxm2" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00071.png" id="72_bd0fl"]
+[ext_resource type="Texture2D" uid="uid://dudl8by1jpgeg" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00072.png" id="73_klndp"]
+[ext_resource type="Texture2D" uid="uid://iwt7q1mcjsis" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00073.png" id="74_sipt2"]
+[ext_resource type="Texture2D" uid="uid://d4cvh3gpqixvn" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00074.png" id="75_gw16u"]
+[ext_resource type="Texture2D" uid="uid://bvylutq65tmjg" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00075.png" id="76_cfxja"]
+[ext_resource type="Texture2D" uid="uid://c3j66dlac8fi4" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00076.png" id="77_rt313"]
+[ext_resource type="Texture2D" uid="uid://bm2h6b7ayvkok" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00077.png" id="78_jn5wi"]
+[ext_resource type="Texture2D" uid="uid://c8hmxvaxl5pkt" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00078.png" id="79_b6jhg"]
+[ext_resource type="Texture2D" uid="uid://dohr1kq8pgaum" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00079.png" id="80_u80iy"]
+[ext_resource type="Texture2D" uid="uid://d15vqh34u17rh" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00080.png" id="81_rvv47"]
+[ext_resource type="Texture2D" uid="uid://bin5mmthsvy4v" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00081.png" id="82_4a7ln"]
+[ext_resource type="Texture2D" uid="uid://bexi6p14orbsj" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00082.png" id="83_l1llf"]
+[ext_resource type="Texture2D" uid="uid://dkqwvejr7e2u8" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00083.png" id="84_vcq80"]
+[ext_resource type="Texture2D" uid="uid://c1gj2qoyhnbw1" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00084.png" id="85_f205t"]
+[ext_resource type="Texture2D" uid="uid://bpktceg5wxfb6" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00085.png" id="86_h5f0f"]
+[ext_resource type="Texture2D" uid="uid://berc3wamsorux" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00086.png" id="87_hmqls"]
+[ext_resource type="Texture2D" uid="uid://cgcfj3kk85mdx" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00087.png" id="88_qpxlo"]
+[ext_resource type="Texture2D" uid="uid://ce5x578jr788f" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00088.png" id="89_v1pbn"]
+[ext_resource type="Texture2D" uid="uid://t47ot6ap7t2e" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00089.png" id="90_4s6b0"]
+[ext_resource type="Texture2D" uid="uid://c0q6fl2j0yj40" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00090.png" id="91_yiqo7"]
+[ext_resource type="Texture2D" uid="uid://bgnyrfapc347n" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00091.png" id="92_xaw6q"]
+[ext_resource type="Texture2D" uid="uid://dcy25o6du8h7" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00092.png" id="93_vw47o"]
+[ext_resource type="Texture2D" uid="uid://w7c0oma8dgjx" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00093.png" id="94_8fu5q"]
+[ext_resource type="Texture2D" uid="uid://dej10s8fryyrd" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00094.png" id="95_dfl58"]
+[ext_resource type="Texture2D" uid="uid://c065m8d2nvn0t" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00095.png" id="96_tisok"]
+[ext_resource type="Texture2D" uid="uid://cmiafad4my047" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00096.png" id="97_ntrp6"]
+[ext_resource type="Texture2D" uid="uid://ck6fim64axip7" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00097.png" id="98_l5y5w"]
+[ext_resource type="Texture2D" uid="uid://dtr0oekwcevcd" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00098.png" id="99_s5xo8"]
+[ext_resource type="Texture2D" uid="uid://1yc65f74uaql" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00099.png" id="100_mcxi5"]
+[ext_resource type="Texture2D" uid="uid://dt6pfovala21m" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00100.png" id="101_w08ur"]
+[ext_resource type="Texture2D" uid="uid://cb41c51fxmv0u" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00101.png" id="102_cj0lp"]
+[ext_resource type="Texture2D" uid="uid://sf7ipx8ihgo" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00102.png" id="103_740a5"]
+[ext_resource type="Texture2D" uid="uid://c7ujrtysedpr4" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00103.png" id="104_hi5mk"]
+[ext_resource type="Texture2D" uid="uid://cyc3i58v0esxh" path="res://addons/icon_animation/assets/09ビックリハテナ_はげしくない/09ビックリハテナ_はげしくない_00104.png" id="105_kofmx"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_kthhq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_pomwg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_vedi5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_2aebl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_qyuw7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_fwy7y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_yt3u1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_ky3oa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_vbh4c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_a5ic3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_ewsau")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_y645t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_jh35e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_jvkd1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_prp2e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_hauue")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_mi1th")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_rl77n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_82c4c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_r0ylc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_vqk0v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_ln8ka")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_2c3ql")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_nlnp6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_omild")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_4raqi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_h584h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_oxb4a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_j1vjj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_emmbq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_u4f0d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_m3nev")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_qh6my")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_4moic")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_l6rjp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_e6iww")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_ipkf3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_vug1h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_67ng7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_syq8l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_lv2op")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_vi3r0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_o7ni8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_dxwhl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_i5vv2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_ob58i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_i8lqt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_20ixj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_ixbnv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_83hdg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_vtu27")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_j6t1u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_noxq1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_qxl0j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_cpvdt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_ugacb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_j0yev")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_07rq4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_kf0xe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_y3hbn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_1b1dh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_07qm2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_u651v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_n0eve")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_6cgpr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_cxlg6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_d2w3v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_ies3n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_2vilx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_4gklr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_mc2pg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_bd0fl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_klndp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_sipt2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_gw16u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_cfxja")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_rt313")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_jn5wi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_b6jhg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_u80iy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_rvv47")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_4a7ln")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_l1llf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_vcq80")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_f205t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_h5f0f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_hmqls")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_qpxlo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_v1pbn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_4s6b0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_yiqo7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_xaw6q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_vw47o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_8fu5q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("95_dfl58")
+}, {
+"duration": 1.0,
+"texture": ExtResource("96_tisok")
+}, {
+"duration": 1.0,
+"texture": ExtResource("97_ntrp6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("98_l5y5w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("99_s5xo8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("100_mcxi5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("101_w08ur")
+}, {
+"duration": 1.0,
+"texture": ExtResource("102_cj0lp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("103_740a5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("104_hi5mk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("105_kofmx")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]

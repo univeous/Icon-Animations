@@ -1,0 +1,274 @@
+[gd_resource type="SpriteFrames" load_steps=67 format=3 uid="uid://sobkbiqsa6pb"]
+
+[ext_resource type="Texture2D" uid="uid://c7s8ljb0mnp81" path="res://addons/icon_animation/assets/27電球/27電球_rend_00000.png" id="1_g68p1"]
+[ext_resource type="Texture2D" uid="uid://cwo2s20y1g1qi" path="res://addons/icon_animation/assets/27電球/27電球_rend_00001.png" id="2_b3g67"]
+[ext_resource type="Texture2D" uid="uid://dbl6m67jtwrv4" path="res://addons/icon_animation/assets/27電球/27電球_rend_00002.png" id="3_5n086"]
+[ext_resource type="Texture2D" uid="uid://c4eg31wkhtbqi" path="res://addons/icon_animation/assets/27電球/27電球_rend_00003.png" id="4_phnom"]
+[ext_resource type="Texture2D" uid="uid://dp67usa0ufe7a" path="res://addons/icon_animation/assets/27電球/27電球_rend_00004.png" id="5_fr1lb"]
+[ext_resource type="Texture2D" uid="uid://dx8h32n16bo84" path="res://addons/icon_animation/assets/27電球/27電球_rend_00005.png" id="6_cngve"]
+[ext_resource type="Texture2D" uid="uid://b32oj54ihhm06" path="res://addons/icon_animation/assets/27電球/27電球_rend_00006.png" id="7_o17cm"]
+[ext_resource type="Texture2D" uid="uid://cbmc2u1o4hvoc" path="res://addons/icon_animation/assets/27電球/27電球_rend_00007.png" id="8_qnuu3"]
+[ext_resource type="Texture2D" uid="uid://cnhvjwuhlijtu" path="res://addons/icon_animation/assets/27電球/27電球_rend_00008.png" id="9_qd0p5"]
+[ext_resource type="Texture2D" uid="uid://v0iqb2auujef" path="res://addons/icon_animation/assets/27電球/27電球_rend_00009.png" id="10_ebxma"]
+[ext_resource type="Texture2D" uid="uid://2o08ga8apoc0" path="res://addons/icon_animation/assets/27電球/27電球_rend_00010.png" id="11_hk08b"]
+[ext_resource type="Texture2D" uid="uid://bqsb5xkxgwsgi" path="res://addons/icon_animation/assets/27電球/27電球_rend_00011.png" id="12_flc4t"]
+[ext_resource type="Texture2D" uid="uid://bsuasnvrl3o5m" path="res://addons/icon_animation/assets/27電球/27電球_rend_00012.png" id="13_npdv4"]
+[ext_resource type="Texture2D" uid="uid://deijc0hy53crf" path="res://addons/icon_animation/assets/27電球/27電球_rend_00013.png" id="14_q8c3k"]
+[ext_resource type="Texture2D" uid="uid://o58yiwaf1qbb" path="res://addons/icon_animation/assets/27電球/27電球_rend_00014.png" id="15_wrevt"]
+[ext_resource type="Texture2D" uid="uid://ds7vgwywq2om1" path="res://addons/icon_animation/assets/27電球/27電球_rend_00015.png" id="16_gnpjm"]
+[ext_resource type="Texture2D" uid="uid://cqu4dslbiyj0m" path="res://addons/icon_animation/assets/27電球/27電球_rend_00016.png" id="17_hgso0"]
+[ext_resource type="Texture2D" uid="uid://utjl5a87jd15" path="res://addons/icon_animation/assets/27電球/27電球_rend_00017.png" id="18_qjard"]
+[ext_resource type="Texture2D" uid="uid://c3rruw8dn6h8k" path="res://addons/icon_animation/assets/27電球/27電球_rend_00018.png" id="19_ameqf"]
+[ext_resource type="Texture2D" uid="uid://6nhnsec6oau1" path="res://addons/icon_animation/assets/27電球/27電球_rend_00019.png" id="20_pnxf7"]
+[ext_resource type="Texture2D" uid="uid://cpllkbkikrvdk" path="res://addons/icon_animation/assets/27電球/27電球_rend_00020.png" id="21_r1bey"]
+[ext_resource type="Texture2D" uid="uid://dacctwo13vfyr" path="res://addons/icon_animation/assets/27電球/27電球_rend_00021.png" id="22_nfq36"]
+[ext_resource type="Texture2D" uid="uid://b5qdd8rsfgr7p" path="res://addons/icon_animation/assets/27電球/27電球_rend_00022.png" id="23_jfc17"]
+[ext_resource type="Texture2D" uid="uid://b2hlugnw00rme" path="res://addons/icon_animation/assets/27電球/27電球_rend_00023.png" id="24_v8uti"]
+[ext_resource type="Texture2D" uid="uid://dgefn41lyfcq1" path="res://addons/icon_animation/assets/27電球/27電球_rend_00024.png" id="25_10s5d"]
+[ext_resource type="Texture2D" uid="uid://dbsf6u5m1n1ks" path="res://addons/icon_animation/assets/27電球/27電球_rend_00025.png" id="26_nl4cu"]
+[ext_resource type="Texture2D" uid="uid://cxvdgtevhbsb7" path="res://addons/icon_animation/assets/27電球/27電球_rend_00026.png" id="27_vp46e"]
+[ext_resource type="Texture2D" uid="uid://dtf50l5ar0sd6" path="res://addons/icon_animation/assets/27電球/27電球_rend_00027.png" id="28_pled6"]
+[ext_resource type="Texture2D" uid="uid://dl21pufemnllq" path="res://addons/icon_animation/assets/27電球/27電球_rend_00028.png" id="29_8b01v"]
+[ext_resource type="Texture2D" uid="uid://dr1kqq56awito" path="res://addons/icon_animation/assets/27電球/27電球_rend_00029.png" id="30_t4g8l"]
+[ext_resource type="Texture2D" uid="uid://wynq0lwqv5ks" path="res://addons/icon_animation/assets/27電球/27電球_rend_00030.png" id="31_b7ojv"]
+[ext_resource type="Texture2D" uid="uid://cujg6ofrbvkle" path="res://addons/icon_animation/assets/27電球/27電球_rend_00031.png" id="32_txxrf"]
+[ext_resource type="Texture2D" uid="uid://c5wadooumlm6f" path="res://addons/icon_animation/assets/27電球/27電球_rend_00032.png" id="33_s43jv"]
+[ext_resource type="Texture2D" uid="uid://dxwij0hfti83w" path="res://addons/icon_animation/assets/27電球/27電球_rend_00033.png" id="34_bej20"]
+[ext_resource type="Texture2D" uid="uid://cy60bn0dwqvuj" path="res://addons/icon_animation/assets/27電球/27電球_rend_00034.png" id="35_jn8ob"]
+[ext_resource type="Texture2D" uid="uid://beryv1wiewd70" path="res://addons/icon_animation/assets/27電球/27電球_rend_00035.png" id="36_o41f4"]
+[ext_resource type="Texture2D" uid="uid://deyp1r2hwsx3h" path="res://addons/icon_animation/assets/27電球/27電球_rend_00036.png" id="37_foq86"]
+[ext_resource type="Texture2D" uid="uid://skok4gh37rb1" path="res://addons/icon_animation/assets/27電球/27電球_rend_00037.png" id="38_dmk5s"]
+[ext_resource type="Texture2D" uid="uid://dyeejc7fgpgj6" path="res://addons/icon_animation/assets/27電球/27電球_rend_00038.png" id="39_08kae"]
+[ext_resource type="Texture2D" uid="uid://miid3emfqpb1" path="res://addons/icon_animation/assets/27電球/27電球_rend_00039.png" id="40_bqwey"]
+[ext_resource type="Texture2D" uid="uid://riv0n6iy1dju" path="res://addons/icon_animation/assets/27電球/27電球_rend_00040.png" id="41_kkbn3"]
+[ext_resource type="Texture2D" uid="uid://h800nae0g267" path="res://addons/icon_animation/assets/27電球/27電球_rend_00041.png" id="42_ap651"]
+[ext_resource type="Texture2D" uid="uid://cnmrhpttxcqwa" path="res://addons/icon_animation/assets/27電球/27電球_rend_00042.png" id="43_nprsy"]
+[ext_resource type="Texture2D" uid="uid://buhfw2ax56ojq" path="res://addons/icon_animation/assets/27電球/27電球_rend_00043.png" id="44_snpf2"]
+[ext_resource type="Texture2D" uid="uid://dj7xjqjwecgt" path="res://addons/icon_animation/assets/27電球/27電球_rend_00044.png" id="45_r1q7k"]
+[ext_resource type="Texture2D" uid="uid://bpsgm3d6ooqv2" path="res://addons/icon_animation/assets/27電球/27電球_rend_00045.png" id="46_jhfjq"]
+[ext_resource type="Texture2D" uid="uid://df4qn1odcg6sp" path="res://addons/icon_animation/assets/27電球/27電球_rend_00046.png" id="47_fwyte"]
+[ext_resource type="Texture2D" uid="uid://b2p5x2ycyvxg6" path="res://addons/icon_animation/assets/27電球/27電球_rend_00047.png" id="48_tch1t"]
+[ext_resource type="Texture2D" uid="uid://botd246upeomo" path="res://addons/icon_animation/assets/27電球/27電球_rend_00048.png" id="49_f31f1"]
+[ext_resource type="Texture2D" uid="uid://cewb36ra4ri4a" path="res://addons/icon_animation/assets/27電球/27電球_rend_00049.png" id="50_61vqk"]
+[ext_resource type="Texture2D" uid="uid://cgia5xtj3flnp" path="res://addons/icon_animation/assets/27電球/27電球_rend_00050.png" id="51_kkmj3"]
+[ext_resource type="Texture2D" uid="uid://cytk3q8k66go6" path="res://addons/icon_animation/assets/27電球/27電球_rend_00051.png" id="52_kk50n"]
+[ext_resource type="Texture2D" uid="uid://bl0f56vhs3ync" path="res://addons/icon_animation/assets/27電球/27電球_rend_00052.png" id="53_hqiud"]
+[ext_resource type="Texture2D" uid="uid://dcquuvrrvk8dy" path="res://addons/icon_animation/assets/27電球/27電球_rend_00053.png" id="54_t06sv"]
+[ext_resource type="Texture2D" uid="uid://b63rhqqsone04" path="res://addons/icon_animation/assets/27電球/27電球_rend_00054.png" id="55_kgca0"]
+[ext_resource type="Texture2D" uid="uid://ddswysgll8hjn" path="res://addons/icon_animation/assets/27電球/27電球_rend_00055.png" id="56_muwmd"]
+[ext_resource type="Texture2D" uid="uid://cuok1lmhdwbr8" path="res://addons/icon_animation/assets/27電球/27電球_rend_00056.png" id="57_nhb01"]
+[ext_resource type="Texture2D" uid="uid://c4eq6c6283fun" path="res://addons/icon_animation/assets/27電球/27電球_rend_00057.png" id="58_hyytn"]
+[ext_resource type="Texture2D" uid="uid://80bgq7sbqyeo" path="res://addons/icon_animation/assets/27電球/27電球_rend_00058.png" id="59_cocpm"]
+[ext_resource type="Texture2D" uid="uid://t7l3eapdnbo8" path="res://addons/icon_animation/assets/27電球/27電球_rend_00059.png" id="60_1rloj"]
+[ext_resource type="Texture2D" uid="uid://dayvbbstm77xf" path="res://addons/icon_animation/assets/27電球/27電球_rend_00060.png" id="61_6m2do"]
+[ext_resource type="Texture2D" uid="uid://dh5m01fn5mdtg" path="res://addons/icon_animation/assets/27電球/27電球_rend_00061.png" id="62_srloi"]
+[ext_resource type="Texture2D" uid="uid://dv5n78kr265rx" path="res://addons/icon_animation/assets/27電球/27電球_rend_00062.png" id="63_h562e"]
+[ext_resource type="Texture2D" uid="uid://dygt81yhkwta8" path="res://addons/icon_animation/assets/27電球/27電球_rend_00063.png" id="64_5b3ab"]
+[ext_resource type="Texture2D" uid="uid://bh1tibn0ebjkv" path="res://addons/icon_animation/assets/27電球/27電球_rend_00064.png" id="65_0767d"]
+[ext_resource type="Texture2D" uid="uid://dbfau5uba0f4i" path="res://addons/icon_animation/assets/27電球/27電球_rend_00065.png" id="66_tg5s7"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_g68p1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_b3g67")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_5n086")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_phnom")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_fr1lb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_cngve")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_o17cm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_qnuu3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_qd0p5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_ebxma")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_hk08b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_flc4t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_npdv4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_q8c3k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_wrevt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_gnpjm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_hgso0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_qjard")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_ameqf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_pnxf7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_r1bey")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_nfq36")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_jfc17")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_v8uti")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_10s5d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_nl4cu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_vp46e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_pled6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_8b01v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_t4g8l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_b7ojv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_txxrf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_s43jv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_bej20")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_jn8ob")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_o41f4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_foq86")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_dmk5s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_08kae")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_bqwey")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_kkbn3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_ap651")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_nprsy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_snpf2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_r1q7k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_jhfjq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_fwyte")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_tch1t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_f31f1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_61vqk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_kkmj3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_kk50n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_hqiud")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_t06sv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_kgca0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_muwmd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_nhb01")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_hyytn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_cocpm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_1rloj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_6m2do")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_srloi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_h562e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_5b3ab")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_0767d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_tg5s7")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]

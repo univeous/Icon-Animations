@@ -1,0 +1,282 @@
+[gd_resource type="SpriteFrames" load_steps=69 format=3 uid="uid://c1bpv224cl2ld"]
+
+[ext_resource type="Texture2D" uid="uid://dpgkxrqcc0lcb" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00000.png" id="1_6di7b"]
+[ext_resource type="Texture2D" uid="uid://ol6p173bmacx" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00001.png" id="2_hwi7g"]
+[ext_resource type="Texture2D" uid="uid://ddnlny40sq05a" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00002.png" id="3_leu5x"]
+[ext_resource type="Texture2D" uid="uid://bicrwplq1ccrk" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00003.png" id="4_j6h5b"]
+[ext_resource type="Texture2D" uid="uid://duwhdegn5bhnm" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00004.png" id="5_ac3gk"]
+[ext_resource type="Texture2D" uid="uid://nc2sk7oe76tm" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00005.png" id="6_k6xpb"]
+[ext_resource type="Texture2D" uid="uid://devytqfdu31cj" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00006.png" id="7_j0n8v"]
+[ext_resource type="Texture2D" uid="uid://dr06loy8t2lst" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00007.png" id="8_0hf2y"]
+[ext_resource type="Texture2D" uid="uid://balafmrbj1x1s" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00008.png" id="9_7but3"]
+[ext_resource type="Texture2D" uid="uid://bxf80jk6dinoq" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00009.png" id="10_vs7yh"]
+[ext_resource type="Texture2D" uid="uid://dmmdtqi3venlx" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00010.png" id="11_sp4a0"]
+[ext_resource type="Texture2D" uid="uid://ckpduxj7kfvc8" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00011.png" id="12_dri5b"]
+[ext_resource type="Texture2D" uid="uid://b6v7jqwcmth2v" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00012.png" id="13_5ehx1"]
+[ext_resource type="Texture2D" uid="uid://qtr0mqy6t61u" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00013.png" id="14_ynay8"]
+[ext_resource type="Texture2D" uid="uid://4dq5gqk6etwp" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00014.png" id="15_wx71d"]
+[ext_resource type="Texture2D" uid="uid://bsh1q0nmsbi1f" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00015.png" id="16_00p4x"]
+[ext_resource type="Texture2D" uid="uid://b6l40uaus6m7n" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00016.png" id="17_1ff30"]
+[ext_resource type="Texture2D" uid="uid://bq7sjgky01ors" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00017.png" id="18_iir22"]
+[ext_resource type="Texture2D" uid="uid://baxbawj7qqh8" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00018.png" id="19_orjpy"]
+[ext_resource type="Texture2D" uid="uid://bn2pc7dic1otm" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00019.png" id="20_m08bf"]
+[ext_resource type="Texture2D" uid="uid://ivjv7gnecqqb" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00020.png" id="21_ruhtr"]
+[ext_resource type="Texture2D" uid="uid://bdl8bplueo7tg" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00021.png" id="22_rfvuu"]
+[ext_resource type="Texture2D" uid="uid://x003h4e6fii" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00022.png" id="23_f2c4g"]
+[ext_resource type="Texture2D" uid="uid://t1evek00bfuc" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00023.png" id="24_ejepr"]
+[ext_resource type="Texture2D" uid="uid://bfy0ntcjo3qwn" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00024.png" id="25_pms8l"]
+[ext_resource type="Texture2D" uid="uid://1viwpxfgglid" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00025.png" id="26_vnut0"]
+[ext_resource type="Texture2D" uid="uid://dhcolcu6bgmrb" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00026.png" id="27_mfrw4"]
+[ext_resource type="Texture2D" uid="uid://ca6h6ew4tato7" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00027.png" id="28_4pws1"]
+[ext_resource type="Texture2D" uid="uid://cylboxhas1gm" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00028.png" id="29_icgmb"]
+[ext_resource type="Texture2D" uid="uid://be7wl1v0641hn" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00029.png" id="30_ggmg0"]
+[ext_resource type="Texture2D" uid="uid://c7tirtybohehm" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00030.png" id="31_gtlxq"]
+[ext_resource type="Texture2D" uid="uid://c6ybppgk6leek" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00031.png" id="32_hqvim"]
+[ext_resource type="Texture2D" uid="uid://dsv1kk3xmudse" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00032.png" id="33_com5k"]
+[ext_resource type="Texture2D" uid="uid://bg3ashqrnb5q" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00033.png" id="34_hfo5m"]
+[ext_resource type="Texture2D" uid="uid://bg1rjxogyvhgo" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00034.png" id="35_y7snv"]
+[ext_resource type="Texture2D" uid="uid://bba4s7ebu6gu4" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00035.png" id="36_e51p4"]
+[ext_resource type="Texture2D" uid="uid://dlc6pwia25psk" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00036.png" id="37_r2tn5"]
+[ext_resource type="Texture2D" uid="uid://eu81x2rci5lj" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00037.png" id="38_7atub"]
+[ext_resource type="Texture2D" uid="uid://bk5k65g8vghip" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00038.png" id="39_7c83s"]
+[ext_resource type="Texture2D" uid="uid://c1tgid7xe0u4h" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00039.png" id="40_vc4y8"]
+[ext_resource type="Texture2D" uid="uid://c5xox2uo1i123" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00040.png" id="41_5anpi"]
+[ext_resource type="Texture2D" uid="uid://k8kpw1kab8dk" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00041.png" id="42_8bjxl"]
+[ext_resource type="Texture2D" uid="uid://dp1nii3vre5hi" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00042.png" id="43_kopuu"]
+[ext_resource type="Texture2D" uid="uid://celp275ltn221" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00043.png" id="44_r8qq8"]
+[ext_resource type="Texture2D" uid="uid://b2hnj5qg12niy" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00044.png" id="45_jlhwl"]
+[ext_resource type="Texture2D" uid="uid://gstip8oxyp4l" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00045.png" id="46_stbk5"]
+[ext_resource type="Texture2D" uid="uid://btqeq3oqvjwlr" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00046.png" id="47_qolyf"]
+[ext_resource type="Texture2D" uid="uid://d1khdse20nwu" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00047.png" id="48_vf6hi"]
+[ext_resource type="Texture2D" uid="uid://csyjbaslpkm87" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00048.png" id="49_nj7us"]
+[ext_resource type="Texture2D" uid="uid://kmsw6s6fb3ui" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00049.png" id="50_woi1p"]
+[ext_resource type="Texture2D" uid="uid://dt68tgs3nl6ev" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00050.png" id="51_t4a8p"]
+[ext_resource type="Texture2D" uid="uid://iuocqtyakbiw" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00051.png" id="52_p2rsu"]
+[ext_resource type="Texture2D" uid="uid://c5psnw6u2362x" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00052.png" id="53_kaqdu"]
+[ext_resource type="Texture2D" uid="uid://dvk1xtvk8hd10" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00053.png" id="54_jdupw"]
+[ext_resource type="Texture2D" uid="uid://lhavyycvkiq4" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00054.png" id="55_nix6d"]
+[ext_resource type="Texture2D" uid="uid://cvva5caeyqe1r" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00055.png" id="56_tykap"]
+[ext_resource type="Texture2D" uid="uid://8lv3x5k0teon" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00056.png" id="57_d2w5n"]
+[ext_resource type="Texture2D" uid="uid://c03lrar3bj6jm" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00057.png" id="58_rgtaj"]
+[ext_resource type="Texture2D" uid="uid://dat1chxdo5axi" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00058.png" id="59_3rnhj"]
+[ext_resource type="Texture2D" uid="uid://cbdymndvngtlk" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00059.png" id="60_ahyhm"]
+[ext_resource type="Texture2D" uid="uid://c7edn815hurim" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00060.png" id="61_4n81c"]
+[ext_resource type="Texture2D" uid="uid://6t5k5nfntf82" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00061.png" id="62_yk54h"]
+[ext_resource type="Texture2D" uid="uid://bqm13dcne8x4x" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00062.png" id="63_upwmb"]
+[ext_resource type="Texture2D" uid="uid://cwfsw57em86e6" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00063.png" id="64_csj3a"]
+[ext_resource type="Texture2D" uid="uid://bbdu7bv3ivbdk" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00064.png" id="65_i3vrg"]
+[ext_resource type="Texture2D" uid="uid://81rx2s2wcdnk" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00065.png" id="66_lvq3o"]
+[ext_resource type="Texture2D" uid="uid://swdphvtyfowi" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00066.png" id="67_uebyp"]
+[ext_resource type="Texture2D" uid="uid://dndfxr3ohsnud" path="res://addons/icon_animation/assets/48ハートD_割れ/48ハートD_割れ_rend_00067.png" id="68_n5xgh"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_6di7b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_hwi7g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_leu5x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_j6h5b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_ac3gk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_k6xpb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_j0n8v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_0hf2y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_7but3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_vs7yh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_sp4a0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_dri5b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_5ehx1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_ynay8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_wx71d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_00p4x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_1ff30")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_iir22")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_orjpy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_m08bf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_ruhtr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_rfvuu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_f2c4g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_ejepr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_pms8l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_vnut0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_mfrw4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_4pws1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_icgmb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_ggmg0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_gtlxq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_hqvim")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_com5k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_hfo5m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_y7snv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_e51p4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_r2tn5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_7atub")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_7c83s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_vc4y8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_5anpi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_8bjxl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_kopuu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_r8qq8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_jlhwl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_stbk5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_qolyf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_vf6hi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_nj7us")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_woi1p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_t4a8p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_p2rsu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_kaqdu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_jdupw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_nix6d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_tykap")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_d2w5n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_rgtaj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_3rnhj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_ahyhm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_4n81c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_yk54h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_upwmb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_csj3a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_i3vrg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_lvq3o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_uebyp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_n5xgh")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]

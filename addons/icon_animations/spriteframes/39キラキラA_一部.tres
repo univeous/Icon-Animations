@@ -1,0 +1,458 @@
+[gd_resource type="SpriteFrames" load_steps=113 format=3 uid="uid://jhgyqlaqk1q0"]
+
+[ext_resource type="Texture2D" uid="uid://02vvpj8xrkog" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00000.png" id="1_184su"]
+[ext_resource type="Texture2D" uid="uid://b68y0idpl5b2u" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00001.png" id="2_n3hfd"]
+[ext_resource type="Texture2D" uid="uid://da12aukvody4p" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00002.png" id="3_uto82"]
+[ext_resource type="Texture2D" uid="uid://caa3k5873ppqe" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00003.png" id="4_dds77"]
+[ext_resource type="Texture2D" uid="uid://cyukkyeq81jyu" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00004.png" id="5_qo28j"]
+[ext_resource type="Texture2D" uid="uid://cyo7gkan1vpae" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00005.png" id="6_k8wne"]
+[ext_resource type="Texture2D" uid="uid://coanq2cgstkx6" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00006.png" id="7_75vxu"]
+[ext_resource type="Texture2D" uid="uid://dcielnv3c5usk" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00007.png" id="8_2r6m6"]
+[ext_resource type="Texture2D" uid="uid://cejq64uilga40" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00008.png" id="9_nggs6"]
+[ext_resource type="Texture2D" uid="uid://draf2b653svgg" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00009.png" id="10_tqfm5"]
+[ext_resource type="Texture2D" uid="uid://c8r3f0kggu8sh" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00010.png" id="11_ir0rx"]
+[ext_resource type="Texture2D" uid="uid://b8rie75rbsikw" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00011.png" id="12_xft8c"]
+[ext_resource type="Texture2D" uid="uid://dhddwndgfsiis" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00012.png" id="13_ouyce"]
+[ext_resource type="Texture2D" uid="uid://bmm17ctep5nqj" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00013.png" id="14_hpl6a"]
+[ext_resource type="Texture2D" uid="uid://p8i5r8gu3fyt" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00014.png" id="15_8kbtq"]
+[ext_resource type="Texture2D" uid="uid://gmqm43jsfd2h" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00015.png" id="16_j8hd5"]
+[ext_resource type="Texture2D" uid="uid://kc4nte2ahy54" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00016.png" id="17_e5e31"]
+[ext_resource type="Texture2D" uid="uid://nsxv3wlybivq" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00017.png" id="18_03smo"]
+[ext_resource type="Texture2D" uid="uid://xgj8dkvs85j0" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00018.png" id="19_7elef"]
+[ext_resource type="Texture2D" uid="uid://b1i7dgk7j0p6j" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00019.png" id="20_5tpmj"]
+[ext_resource type="Texture2D" uid="uid://63xneqxry88e" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00020.png" id="21_synx0"]
+[ext_resource type="Texture2D" uid="uid://b85tuxcw73b8y" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00021.png" id="22_mro1f"]
+[ext_resource type="Texture2D" uid="uid://830rflscmbxd" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00022.png" id="23_syfg5"]
+[ext_resource type="Texture2D" uid="uid://ndmfhn22fppl" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00023.png" id="24_qdgok"]
+[ext_resource type="Texture2D" uid="uid://qltymly4nave" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00024.png" id="25_s31ty"]
+[ext_resource type="Texture2D" uid="uid://e68qp3och41s" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00025.png" id="26_0dq7p"]
+[ext_resource type="Texture2D" uid="uid://qga2qglmgdb2" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00026.png" id="27_7vyj1"]
+[ext_resource type="Texture2D" uid="uid://b3c4ljfibmuhk" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00027.png" id="28_pj1f0"]
+[ext_resource type="Texture2D" uid="uid://c53l15ohem61o" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00028.png" id="29_5mkcc"]
+[ext_resource type="Texture2D" uid="uid://dkbo62g6p8tls" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00029.png" id="30_85xhs"]
+[ext_resource type="Texture2D" uid="uid://db88d1r2tso64" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00030.png" id="31_tun1f"]
+[ext_resource type="Texture2D" uid="uid://ek15a852bqyq" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00031.png" id="32_q4g4l"]
+[ext_resource type="Texture2D" uid="uid://dcojcxa07btnf" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00032.png" id="33_rkdei"]
+[ext_resource type="Texture2D" uid="uid://dn6c7q5p7w6do" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00033.png" id="34_y7hwd"]
+[ext_resource type="Texture2D" uid="uid://3jnt8n8ghn6l" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00034.png" id="35_7fkqt"]
+[ext_resource type="Texture2D" uid="uid://dk5mex23lsvbm" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00035.png" id="36_o2nk8"]
+[ext_resource type="Texture2D" uid="uid://b5euuqga6upwp" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00036.png" id="37_14wui"]
+[ext_resource type="Texture2D" uid="uid://b5yxwi5pc71ma" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00037.png" id="38_0ns6l"]
+[ext_resource type="Texture2D" uid="uid://dxgf0q54ocop1" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00038.png" id="39_1wp0u"]
+[ext_resource type="Texture2D" uid="uid://i4inwuad0fpk" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00039.png" id="40_w5lde"]
+[ext_resource type="Texture2D" uid="uid://dbmv2jrdq0ear" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00040.png" id="41_mf4lv"]
+[ext_resource type="Texture2D" uid="uid://lyeljci0ephd" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00041.png" id="42_jye4e"]
+[ext_resource type="Texture2D" uid="uid://gpjk5x4wvmpa" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00042.png" id="43_tpeke"]
+[ext_resource type="Texture2D" uid="uid://dsgtqms3ehw4q" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00043.png" id="44_duuks"]
+[ext_resource type="Texture2D" uid="uid://ukebs7627s0r" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00044.png" id="45_dxc6p"]
+[ext_resource type="Texture2D" uid="uid://cs7ft0gm8y85t" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00045.png" id="46_g2loq"]
+[ext_resource type="Texture2D" uid="uid://6fqoke682it" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00046.png" id="47_qd8fj"]
+[ext_resource type="Texture2D" uid="uid://bmm2myrv671ih" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00047.png" id="48_ch8kc"]
+[ext_resource type="Texture2D" uid="uid://dtj6djgk1rr04" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00048.png" id="49_rdrrr"]
+[ext_resource type="Texture2D" uid="uid://bdli33c7nnwwh" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00049.png" id="50_688w4"]
+[ext_resource type="Texture2D" uid="uid://bkv73djltin6a" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00050.png" id="51_1xn1g"]
+[ext_resource type="Texture2D" uid="uid://npnvscri6g12" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00051.png" id="52_xhg4y"]
+[ext_resource type="Texture2D" uid="uid://borgxe52mkju1" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00052.png" id="53_5sonr"]
+[ext_resource type="Texture2D" uid="uid://dd0xy8bplvcw" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00053.png" id="54_qdmpr"]
+[ext_resource type="Texture2D" uid="uid://dffm2vdd3f0uu" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00054.png" id="55_wvame"]
+[ext_resource type="Texture2D" uid="uid://cebe3n3kmc2ix" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00055.png" id="56_k100n"]
+[ext_resource type="Texture2D" uid="uid://8fab3w8jrua4" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00056.png" id="57_1wfw6"]
+[ext_resource type="Texture2D" uid="uid://8sqgkhj3rue3" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00057.png" id="58_qj2ai"]
+[ext_resource type="Texture2D" uid="uid://c88fru5vs41e8" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00058.png" id="59_3e5e3"]
+[ext_resource type="Texture2D" uid="uid://ngk0yuokasdb" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00059.png" id="60_lcr8a"]
+[ext_resource type="Texture2D" uid="uid://b1n1i4737heee" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00060.png" id="61_1gmdp"]
+[ext_resource type="Texture2D" uid="uid://go3euhvhuc0m" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00061.png" id="62_rludu"]
+[ext_resource type="Texture2D" uid="uid://ukg0bu7jbpot" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00062.png" id="63_hjjg3"]
+[ext_resource type="Texture2D" uid="uid://bjkxaayk85ocl" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00063.png" id="64_hwr6i"]
+[ext_resource type="Texture2D" uid="uid://bleo1ktb6c6xw" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00064.png" id="65_ng0ex"]
+[ext_resource type="Texture2D" uid="uid://bbx06a3rgaafi" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00065.png" id="66_bpmyp"]
+[ext_resource type="Texture2D" uid="uid://c2q5bo8febb4r" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00066.png" id="67_4no7x"]
+[ext_resource type="Texture2D" uid="uid://ek8ho4s0pq22" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00067.png" id="68_mtsp3"]
+[ext_resource type="Texture2D" uid="uid://c03xp7pi0npv4" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00068.png" id="69_cjrlg"]
+[ext_resource type="Texture2D" uid="uid://d0stx5s8wricx" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00069.png" id="70_c8e12"]
+[ext_resource type="Texture2D" uid="uid://cc44ukm0stwn" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00070.png" id="71_431et"]
+[ext_resource type="Texture2D" uid="uid://o0icdaesicxe" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00071.png" id="72_yhdk8"]
+[ext_resource type="Texture2D" uid="uid://df0endmkqnma6" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00072.png" id="73_1caxi"]
+[ext_resource type="Texture2D" uid="uid://dnj267806itds" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00073.png" id="74_ly8ij"]
+[ext_resource type="Texture2D" uid="uid://dn17d5ylcv14q" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00074.png" id="75_8ngk6"]
+[ext_resource type="Texture2D" uid="uid://cvj5pd2ukwcwe" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00075.png" id="76_de6f3"]
+[ext_resource type="Texture2D" uid="uid://csw4upwsor7uj" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00076.png" id="77_7g8ex"]
+[ext_resource type="Texture2D" uid="uid://bwob0hsou41b0" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00077.png" id="78_7ui0o"]
+[ext_resource type="Texture2D" uid="uid://cnnhn66yb8o7" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00078.png" id="79_hncm7"]
+[ext_resource type="Texture2D" uid="uid://cild2hymj8cc7" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00079.png" id="80_8rigi"]
+[ext_resource type="Texture2D" uid="uid://cjbu3dop1c3f1" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00080.png" id="81_ttbhf"]
+[ext_resource type="Texture2D" uid="uid://bcsejogy451gx" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00081.png" id="82_ty8yk"]
+[ext_resource type="Texture2D" uid="uid://deyedffpyu56a" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00082.png" id="83_4b70g"]
+[ext_resource type="Texture2D" uid="uid://bjr4ltr28o3tc" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00083.png" id="84_ys6hc"]
+[ext_resource type="Texture2D" uid="uid://bmpxxnje07e7" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00084.png" id="85_5q15t"]
+[ext_resource type="Texture2D" uid="uid://31f8u00le0l6" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00085.png" id="86_62h6g"]
+[ext_resource type="Texture2D" uid="uid://c8d5v6brijpjs" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00086.png" id="87_lk4ne"]
+[ext_resource type="Texture2D" uid="uid://c5hojv4efbvb1" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00087.png" id="88_u82h2"]
+[ext_resource type="Texture2D" uid="uid://bi0tcbev6jxiu" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00088.png" id="89_byq43"]
+[ext_resource type="Texture2D" uid="uid://d2vppl3mwy1qq" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00089.png" id="90_py6s7"]
+[ext_resource type="Texture2D" uid="uid://brisbgyssueld" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00090.png" id="91_mhgfa"]
+[ext_resource type="Texture2D" uid="uid://pdwtr5pnal8e" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00091.png" id="92_lquru"]
+[ext_resource type="Texture2D" uid="uid://6e2uqtxi5v00" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00092.png" id="93_dq8hx"]
+[ext_resource type="Texture2D" uid="uid://bum5f382e1jbc" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00093.png" id="94_utq0a"]
+[ext_resource type="Texture2D" uid="uid://dvft8s1n1u3xd" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00094.png" id="95_m75t5"]
+[ext_resource type="Texture2D" uid="uid://bs5v3u7ltkuj0" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00095.png" id="96_c16ia"]
+[ext_resource type="Texture2D" uid="uid://lbfs5j50v3fh" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00096.png" id="97_4peyj"]
+[ext_resource type="Texture2D" uid="uid://chrlkjkrtubkv" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00097.png" id="98_emlm1"]
+[ext_resource type="Texture2D" uid="uid://c7xkbnlryw022" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00098.png" id="99_qfacs"]
+[ext_resource type="Texture2D" uid="uid://bf5ujnsdkdi1g" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00099.png" id="100_rppms"]
+[ext_resource type="Texture2D" uid="uid://d16knhg08m01a" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00100.png" id="101_cuf47"]
+[ext_resource type="Texture2D" uid="uid://duibr2hhbbr6c" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00101.png" id="102_frqre"]
+[ext_resource type="Texture2D" uid="uid://duo27kd7hswvl" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00102.png" id="103_aqtkl"]
+[ext_resource type="Texture2D" uid="uid://vatiextrbx6" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00103.png" id="104_yl7ex"]
+[ext_resource type="Texture2D" uid="uid://bkuawdyfmljch" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00104.png" id="105_ipm5q"]
+[ext_resource type="Texture2D" uid="uid://cxxwwxjkxuon5" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00105.png" id="106_r66nu"]
+[ext_resource type="Texture2D" uid="uid://q1g3k8skpvdg" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00106.png" id="107_o54gt"]
+[ext_resource type="Texture2D" uid="uid://3gkmg4nmd4pa" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00107.png" id="108_sysff"]
+[ext_resource type="Texture2D" uid="uid://c5p8jkq3atbil" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00108.png" id="109_a7fte"]
+[ext_resource type="Texture2D" uid="uid://cl74l17j18fqp" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00109.png" id="110_tyl8p"]
+[ext_resource type="Texture2D" uid="uid://j621fhn23356" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00110.png" id="111_056ks"]
+[ext_resource type="Texture2D" uid="uid://eqacsundu77j" path="res://addons/icon_animation/assets/39キラキラA_一部/39キラキラA_一部_rend_00111.png" id="112_3exhl"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_184su")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_n3hfd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_uto82")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_dds77")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_qo28j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_k8wne")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_75vxu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_2r6m6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_nggs6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_tqfm5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_ir0rx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_xft8c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_ouyce")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_hpl6a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_8kbtq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_j8hd5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_e5e31")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_03smo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_7elef")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_5tpmj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_synx0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_mro1f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_syfg5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_qdgok")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_s31ty")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_0dq7p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_7vyj1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_pj1f0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_5mkcc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_85xhs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_tun1f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_q4g4l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_rkdei")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_y7hwd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_7fkqt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_o2nk8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_14wui")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_0ns6l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_1wp0u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_w5lde")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_mf4lv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_jye4e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_tpeke")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_duuks")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_dxc6p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_g2loq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_qd8fj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_ch8kc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_rdrrr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_688w4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_1xn1g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_xhg4y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_5sonr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_qdmpr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_wvame")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_k100n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_1wfw6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_qj2ai")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_3e5e3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_lcr8a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_1gmdp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_rludu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_hjjg3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_hwr6i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_ng0ex")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_bpmyp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_4no7x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_mtsp3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_cjrlg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_c8e12")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_431et")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_yhdk8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_1caxi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_ly8ij")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_8ngk6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_de6f3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_7g8ex")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_7ui0o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_hncm7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_8rigi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_ttbhf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_ty8yk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_4b70g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_ys6hc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_5q15t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_62h6g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_lk4ne")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_u82h2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_byq43")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_py6s7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_mhgfa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_lquru")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_dq8hx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_utq0a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("95_m75t5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("96_c16ia")
+}, {
+"duration": 1.0,
+"texture": ExtResource("97_4peyj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("98_emlm1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("99_qfacs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("100_rppms")
+}, {
+"duration": 1.0,
+"texture": ExtResource("101_cuf47")
+}, {
+"duration": 1.0,
+"texture": ExtResource("102_frqre")
+}, {
+"duration": 1.0,
+"texture": ExtResource("103_aqtkl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("104_yl7ex")
+}, {
+"duration": 1.0,
+"texture": ExtResource("105_ipm5q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("106_r66nu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("107_o54gt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("108_sysff")
+}, {
+"duration": 1.0,
+"texture": ExtResource("109_a7fte")
+}, {
+"duration": 1.0,
+"texture": ExtResource("110_tyl8p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("111_056ks")
+}, {
+"duration": 1.0,
+"texture": ExtResource("112_3exhl")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]

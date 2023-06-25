@@ -1,0 +1,194 @@
+[gd_resource type="SpriteFrames" load_steps=47 format=3 uid="uid://cfibcuurtkoal"]
+
+[ext_resource type="Texture2D" uid="uid://fw8bl16ouby7" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00001.png" id="1_65mqw"]
+[ext_resource type="Texture2D" uid="uid://cm33e8hbm84h2" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00002.png" id="2_03pbq"]
+[ext_resource type="Texture2D" uid="uid://ctg4e8f8lb5s5" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00003.png" id="3_s07ob"]
+[ext_resource type="Texture2D" uid="uid://b6p01itg6ygpf" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00004.png" id="4_0vnqd"]
+[ext_resource type="Texture2D" uid="uid://8d40fukyjcku" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00005.png" id="5_dkcmy"]
+[ext_resource type="Texture2D" uid="uid://k4qjdkf8y370" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00006.png" id="6_xiqyq"]
+[ext_resource type="Texture2D" uid="uid://cm0u2806wm786" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00007.png" id="7_ottcg"]
+[ext_resource type="Texture2D" uid="uid://gknqvl42g8j6" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00008.png" id="8_fgmri"]
+[ext_resource type="Texture2D" uid="uid://dlik4rwbkohl7" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00009.png" id="9_fbff8"]
+[ext_resource type="Texture2D" uid="uid://dw6i5lcupxln0" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00010.png" id="10_4rm6o"]
+[ext_resource type="Texture2D" uid="uid://ky2biqvwcelo" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00011.png" id="11_1lol1"]
+[ext_resource type="Texture2D" uid="uid://byeq870oiqjrs" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00012.png" id="12_jc8f3"]
+[ext_resource type="Texture2D" uid="uid://bwybd46gkpqnn" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00013.png" id="13_bhmy6"]
+[ext_resource type="Texture2D" uid="uid://bj4n441jq7vun" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00014.png" id="14_clx26"]
+[ext_resource type="Texture2D" uid="uid://ke4q3heumh4k" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00015.png" id="15_6ua1n"]
+[ext_resource type="Texture2D" uid="uid://c4gxmf5ebc8v3" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00016.png" id="16_j6ro2"]
+[ext_resource type="Texture2D" uid="uid://dqhwhtguuy11u" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00017.png" id="17_4ars1"]
+[ext_resource type="Texture2D" uid="uid://dpp13icruyfor" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00018.png" id="18_03rku"]
+[ext_resource type="Texture2D" uid="uid://u23jfy0xa46j" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00019.png" id="19_upyg2"]
+[ext_resource type="Texture2D" uid="uid://b1d15pk7bpcpc" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00020.png" id="20_6ycx6"]
+[ext_resource type="Texture2D" uid="uid://buk66fx87oei8" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00021.png" id="21_grwn5"]
+[ext_resource type="Texture2D" uid="uid://2yjlb3oyf1e7" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00022.png" id="22_18n78"]
+[ext_resource type="Texture2D" uid="uid://c0t64clybstwy" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00023.png" id="23_yxm8k"]
+[ext_resource type="Texture2D" uid="uid://bu0m3cl7q3qrk" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00024.png" id="24_wo6gx"]
+[ext_resource type="Texture2D" uid="uid://mkdbyuc2kmk8" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00025.png" id="25_a6srm"]
+[ext_resource type="Texture2D" uid="uid://imx6mkqrqw2u" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00026.png" id="26_7yj8h"]
+[ext_resource type="Texture2D" uid="uid://cb1r41nmmmtw0" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00027.png" id="27_l0o5k"]
+[ext_resource type="Texture2D" uid="uid://dxml08f854bpt" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00028.png" id="28_0ebmc"]
+[ext_resource type="Texture2D" uid="uid://dfnrbjljcwsu3" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00029.png" id="29_go6fy"]
+[ext_resource type="Texture2D" uid="uid://df5mgoamrluf1" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00030.png" id="30_ras5i"]
+[ext_resource type="Texture2D" uid="uid://b46khmr8ml17m" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00031.png" id="31_teisl"]
+[ext_resource type="Texture2D" uid="uid://7m1en4fedycr" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00032.png" id="32_r88m7"]
+[ext_resource type="Texture2D" uid="uid://cr3kmwdwdhlbk" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00033.png" id="33_6v1n1"]
+[ext_resource type="Texture2D" uid="uid://cpyrfik7qdjw0" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00034.png" id="34_aiv4u"]
+[ext_resource type="Texture2D" uid="uid://b5rjv3td0q1ew" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00035.png" id="35_44lak"]
+[ext_resource type="Texture2D" uid="uid://dlvcy8t6ilcy2" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00036.png" id="36_cnkt5"]
+[ext_resource type="Texture2D" uid="uid://c0bfgvp7ek1j6" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00037.png" id="37_dyu2f"]
+[ext_resource type="Texture2D" uid="uid://c1rst1i58mott" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00038.png" id="38_3rlht"]
+[ext_resource type="Texture2D" uid="uid://cgs21w2mxcfkj" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00039.png" id="39_8wnae"]
+[ext_resource type="Texture2D" uid="uid://c75t8ixw20dk8" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00040.png" id="40_tpyal"]
+[ext_resource type="Texture2D" uid="uid://cl00vk81qcbuo" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00041.png" id="41_7yg1g"]
+[ext_resource type="Texture2D" uid="uid://2wrqvmwcy857" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00042.png" id="42_yhggi"]
+[ext_resource type="Texture2D" uid="uid://d06i20fhg103l" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00043.png" id="43_q78l1"]
+[ext_resource type="Texture2D" uid="uid://yad7jttkfetk" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00044.png" id="44_xdcor"]
+[ext_resource type="Texture2D" uid="uid://c8uin84t2tjbh" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00045.png" id="45_leftg"]
+[ext_resource type="Texture2D" uid="uid://p7jootj0iecf" path="res://addons/icon_animation/assets/59寒いときの風/59寒いときの風_rend_00046.png" id="46_wv10c"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_65mqw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_03pbq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_s07ob")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_0vnqd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_dkcmy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_xiqyq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_ottcg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_fgmri")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_fbff8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_4rm6o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_1lol1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_jc8f3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_bhmy6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_clx26")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_6ua1n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_j6ro2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_4ars1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_03rku")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_upyg2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_6ycx6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_grwn5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_18n78")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_yxm8k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_wo6gx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_a6srm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_7yj8h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_l0o5k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_0ebmc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_go6fy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_ras5i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_teisl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_r88m7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_6v1n1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_aiv4u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_44lak")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_cnkt5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_dyu2f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_3rlht")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_8wnae")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_tpyal")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_7yg1g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_yhggi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_q78l1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_xdcor")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_leftg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_wv10c")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]

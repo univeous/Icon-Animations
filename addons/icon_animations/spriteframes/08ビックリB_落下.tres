@@ -1,0 +1,370 @@
+[gd_resource type="SpriteFrames" load_steps=91 format=3 uid="uid://b5eytvu11t1m0"]
+
+[ext_resource type="Texture2D" uid="uid://cwenhy1omk02w" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00000.png" id="1_yds57"]
+[ext_resource type="Texture2D" uid="uid://q6adrmkav8kw" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00001.png" id="2_uij66"]
+[ext_resource type="Texture2D" uid="uid://dmn8ndfl02wo2" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00002.png" id="3_qou5w"]
+[ext_resource type="Texture2D" uid="uid://br1rmxx6ygoo5" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00003.png" id="4_f760c"]
+[ext_resource type="Texture2D" uid="uid://cb0iwtuqxcm05" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00004.png" id="5_cslnm"]
+[ext_resource type="Texture2D" uid="uid://cl6ouqhj2uo6l" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00005.png" id="6_2ket7"]
+[ext_resource type="Texture2D" uid="uid://bmm18r50auaih" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00006.png" id="7_r46pt"]
+[ext_resource type="Texture2D" uid="uid://ciubn12l5xqv2" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00007.png" id="8_3g0mc"]
+[ext_resource type="Texture2D" uid="uid://d27ryfa3whs1i" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00008.png" id="9_neivp"]
+[ext_resource type="Texture2D" uid="uid://q85kxlmhg7tr" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00009.png" id="10_fewd1"]
+[ext_resource type="Texture2D" uid="uid://xrvr5kcfcyla" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00010.png" id="11_hl3cx"]
+[ext_resource type="Texture2D" uid="uid://ds6ugs82r6wcv" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00011.png" id="12_a5xsg"]
+[ext_resource type="Texture2D" uid="uid://bptt33mc10y4v" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00012.png" id="13_u2au6"]
+[ext_resource type="Texture2D" uid="uid://chpqfptlmxmb4" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00013.png" id="14_1vmfr"]
+[ext_resource type="Texture2D" uid="uid://dn3u8tbt72pb4" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00014.png" id="15_g5wum"]
+[ext_resource type="Texture2D" uid="uid://dyxn0k43yocph" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00015.png" id="16_mi503"]
+[ext_resource type="Texture2D" uid="uid://bkt3l7i0ku25p" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00016.png" id="17_m3wcq"]
+[ext_resource type="Texture2D" uid="uid://csamelomekbpb" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00017.png" id="18_g783w"]
+[ext_resource type="Texture2D" uid="uid://bir1cdpji86tx" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00018.png" id="19_y0va6"]
+[ext_resource type="Texture2D" uid="uid://b1ook5uptpji3" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00019.png" id="20_abrgg"]
+[ext_resource type="Texture2D" uid="uid://gksx0baesw00" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00020.png" id="21_vbq1c"]
+[ext_resource type="Texture2D" uid="uid://d4b1nhp6qg7ux" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00021.png" id="22_otpu6"]
+[ext_resource type="Texture2D" uid="uid://brf1dy4qyojlt" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00022.png" id="23_hvpnp"]
+[ext_resource type="Texture2D" uid="uid://4eebcncd7ya" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00023.png" id="24_uqpm4"]
+[ext_resource type="Texture2D" uid="uid://c6d33lxnqob00" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00024.png" id="25_mgemb"]
+[ext_resource type="Texture2D" uid="uid://rbmegbuw7wcn" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00025.png" id="26_mh67x"]
+[ext_resource type="Texture2D" uid="uid://cgi2an6vy4s44" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00026.png" id="27_ggrh6"]
+[ext_resource type="Texture2D" uid="uid://cbofn8fbqho80" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00027.png" id="28_ggoh8"]
+[ext_resource type="Texture2D" uid="uid://dcmi7uglajim3" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00028.png" id="29_7t2sx"]
+[ext_resource type="Texture2D" uid="uid://drw5o03shmtp3" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00029.png" id="30_rtmoa"]
+[ext_resource type="Texture2D" uid="uid://dk0t47uvfdx0q" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00030.png" id="31_nvu0v"]
+[ext_resource type="Texture2D" uid="uid://od4ph0h340dd" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00031.png" id="32_ioeko"]
+[ext_resource type="Texture2D" uid="uid://l7rily081til" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00032.png" id="33_t0cnb"]
+[ext_resource type="Texture2D" uid="uid://cr5pi38qamdhy" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00033.png" id="34_m2wbh"]
+[ext_resource type="Texture2D" uid="uid://dexqhxaxt2yl6" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00034.png" id="35_66wc8"]
+[ext_resource type="Texture2D" uid="uid://m5k4w440gyoq" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00035.png" id="36_myfcj"]
+[ext_resource type="Texture2D" uid="uid://tbq7i5x877be" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00036.png" id="37_syc3m"]
+[ext_resource type="Texture2D" uid="uid://ciwbh52t0rxbi" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00037.png" id="38_6pld7"]
+[ext_resource type="Texture2D" uid="uid://dkn32kvnr6amy" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00038.png" id="39_1gky5"]
+[ext_resource type="Texture2D" uid="uid://do5nplubebiht" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00039.png" id="40_uotcr"]
+[ext_resource type="Texture2D" uid="uid://cj7lky7jqbtf5" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00040.png" id="41_qw2wq"]
+[ext_resource type="Texture2D" uid="uid://bjqrupkxa4pke" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00041.png" id="42_gky25"]
+[ext_resource type="Texture2D" uid="uid://b0kjf2ev5ulnd" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00042.png" id="43_0viyp"]
+[ext_resource type="Texture2D" uid="uid://bkrhrsxx1h2d8" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00043.png" id="44_d5gn8"]
+[ext_resource type="Texture2D" uid="uid://dq1pituqd0ejo" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00044.png" id="45_450u6"]
+[ext_resource type="Texture2D" uid="uid://c8fos8ocoo6c6" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00045.png" id="46_xormx"]
+[ext_resource type="Texture2D" uid="uid://de0prmv2f214y" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00046.png" id="47_lnp11"]
+[ext_resource type="Texture2D" uid="uid://0yksa3eiwpqv" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00047.png" id="48_vsh6q"]
+[ext_resource type="Texture2D" uid="uid://cc00xtv21h2p7" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00048.png" id="49_3iisa"]
+[ext_resource type="Texture2D" uid="uid://b0esbyu4jqmdj" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00049.png" id="50_mdpw2"]
+[ext_resource type="Texture2D" uid="uid://ck1d11itavaw7" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00050.png" id="51_gry55"]
+[ext_resource type="Texture2D" uid="uid://bk7mn6exdnym8" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00051.png" id="52_vy57b"]
+[ext_resource type="Texture2D" uid="uid://despmevn2q73" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00052.png" id="53_1i80r"]
+[ext_resource type="Texture2D" uid="uid://bjq6378vegy3u" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00053.png" id="54_hafly"]
+[ext_resource type="Texture2D" uid="uid://wpbruwk2qhlq" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00054.png" id="55_1qvtk"]
+[ext_resource type="Texture2D" uid="uid://y3qahnyywkfp" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00055.png" id="56_qswb2"]
+[ext_resource type="Texture2D" uid="uid://dbhj84x2oayfd" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00056.png" id="57_4yt5y"]
+[ext_resource type="Texture2D" uid="uid://dh0urdcplq1bq" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00057.png" id="58_cvqjr"]
+[ext_resource type="Texture2D" uid="uid://bfy5awbgecf7" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00058.png" id="59_6mu31"]
+[ext_resource type="Texture2D" uid="uid://dguwwfrdk0de3" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00059.png" id="60_t8xnb"]
+[ext_resource type="Texture2D" uid="uid://bcxnwuibybpi8" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00060.png" id="61_papj1"]
+[ext_resource type="Texture2D" uid="uid://bc3uir6pnvrxf" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00061.png" id="62_lubvx"]
+[ext_resource type="Texture2D" uid="uid://dw0omt6ih5ivp" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00062.png" id="63_7t7h8"]
+[ext_resource type="Texture2D" uid="uid://5svgsgdyx5q6" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00063.png" id="64_kjowj"]
+[ext_resource type="Texture2D" uid="uid://bonwr03hi1t61" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00064.png" id="65_1ppig"]
+[ext_resource type="Texture2D" uid="uid://drhas2k2jedip" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00065.png" id="66_1o544"]
+[ext_resource type="Texture2D" uid="uid://ddqmyjl7wo6e2" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00066.png" id="67_cfkx7"]
+[ext_resource type="Texture2D" uid="uid://614b3vsw4lq1" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00067.png" id="68_l5j2a"]
+[ext_resource type="Texture2D" uid="uid://ba62mla1lj4ec" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00068.png" id="69_w1i4k"]
+[ext_resource type="Texture2D" uid="uid://cqmgnjvbvayug" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00069.png" id="70_j0my1"]
+[ext_resource type="Texture2D" uid="uid://dj3b2ss8fafkk" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00070.png" id="71_g05ns"]
+[ext_resource type="Texture2D" uid="uid://bxgo0grv3e1a3" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00071.png" id="72_qiry8"]
+[ext_resource type="Texture2D" uid="uid://cbgj6hw0q0iaa" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00072.png" id="73_qahny"]
+[ext_resource type="Texture2D" uid="uid://d3yve05y1xwk6" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00073.png" id="74_losjs"]
+[ext_resource type="Texture2D" uid="uid://3244q3120hbm" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00074.png" id="75_oyfgj"]
+[ext_resource type="Texture2D" uid="uid://bul2e8lb6mjyp" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00075.png" id="76_c2v6o"]
+[ext_resource type="Texture2D" uid="uid://dc3pnatafivvx" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00076.png" id="77_syct1"]
+[ext_resource type="Texture2D" uid="uid://c3ka2hdhha0pg" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00077.png" id="78_a7mcl"]
+[ext_resource type="Texture2D" uid="uid://cqlma8c5nxdxb" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00078.png" id="79_ueg88"]
+[ext_resource type="Texture2D" uid="uid://bics2tumflr82" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00079.png" id="80_a70k6"]
+[ext_resource type="Texture2D" uid="uid://uwfrb6l371ti" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00080.png" id="81_qgtju"]
+[ext_resource type="Texture2D" uid="uid://dy28sq7j5102" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00081.png" id="82_tj206"]
+[ext_resource type="Texture2D" uid="uid://xmuu6vk1sgju" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00082.png" id="83_13rp4"]
+[ext_resource type="Texture2D" uid="uid://b54cehjmfxgld" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00083.png" id="84_sakir"]
+[ext_resource type="Texture2D" uid="uid://c838eogq72fv1" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00084.png" id="85_hbse1"]
+[ext_resource type="Texture2D" uid="uid://c1ap14g0f5qeb" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00085.png" id="86_itof7"]
+[ext_resource type="Texture2D" uid="uid://8ysplk75bki1" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00086.png" id="87_iqf5t"]
+[ext_resource type="Texture2D" uid="uid://d2812xusvmnvs" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00087.png" id="88_r0yu0"]
+[ext_resource type="Texture2D" uid="uid://dtt76xbclywy" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00088.png" id="89_mg6im"]
+[ext_resource type="Texture2D" uid="uid://bl3vboophhikg" path="res://addons/icon_animation/assets/08ビックリB_落下/08びっくりマークB_落下_rend_00089.png" id="90_m0fpo"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_yds57")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_uij66")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_qou5w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_f760c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_cslnm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_2ket7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_r46pt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_3g0mc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_neivp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_fewd1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_hl3cx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_a5xsg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_u2au6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_1vmfr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_g5wum")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_mi503")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_m3wcq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_g783w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_y0va6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_abrgg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_vbq1c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_otpu6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_hvpnp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_uqpm4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_mgemb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_mh67x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_ggrh6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_ggoh8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_7t2sx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_rtmoa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_nvu0v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_ioeko")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_t0cnb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_m2wbh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_66wc8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_myfcj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_syc3m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_6pld7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_1gky5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_uotcr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_qw2wq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_gky25")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_0viyp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_d5gn8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_450u6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_xormx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_lnp11")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_vsh6q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_3iisa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_mdpw2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_gry55")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_vy57b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_1i80r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_hafly")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_1qvtk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_qswb2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_4yt5y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_cvqjr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_6mu31")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_t8xnb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_papj1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_lubvx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_7t7h8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_kjowj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_1ppig")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_1o544")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_cfkx7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_l5j2a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_w1i4k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_j0my1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_g05ns")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_qiry8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_qahny")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_losjs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_oyfgj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_c2v6o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_syct1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_a7mcl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_ueg88")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_a70k6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_qgtju")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_tj206")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_13rp4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_sakir")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_hbse1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_itof7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_iqf5t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_r0yu0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_mg6im")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_m0fpo")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]

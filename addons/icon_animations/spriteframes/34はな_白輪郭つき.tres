@@ -1,0 +1,730 @@
+[gd_resource type="SpriteFrames" load_steps=181 format=3 uid="uid://cwefywxr6x1gy"]
+
+[ext_resource type="Texture2D" uid="uid://dv65ce471ue4y" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00000.png" id="1_8e706"]
+[ext_resource type="Texture2D" uid="uid://dp424fj2qu8c7" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00001.png" id="2_l7sdx"]
+[ext_resource type="Texture2D" uid="uid://beur5lfp4obc2" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00002.png" id="3_t87uk"]
+[ext_resource type="Texture2D" uid="uid://d22vb78hbe5et" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00003.png" id="4_tmni5"]
+[ext_resource type="Texture2D" uid="uid://5h8s6ltregwk" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00004.png" id="5_yfofu"]
+[ext_resource type="Texture2D" uid="uid://d5m6ginnr3tm" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00005.png" id="6_gcfkv"]
+[ext_resource type="Texture2D" uid="uid://dkbp7p1gpeas5" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00006.png" id="7_3cta0"]
+[ext_resource type="Texture2D" uid="uid://desdobn0ao163" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00007.png" id="8_ipg2g"]
+[ext_resource type="Texture2D" uid="uid://cyjnkqw8lnudb" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00008.png" id="9_h44l6"]
+[ext_resource type="Texture2D" uid="uid://b7saa6y4uh1fg" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00009.png" id="10_qn4uk"]
+[ext_resource type="Texture2D" uid="uid://c3lbl14753kf6" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00010.png" id="11_ecdb8"]
+[ext_resource type="Texture2D" uid="uid://fuaeodfgp78r" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00011.png" id="12_iv7pt"]
+[ext_resource type="Texture2D" uid="uid://dgslogr14gm50" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00012.png" id="13_r6ele"]
+[ext_resource type="Texture2D" uid="uid://b0no7lpdxyy3u" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00013.png" id="14_hq0v0"]
+[ext_resource type="Texture2D" uid="uid://gh8qaduxlvph" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00014.png" id="15_o324w"]
+[ext_resource type="Texture2D" uid="uid://bjcnd24jqrv66" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00015.png" id="16_0hh52"]
+[ext_resource type="Texture2D" uid="uid://spgx3spujeo0" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00016.png" id="17_bliok"]
+[ext_resource type="Texture2D" uid="uid://lwaial6wmgbx" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00017.png" id="18_4qlxr"]
+[ext_resource type="Texture2D" uid="uid://1fw5kryk6dtw" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00018.png" id="19_w7nve"]
+[ext_resource type="Texture2D" uid="uid://c2718f4jokfq6" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00019.png" id="20_fk2pg"]
+[ext_resource type="Texture2D" uid="uid://l218hro7f6w2" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00020.png" id="21_5gbmt"]
+[ext_resource type="Texture2D" uid="uid://djsp7iqd2svem" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00021.png" id="22_6kjnj"]
+[ext_resource type="Texture2D" uid="uid://dnkkxpcd1puad" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00022.png" id="23_oghsp"]
+[ext_resource type="Texture2D" uid="uid://cxqfrgsl2vjiy" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00023.png" id="24_wjcj7"]
+[ext_resource type="Texture2D" uid="uid://xu6yee6gq70o" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00024.png" id="25_7jo36"]
+[ext_resource type="Texture2D" uid="uid://deuafwef4ceti" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00025.png" id="26_edpvj"]
+[ext_resource type="Texture2D" uid="uid://dghqb4uikygp" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00026.png" id="27_7duv5"]
+[ext_resource type="Texture2D" uid="uid://dn7r805g37jdu" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00027.png" id="28_hjg0b"]
+[ext_resource type="Texture2D" uid="uid://bd0r1ok3553yo" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00028.png" id="29_nl7ek"]
+[ext_resource type="Texture2D" uid="uid://c2fy1yux5hj3f" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00029.png" id="30_0pc55"]
+[ext_resource type="Texture2D" uid="uid://b4xv452yr1c72" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00030.png" id="31_gr5o0"]
+[ext_resource type="Texture2D" uid="uid://dw44jqcq43vu4" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00031.png" id="32_as7gk"]
+[ext_resource type="Texture2D" uid="uid://c8dsn74bj70ev" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00032.png" id="33_0l2qm"]
+[ext_resource type="Texture2D" uid="uid://gnx30ekkk541" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00033.png" id="34_rxlft"]
+[ext_resource type="Texture2D" uid="uid://dgylho2jwqu12" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00034.png" id="35_3wap7"]
+[ext_resource type="Texture2D" uid="uid://5ytlevp8oi0d" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00035.png" id="36_qij5g"]
+[ext_resource type="Texture2D" uid="uid://4t8rl0goo54o" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00036.png" id="37_76eni"]
+[ext_resource type="Texture2D" uid="uid://ns7h60keo86l" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00037.png" id="38_b1d2b"]
+[ext_resource type="Texture2D" uid="uid://dxt5sxsim8jwo" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00038.png" id="39_n8gr6"]
+[ext_resource type="Texture2D" uid="uid://dj5ngxr13ijss" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00039.png" id="40_2e16n"]
+[ext_resource type="Texture2D" uid="uid://csuhbbo3dscku" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00040.png" id="41_j41x4"]
+[ext_resource type="Texture2D" uid="uid://d0g5r6l3yjm2x" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00041.png" id="42_5mpkv"]
+[ext_resource type="Texture2D" uid="uid://drbsbheftln6j" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00042.png" id="43_1rp8k"]
+[ext_resource type="Texture2D" uid="uid://op8ekuwi4ngq" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00043.png" id="44_wob2v"]
+[ext_resource type="Texture2D" uid="uid://cjy2k3rj1jv6d" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00044.png" id="45_mbg1r"]
+[ext_resource type="Texture2D" uid="uid://c0cqy0dbek2at" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00045.png" id="46_ydra2"]
+[ext_resource type="Texture2D" uid="uid://hvreo13bhf6y" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00046.png" id="47_honva"]
+[ext_resource type="Texture2D" uid="uid://bbx2w3dsrryko" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00047.png" id="48_6t77i"]
+[ext_resource type="Texture2D" uid="uid://cc8wrlb0ympj4" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00048.png" id="49_chxu8"]
+[ext_resource type="Texture2D" uid="uid://bv5kpnpe3c26q" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00049.png" id="50_j5ob5"]
+[ext_resource type="Texture2D" uid="uid://bri3jx4gel10t" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00050.png" id="51_xx0rp"]
+[ext_resource type="Texture2D" uid="uid://dsivl3fi8u4ov" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00051.png" id="52_p0xyu"]
+[ext_resource type="Texture2D" uid="uid://8v5b3fimq2rd" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00052.png" id="53_nhxub"]
+[ext_resource type="Texture2D" uid="uid://bs4ympjunfkw3" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00053.png" id="54_jog6d"]
+[ext_resource type="Texture2D" uid="uid://dkb7xy4unnjm4" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00054.png" id="55_1yfr8"]
+[ext_resource type="Texture2D" uid="uid://dlp684rdntlj5" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00055.png" id="56_1m1mu"]
+[ext_resource type="Texture2D" uid="uid://bpip3g73o0e1r" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00056.png" id="57_k5jpc"]
+[ext_resource type="Texture2D" uid="uid://c3en826e21xe3" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00057.png" id="58_8bsks"]
+[ext_resource type="Texture2D" uid="uid://dxatlo8knnc31" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00058.png" id="59_l0rod"]
+[ext_resource type="Texture2D" uid="uid://bg4jmt2y6kvot" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00059.png" id="60_3o2t2"]
+[ext_resource type="Texture2D" uid="uid://be6gmasgncpwc" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00060.png" id="61_q86g1"]
+[ext_resource type="Texture2D" uid="uid://bnkxuasmclq05" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00061.png" id="62_pe8qb"]
+[ext_resource type="Texture2D" uid="uid://br51dxp6udf1s" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00062.png" id="63_1y7ad"]
+[ext_resource type="Texture2D" uid="uid://b7ag5q6mw4cdk" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00063.png" id="64_rnuur"]
+[ext_resource type="Texture2D" uid="uid://bph6a6p1a3pl8" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00064.png" id="65_ys0ms"]
+[ext_resource type="Texture2D" uid="uid://b8ygcry01ijtg" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00065.png" id="66_ppvyy"]
+[ext_resource type="Texture2D" uid="uid://shvlnnnio1yf" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00066.png" id="67_w73c3"]
+[ext_resource type="Texture2D" uid="uid://voa3skkgk06w" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00067.png" id="68_751rt"]
+[ext_resource type="Texture2D" uid="uid://uh1lihxsun7u" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00068.png" id="69_uvehq"]
+[ext_resource type="Texture2D" uid="uid://mynlignlbocx" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00069.png" id="70_878ug"]
+[ext_resource type="Texture2D" uid="uid://b5wuywsk38r4f" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00070.png" id="71_h3dt6"]
+[ext_resource type="Texture2D" uid="uid://dryfy3lu1mlm2" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00071.png" id="72_xva1i"]
+[ext_resource type="Texture2D" uid="uid://bbsel271soq5l" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00072.png" id="73_3bx8p"]
+[ext_resource type="Texture2D" uid="uid://cl5g1rncwukh4" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00073.png" id="74_2fyen"]
+[ext_resource type="Texture2D" uid="uid://dl5veiev37vav" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00074.png" id="75_7hxbr"]
+[ext_resource type="Texture2D" uid="uid://dmlpmajtln1t2" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00075.png" id="76_6wkix"]
+[ext_resource type="Texture2D" uid="uid://pmhc7oiejmms" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00076.png" id="77_bw4fi"]
+[ext_resource type="Texture2D" uid="uid://wmfcsrkhxx5y" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00077.png" id="78_w4y4f"]
+[ext_resource type="Texture2D" uid="uid://bdln3md52rcdg" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00078.png" id="79_e7npq"]
+[ext_resource type="Texture2D" uid="uid://c4o2sfw4ywigi" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00079.png" id="80_a4ths"]
+[ext_resource type="Texture2D" uid="uid://cyhxccicl1whl" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00080.png" id="81_cc3aq"]
+[ext_resource type="Texture2D" uid="uid://dysgj5w6w3v3x" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00081.png" id="82_3o64f"]
+[ext_resource type="Texture2D" uid="uid://cyf5d7nd1ak62" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00082.png" id="83_h65jw"]
+[ext_resource type="Texture2D" uid="uid://cgq6io8kqpk27" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00083.png" id="84_fwgy6"]
+[ext_resource type="Texture2D" uid="uid://gfrm5xn4my51" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00084.png" id="85_mrku8"]
+[ext_resource type="Texture2D" uid="uid://btrte8p3xq3bp" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00085.png" id="86_oh3k5"]
+[ext_resource type="Texture2D" uid="uid://c5krxayoxsyql" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00086.png" id="87_y6kqu"]
+[ext_resource type="Texture2D" uid="uid://2hd0dhtfegol" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00087.png" id="88_ocmx5"]
+[ext_resource type="Texture2D" uid="uid://dj7may20a2u6o" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00088.png" id="89_cx2y8"]
+[ext_resource type="Texture2D" uid="uid://d1jlvagh3p0d3" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00089.png" id="90_13gie"]
+[ext_resource type="Texture2D" uid="uid://b34f1jhgtd1sr" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00090.png" id="91_h1fw3"]
+[ext_resource type="Texture2D" uid="uid://b0r6n7pnq8k4h" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00091.png" id="92_dhm2r"]
+[ext_resource type="Texture2D" uid="uid://dnw1jswvedkin" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00092.png" id="93_rj6a4"]
+[ext_resource type="Texture2D" uid="uid://cj63nk38bkvtt" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00093.png" id="94_qhdyj"]
+[ext_resource type="Texture2D" uid="uid://b0ska5odq0fl2" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00094.png" id="95_dyd0u"]
+[ext_resource type="Texture2D" uid="uid://cqyhyhjiobrsc" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00095.png" id="96_tkelu"]
+[ext_resource type="Texture2D" uid="uid://dtjbmpmo1561a" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00096.png" id="97_6rutg"]
+[ext_resource type="Texture2D" uid="uid://chu0lhqfeyxdv" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00097.png" id="98_kbsdm"]
+[ext_resource type="Texture2D" uid="uid://baebc4goks7ju" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00098.png" id="99_plf28"]
+[ext_resource type="Texture2D" uid="uid://5d7xba8supct" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00099.png" id="100_s4cfg"]
+[ext_resource type="Texture2D" uid="uid://cykpqvie1pawk" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00100.png" id="101_pbyn5"]
+[ext_resource type="Texture2D" uid="uid://bm5cqmja43ldo" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00101.png" id="102_sy71i"]
+[ext_resource type="Texture2D" uid="uid://bd16dyifcyv30" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00102.png" id="103_etbj3"]
+[ext_resource type="Texture2D" uid="uid://bjbxxn3ghu5x2" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00103.png" id="104_5bas6"]
+[ext_resource type="Texture2D" uid="uid://dvtvrqwujlcie" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00104.png" id="105_x3lqr"]
+[ext_resource type="Texture2D" uid="uid://c4addu170lly" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00105.png" id="106_bft8g"]
+[ext_resource type="Texture2D" uid="uid://b7t1fm4jc8ea1" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00106.png" id="107_u3gnq"]
+[ext_resource type="Texture2D" uid="uid://cygh6g5tlehlj" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00107.png" id="108_o77ag"]
+[ext_resource type="Texture2D" uid="uid://b7c8jx0f7ivmw" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00108.png" id="109_gfxea"]
+[ext_resource type="Texture2D" uid="uid://rh61d01idj6n" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00109.png" id="110_ev34b"]
+[ext_resource type="Texture2D" uid="uid://udctdfn75vvn" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00110.png" id="111_kc3sl"]
+[ext_resource type="Texture2D" uid="uid://d24se133osmaj" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00111.png" id="112_gpmns"]
+[ext_resource type="Texture2D" uid="uid://dabq3cn5q7kjl" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00112.png" id="113_7vudf"]
+[ext_resource type="Texture2D" uid="uid://u7uw7sns1bcy" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00113.png" id="114_2uldb"]
+[ext_resource type="Texture2D" uid="uid://b378dwdukjabw" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00114.png" id="115_ss6fg"]
+[ext_resource type="Texture2D" uid="uid://b1cc8jh4iqyyg" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00115.png" id="116_2xgmb"]
+[ext_resource type="Texture2D" uid="uid://lvn3iahtka0v" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00116.png" id="117_rhefc"]
+[ext_resource type="Texture2D" uid="uid://juyj3biuq62h" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00117.png" id="118_arsbl"]
+[ext_resource type="Texture2D" uid="uid://dixa3tom2hsww" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00118.png" id="119_vu7tp"]
+[ext_resource type="Texture2D" uid="uid://butpwfgi1xw0u" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00119.png" id="120_tor2u"]
+[ext_resource type="Texture2D" uid="uid://hyhp275ckqa6" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00120.png" id="121_auv0j"]
+[ext_resource type="Texture2D" uid="uid://8g4da6lj1tmw" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00121.png" id="122_3d8cp"]
+[ext_resource type="Texture2D" uid="uid://dk7cbj80iqgf0" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00122.png" id="123_45ikq"]
+[ext_resource type="Texture2D" uid="uid://crej18igtiuje" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00123.png" id="124_1rj52"]
+[ext_resource type="Texture2D" uid="uid://bny8v8bo26w23" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00124.png" id="125_jif4e"]
+[ext_resource type="Texture2D" uid="uid://bftj2t3hbppy" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00125.png" id="126_28mh7"]
+[ext_resource type="Texture2D" uid="uid://cnx7mpwv0fuvg" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00126.png" id="127_uoglx"]
+[ext_resource type="Texture2D" uid="uid://yox1cl44hnt8" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00127.png" id="128_y0mlk"]
+[ext_resource type="Texture2D" uid="uid://bnfy7sg0tyg0f" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00128.png" id="129_sgypa"]
+[ext_resource type="Texture2D" uid="uid://dqpnj8cekke1t" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00129.png" id="130_spvrq"]
+[ext_resource type="Texture2D" uid="uid://dw1nlnqrm45ul" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00130.png" id="131_k8bk4"]
+[ext_resource type="Texture2D" uid="uid://bq4ng4hgvcda1" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00131.png" id="132_1wfw0"]
+[ext_resource type="Texture2D" uid="uid://cqymhcnq1t6om" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00132.png" id="133_abcfm"]
+[ext_resource type="Texture2D" uid="uid://ufd1a2s6vfy0" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00133.png" id="134_jte7r"]
+[ext_resource type="Texture2D" uid="uid://b8f4jnk3sohb7" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00134.png" id="135_5hfof"]
+[ext_resource type="Texture2D" uid="uid://sifj4k25qipe" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00135.png" id="136_pjqbn"]
+[ext_resource type="Texture2D" uid="uid://ccc430lapnbqd" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00136.png" id="137_bhvvm"]
+[ext_resource type="Texture2D" uid="uid://d4bpjngn7crcj" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00137.png" id="138_dyby3"]
+[ext_resource type="Texture2D" uid="uid://bg0sui23qh8p3" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00138.png" id="139_as6na"]
+[ext_resource type="Texture2D" uid="uid://ddlhj42tia2sg" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00139.png" id="140_5p1n2"]
+[ext_resource type="Texture2D" uid="uid://kbk4wxrnvggk" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00140.png" id="141_d0a4g"]
+[ext_resource type="Texture2D" uid="uid://drnf8l8pu5yr3" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00141.png" id="142_vb0l6"]
+[ext_resource type="Texture2D" uid="uid://l75c1oef6dpw" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00142.png" id="143_e87w6"]
+[ext_resource type="Texture2D" uid="uid://dgrndrem3ptn" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00143.png" id="144_c34es"]
+[ext_resource type="Texture2D" uid="uid://x6ali85mc4b7" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00144.png" id="145_davgx"]
+[ext_resource type="Texture2D" uid="uid://dpop1p4nmxyvg" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00145.png" id="146_0lf1f"]
+[ext_resource type="Texture2D" uid="uid://i66wtrh2krwh" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00146.png" id="147_m32bw"]
+[ext_resource type="Texture2D" uid="uid://bkg1pcswaes4y" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00147.png" id="148_extu3"]
+[ext_resource type="Texture2D" uid="uid://cvrhthtf65jdj" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00148.png" id="149_wsvm4"]
+[ext_resource type="Texture2D" uid="uid://cy28uqqmjrctl" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00149.png" id="150_fmoys"]
+[ext_resource type="Texture2D" uid="uid://cne651rkqqn3b" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00150.png" id="151_u88fv"]
+[ext_resource type="Texture2D" uid="uid://cpkvb3y4u6atd" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00151.png" id="152_vrwkm"]
+[ext_resource type="Texture2D" uid="uid://dvbatejpsqmuo" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00152.png" id="153_m6smu"]
+[ext_resource type="Texture2D" uid="uid://b73q8mybujkdi" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00153.png" id="154_24vpf"]
+[ext_resource type="Texture2D" uid="uid://87un1e66iir0" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00154.png" id="155_w7v7y"]
+[ext_resource type="Texture2D" uid="uid://d5ur34b8ksvt" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00155.png" id="156_5n2ol"]
+[ext_resource type="Texture2D" uid="uid://dl3ewp2pppv6x" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00156.png" id="157_8rtjd"]
+[ext_resource type="Texture2D" uid="uid://b2ijselafp5yo" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00157.png" id="158_60sn6"]
+[ext_resource type="Texture2D" uid="uid://ls6kd47vdysd" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00158.png" id="159_6g0ld"]
+[ext_resource type="Texture2D" uid="uid://cqdqg0bb1v57o" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00159.png" id="160_lk7tc"]
+[ext_resource type="Texture2D" uid="uid://iwh7ixfvmha1" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00160.png" id="161_m1whq"]
+[ext_resource type="Texture2D" uid="uid://d1l5liyqxffcy" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00161.png" id="162_8bk6r"]
+[ext_resource type="Texture2D" uid="uid://c3sc0yhxehp1a" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00162.png" id="163_makd3"]
+[ext_resource type="Texture2D" uid="uid://b4saw4w5rc8vr" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00163.png" id="164_634vm"]
+[ext_resource type="Texture2D" uid="uid://3mmro43cqnfm" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00164.png" id="165_6ywna"]
+[ext_resource type="Texture2D" uid="uid://uh4wjmwnbw2b" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00165.png" id="166_6var5"]
+[ext_resource type="Texture2D" uid="uid://3tmkncdvaqoc" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00166.png" id="167_ygovb"]
+[ext_resource type="Texture2D" uid="uid://c4gun05k1n0i3" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00167.png" id="168_0jb3b"]
+[ext_resource type="Texture2D" uid="uid://b4o3ck4dgrqkj" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00168.png" id="169_ij8uo"]
+[ext_resource type="Texture2D" uid="uid://e1nsf0jht1m7" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00169.png" id="170_fxtkm"]
+[ext_resource type="Texture2D" uid="uid://oueux4pi2aok" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00170.png" id="171_a6n3e"]
+[ext_resource type="Texture2D" uid="uid://csfw6bvsgba8v" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00171.png" id="172_2b8kt"]
+[ext_resource type="Texture2D" uid="uid://b6lg28gnrtlbi" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00172.png" id="173_6dam8"]
+[ext_resource type="Texture2D" uid="uid://m15vb7xyce7j" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00173.png" id="174_2aq32"]
+[ext_resource type="Texture2D" uid="uid://ukp5j3ihc67i" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00174.png" id="175_1wi1x"]
+[ext_resource type="Texture2D" uid="uid://i87qsvncswq4" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00175.png" id="176_cs5rk"]
+[ext_resource type="Texture2D" uid="uid://b1w0r1rj5htkq" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00176.png" id="177_hu0j7"]
+[ext_resource type="Texture2D" uid="uid://bh7jewbgq3yys" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00177.png" id="178_ywqsl"]
+[ext_resource type="Texture2D" uid="uid://iiwpoevx8sdd" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00178.png" id="179_sypwa"]
+[ext_resource type="Texture2D" uid="uid://dw0djnfynh8lw" path="res://addons/icon_animation/assets/34はな_白輪郭つき/34はな_白輪郭つき_00179.png" id="180_xitd8"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_8e706")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_l7sdx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_t87uk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_tmni5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_yfofu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_gcfkv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_3cta0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_ipg2g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_h44l6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_qn4uk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_ecdb8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_iv7pt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_r6ele")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_hq0v0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_o324w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_0hh52")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_bliok")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_4qlxr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_w7nve")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_fk2pg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_5gbmt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_6kjnj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_oghsp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_wjcj7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_7jo36")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_edpvj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_7duv5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_hjg0b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_nl7ek")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_0pc55")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_gr5o0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_as7gk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_0l2qm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_rxlft")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_3wap7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_qij5g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_76eni")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_b1d2b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_n8gr6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_2e16n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_j41x4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_5mpkv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_1rp8k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_wob2v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_mbg1r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_ydra2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_honva")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_6t77i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_chxu8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_j5ob5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_xx0rp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_p0xyu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_nhxub")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_jog6d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_1yfr8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_1m1mu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_k5jpc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_8bsks")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_l0rod")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_3o2t2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_q86g1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_pe8qb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_1y7ad")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_rnuur")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_ys0ms")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_ppvyy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_w73c3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_751rt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_uvehq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_878ug")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_h3dt6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_xva1i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_3bx8p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_2fyen")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_7hxbr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_6wkix")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_bw4fi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_w4y4f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_e7npq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_a4ths")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_cc3aq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_3o64f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_h65jw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_fwgy6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_mrku8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_oh3k5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_y6kqu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_ocmx5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_cx2y8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_13gie")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_h1fw3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_dhm2r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_rj6a4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_qhdyj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("95_dyd0u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("96_tkelu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("97_6rutg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("98_kbsdm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("99_plf28")
+}, {
+"duration": 1.0,
+"texture": ExtResource("100_s4cfg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("101_pbyn5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("102_sy71i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("103_etbj3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("104_5bas6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("105_x3lqr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("106_bft8g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("107_u3gnq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("108_o77ag")
+}, {
+"duration": 1.0,
+"texture": ExtResource("109_gfxea")
+}, {
+"duration": 1.0,
+"texture": ExtResource("110_ev34b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("111_kc3sl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("112_gpmns")
+}, {
+"duration": 1.0,
+"texture": ExtResource("113_7vudf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("114_2uldb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("115_ss6fg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("116_2xgmb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("117_rhefc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("118_arsbl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("119_vu7tp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("120_tor2u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("121_auv0j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("122_3d8cp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("123_45ikq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("124_1rj52")
+}, {
+"duration": 1.0,
+"texture": ExtResource("125_jif4e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("126_28mh7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("127_uoglx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("128_y0mlk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("129_sgypa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("130_spvrq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("131_k8bk4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("132_1wfw0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("133_abcfm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("134_jte7r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("135_5hfof")
+}, {
+"duration": 1.0,
+"texture": ExtResource("136_pjqbn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("137_bhvvm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("138_dyby3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("139_as6na")
+}, {
+"duration": 1.0,
+"texture": ExtResource("140_5p1n2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("141_d0a4g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("142_vb0l6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("143_e87w6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("144_c34es")
+}, {
+"duration": 1.0,
+"texture": ExtResource("145_davgx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("146_0lf1f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("147_m32bw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("148_extu3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("149_wsvm4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("150_fmoys")
+}, {
+"duration": 1.0,
+"texture": ExtResource("151_u88fv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("152_vrwkm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("153_m6smu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("154_24vpf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("155_w7v7y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("156_5n2ol")
+}, {
+"duration": 1.0,
+"texture": ExtResource("157_8rtjd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("158_60sn6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("159_6g0ld")
+}, {
+"duration": 1.0,
+"texture": ExtResource("160_lk7tc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("161_m1whq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("162_8bk6r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("163_makd3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("164_634vm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("165_6ywna")
+}, {
+"duration": 1.0,
+"texture": ExtResource("166_6var5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("167_ygovb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("168_0jb3b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("169_ij8uo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("170_fxtkm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("171_a6n3e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("172_2b8kt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("173_6dam8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("174_2aq32")
+}, {
+"duration": 1.0,
+"texture": ExtResource("175_1wi1x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("176_cs5rk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("177_hu0j7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("178_ywqsl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("179_sypwa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("180_xitd8")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]

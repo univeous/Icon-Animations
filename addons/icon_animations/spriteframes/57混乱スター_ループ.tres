@@ -1,0 +1,490 @@
+[gd_resource type="SpriteFrames" load_steps=121 format=3 uid="uid://ccw4kv326erp6"]
+
+[ext_resource type="Texture2D" uid="uid://bmllef524xt4e" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00000.png" id="1_vnos8"]
+[ext_resource type="Texture2D" uid="uid://btmbdkg5v0hbx" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00001.png" id="2_so7vy"]
+[ext_resource type="Texture2D" uid="uid://ba4vah0u0dt1v" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00002.png" id="3_54c8o"]
+[ext_resource type="Texture2D" uid="uid://c6hd6r37k5nor" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00003.png" id="4_vap2g"]
+[ext_resource type="Texture2D" uid="uid://dhtkca38rcwfv" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00004.png" id="5_2lin0"]
+[ext_resource type="Texture2D" uid="uid://dl8kjvd6uram6" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00005.png" id="6_n5nry"]
+[ext_resource type="Texture2D" uid="uid://bghpu2y2cssqc" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00006.png" id="7_ce7rd"]
+[ext_resource type="Texture2D" uid="uid://bu6jqg8roaq6a" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00007.png" id="8_xddgl"]
+[ext_resource type="Texture2D" uid="uid://0c4tpejuf43i" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00008.png" id="9_hmxtt"]
+[ext_resource type="Texture2D" uid="uid://byn02v8f212ta" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00009.png" id="10_80lyt"]
+[ext_resource type="Texture2D" uid="uid://dweovv2hocl08" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00010.png" id="11_7ujcd"]
+[ext_resource type="Texture2D" uid="uid://cjerbufu4nwvi" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00011.png" id="12_ch3rt"]
+[ext_resource type="Texture2D" uid="uid://dj2nlsnopu2h1" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00012.png" id="13_tlxqt"]
+[ext_resource type="Texture2D" uid="uid://biycfwdrfcesc" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00013.png" id="14_qppf0"]
+[ext_resource type="Texture2D" uid="uid://cct6pbkx1fpp4" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00014.png" id="15_das4f"]
+[ext_resource type="Texture2D" uid="uid://co6tl02e1usj" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00015.png" id="16_xnflg"]
+[ext_resource type="Texture2D" uid="uid://dgkcur8j7ffnd" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00016.png" id="17_x7fqc"]
+[ext_resource type="Texture2D" uid="uid://mxmqegkqjr2m" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00017.png" id="18_q3eq1"]
+[ext_resource type="Texture2D" uid="uid://d3vshtoqjnt0k" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00018.png" id="19_qihme"]
+[ext_resource type="Texture2D" uid="uid://bv0ipqekw3vtb" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00019.png" id="20_587a0"]
+[ext_resource type="Texture2D" uid="uid://cv3g84yqpape6" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00020.png" id="21_si5ev"]
+[ext_resource type="Texture2D" uid="uid://dcwe4yusoc1xc" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00021.png" id="22_5bwy6"]
+[ext_resource type="Texture2D" uid="uid://b72jrug685jua" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00022.png" id="23_cbses"]
+[ext_resource type="Texture2D" uid="uid://bvrj7tsu0x70x" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00023.png" id="24_2dq52"]
+[ext_resource type="Texture2D" uid="uid://bukqrl87spjim" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00024.png" id="25_kwt3t"]
+[ext_resource type="Texture2D" uid="uid://bi88wlfi4uq6w" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00025.png" id="26_0ouf3"]
+[ext_resource type="Texture2D" uid="uid://brueqwmuu0w8h" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00026.png" id="27_ieoh3"]
+[ext_resource type="Texture2D" uid="uid://bhq21b401hoht" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00027.png" id="28_tt7n1"]
+[ext_resource type="Texture2D" uid="uid://c0jpcx6hq3ddr" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00028.png" id="29_du70v"]
+[ext_resource type="Texture2D" uid="uid://bgoq8saofm6f" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00029.png" id="30_o4lle"]
+[ext_resource type="Texture2D" uid="uid://dekofi4iy2po8" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00030.png" id="31_3jkhm"]
+[ext_resource type="Texture2D" uid="uid://dnawr4x3f7aqs" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00031.png" id="32_88qij"]
+[ext_resource type="Texture2D" uid="uid://b0bq2drd0xrbw" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00032.png" id="33_yly4t"]
+[ext_resource type="Texture2D" uid="uid://br80mahmfd0r" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00033.png" id="34_lwfq0"]
+[ext_resource type="Texture2D" uid="uid://dpysg8874e2sc" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00034.png" id="35_jnx35"]
+[ext_resource type="Texture2D" uid="uid://bflxipspp25kv" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00035.png" id="36_eqbtm"]
+[ext_resource type="Texture2D" uid="uid://b5bdymqkqhxo4" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00036.png" id="37_inm21"]
+[ext_resource type="Texture2D" uid="uid://b5ugc53xnowqw" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00037.png" id="38_jjem5"]
+[ext_resource type="Texture2D" uid="uid://bc6oxbgtgftd0" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00038.png" id="39_klj0y"]
+[ext_resource type="Texture2D" uid="uid://coa0t0pors1me" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00039.png" id="40_4n84r"]
+[ext_resource type="Texture2D" uid="uid://o7wjs6lwxm80" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00040.png" id="41_d76tk"]
+[ext_resource type="Texture2D" uid="uid://bwhls428s8kjg" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00041.png" id="42_klu0j"]
+[ext_resource type="Texture2D" uid="uid://bd5qhudjudbb0" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00042.png" id="43_32xbj"]
+[ext_resource type="Texture2D" uid="uid://d04m8kr6iug5v" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00043.png" id="44_a6k2b"]
+[ext_resource type="Texture2D" uid="uid://c1438wvobylxp" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00044.png" id="45_4s16q"]
+[ext_resource type="Texture2D" uid="uid://cw0prjgxvjs30" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00045.png" id="46_5air2"]
+[ext_resource type="Texture2D" uid="uid://b3ylw6n8nlp0w" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00046.png" id="47_qxtx8"]
+[ext_resource type="Texture2D" uid="uid://yv17sf0fkow1" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00047.png" id="48_ilox2"]
+[ext_resource type="Texture2D" uid="uid://bw51ejyqn4qis" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00048.png" id="49_ombkk"]
+[ext_resource type="Texture2D" uid="uid://81x0cq6spe7f" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00049.png" id="50_gxahc"]
+[ext_resource type="Texture2D" uid="uid://pqvp2ebu7upx" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00050.png" id="51_aaxx4"]
+[ext_resource type="Texture2D" uid="uid://c6l6xhjmdlrto" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00051.png" id="52_7ckx1"]
+[ext_resource type="Texture2D" uid="uid://qi71gpbwabeo" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00052.png" id="53_2oqwq"]
+[ext_resource type="Texture2D" uid="uid://dk6t3gssewtw1" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00053.png" id="54_d80v6"]
+[ext_resource type="Texture2D" uid="uid://busrh073oon5g" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00054.png" id="55_o0axx"]
+[ext_resource type="Texture2D" uid="uid://ba5ag6wowophq" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00055.png" id="56_5gw61"]
+[ext_resource type="Texture2D" uid="uid://d4ap4mdwnkvh5" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00056.png" id="57_v7l0u"]
+[ext_resource type="Texture2D" uid="uid://bohnkpshr01vn" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00057.png" id="58_x7rli"]
+[ext_resource type="Texture2D" uid="uid://sij7xmtw4f05" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00058.png" id="59_fjhug"]
+[ext_resource type="Texture2D" uid="uid://ctre8tgy7jp58" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00059.png" id="60_i24ll"]
+[ext_resource type="Texture2D" uid="uid://b4y8hog22wbkt" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00060.png" id="61_kyt3e"]
+[ext_resource type="Texture2D" uid="uid://0hqexe1r86il" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00061.png" id="62_0mxav"]
+[ext_resource type="Texture2D" uid="uid://cqvexmj2a4v66" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00062.png" id="63_eefwy"]
+[ext_resource type="Texture2D" uid="uid://b87bcgil8koun" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00063.png" id="64_fwgsj"]
+[ext_resource type="Texture2D" uid="uid://cvufhwm52hy7k" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00064.png" id="65_k7c0o"]
+[ext_resource type="Texture2D" uid="uid://d26opsugx2ynk" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00065.png" id="66_tcgv7"]
+[ext_resource type="Texture2D" uid="uid://bo62x3kpuwyvk" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00066.png" id="67_ncgmm"]
+[ext_resource type="Texture2D" uid="uid://cddgowa76icwp" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00067.png" id="68_uif5m"]
+[ext_resource type="Texture2D" uid="uid://bxqltr4gbdhl" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00068.png" id="69_wa6rx"]
+[ext_resource type="Texture2D" uid="uid://77vn5hgtvb72" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00069.png" id="70_7yxov"]
+[ext_resource type="Texture2D" uid="uid://vfkna4ixp046" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00070.png" id="71_enrb7"]
+[ext_resource type="Texture2D" uid="uid://d0f71ssiqkrtf" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00071.png" id="72_54w3f"]
+[ext_resource type="Texture2D" uid="uid://ddfixxf33soot" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00072.png" id="73_dl3jv"]
+[ext_resource type="Texture2D" uid="uid://cqmvxj4xmd3ga" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00073.png" id="74_fl5ej"]
+[ext_resource type="Texture2D" uid="uid://bor1ydd7udrrx" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00074.png" id="75_2kq7o"]
+[ext_resource type="Texture2D" uid="uid://xbd430a3yvpv" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00075.png" id="76_5b4rj"]
+[ext_resource type="Texture2D" uid="uid://b00tb74romis4" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00076.png" id="77_4w3ll"]
+[ext_resource type="Texture2D" uid="uid://4xume65trj3n" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00077.png" id="78_ayups"]
+[ext_resource type="Texture2D" uid="uid://bhbxel8mrowhw" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00078.png" id="79_wrtnr"]
+[ext_resource type="Texture2D" uid="uid://chm08chflajwm" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00079.png" id="80_x5b4n"]
+[ext_resource type="Texture2D" uid="uid://qj1la08rruvt" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00080.png" id="81_g6ntf"]
+[ext_resource type="Texture2D" uid="uid://vryfwkgwgba4" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00081.png" id="82_gcetc"]
+[ext_resource type="Texture2D" uid="uid://cjkro3kxavkdm" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00082.png" id="83_qlo2e"]
+[ext_resource type="Texture2D" uid="uid://qlorv0u5hryp" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00083.png" id="84_6dsfs"]
+[ext_resource type="Texture2D" uid="uid://br0m15648vx26" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00084.png" id="85_h5ffu"]
+[ext_resource type="Texture2D" uid="uid://bjx2jn7tmfri8" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00085.png" id="86_nq531"]
+[ext_resource type="Texture2D" uid="uid://cng872nppjt41" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00086.png" id="87_4kh8t"]
+[ext_resource type="Texture2D" uid="uid://b16wcmolol3ny" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00087.png" id="88_hnuqi"]
+[ext_resource type="Texture2D" uid="uid://cj36hcfs51cs" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00088.png" id="89_xxetd"]
+[ext_resource type="Texture2D" uid="uid://b3ffenwvcb8cx" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00089.png" id="90_2c8qb"]
+[ext_resource type="Texture2D" uid="uid://ddhf56o1koyic" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00090.png" id="91_5qwum"]
+[ext_resource type="Texture2D" uid="uid://cktnvb0lroaoy" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00091.png" id="92_66w8o"]
+[ext_resource type="Texture2D" uid="uid://ouxgauohespr" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00092.png" id="93_b7ppc"]
+[ext_resource type="Texture2D" uid="uid://b3rckw7agkfbg" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00093.png" id="94_fas4u"]
+[ext_resource type="Texture2D" uid="uid://c0645tmvr6ena" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00094.png" id="95_6xofv"]
+[ext_resource type="Texture2D" uid="uid://bc5m8r1b1h5sb" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00095.png" id="96_7fra4"]
+[ext_resource type="Texture2D" uid="uid://83csijn3raav" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00096.png" id="97_2q5s3"]
+[ext_resource type="Texture2D" uid="uid://mhqt20kyrvqs" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00097.png" id="98_p2p20"]
+[ext_resource type="Texture2D" uid="uid://dne8b4vkjblce" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00098.png" id="99_kuxfj"]
+[ext_resource type="Texture2D" uid="uid://dtunjxqg2utic" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00099.png" id="100_rm57v"]
+[ext_resource type="Texture2D" uid="uid://c1xufh0kqd7xi" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00100.png" id="101_pbgmk"]
+[ext_resource type="Texture2D" uid="uid://cya1kd65xjxsc" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00101.png" id="102_cpnbg"]
+[ext_resource type="Texture2D" uid="uid://dm1qbetimkntv" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00102.png" id="103_i67uw"]
+[ext_resource type="Texture2D" uid="uid://b3wd5quflj2yx" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00103.png" id="104_u0gpr"]
+[ext_resource type="Texture2D" uid="uid://cwe2u8br6csrb" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00104.png" id="105_1poxd"]
+[ext_resource type="Texture2D" uid="uid://cbne62y8fiq1q" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00105.png" id="106_a6i84"]
+[ext_resource type="Texture2D" uid="uid://g5cbl4o1nmo0" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00106.png" id="107_6xobr"]
+[ext_resource type="Texture2D" uid="uid://nvtv7g5h4wao" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00107.png" id="108_5h7vs"]
+[ext_resource type="Texture2D" uid="uid://46i61lo1y7im" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00108.png" id="109_joiqi"]
+[ext_resource type="Texture2D" uid="uid://cean8f72q6nd6" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00109.png" id="110_yg32a"]
+[ext_resource type="Texture2D" uid="uid://yqubad0o8qpf" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00110.png" id="111_2fhkj"]
+[ext_resource type="Texture2D" uid="uid://8k8775biourx" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00111.png" id="112_a8fox"]
+[ext_resource type="Texture2D" uid="uid://m6gxscd1fnoe" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00112.png" id="113_c5uer"]
+[ext_resource type="Texture2D" uid="uid://c8soh8t0smj2r" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00113.png" id="114_wlb0s"]
+[ext_resource type="Texture2D" uid="uid://banf4nf1621g" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00114.png" id="115_waqix"]
+[ext_resource type="Texture2D" uid="uid://cefr5byfv1t8o" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00115.png" id="116_j21gl"]
+[ext_resource type="Texture2D" uid="uid://bx04bnj2o3lya" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00116.png" id="117_hurem"]
+[ext_resource type="Texture2D" uid="uid://d4hcosuoodlgj" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00117.png" id="118_v0n5s"]
+[ext_resource type="Texture2D" uid="uid://da57p0jfh27e5" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00118.png" id="119_a3f4r"]
+[ext_resource type="Texture2D" uid="uid://pt0vw42fbwh" path="res://addons/icon_animation/assets/57混乱スター_ループ/57混乱スター_loop_rend_00119.png" id="120_rt6pc"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_vnos8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_so7vy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_54c8o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_vap2g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_2lin0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_n5nry")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_ce7rd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_xddgl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_hmxtt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_80lyt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_7ujcd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_ch3rt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_tlxqt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_qppf0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_das4f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_xnflg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_x7fqc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_q3eq1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_qihme")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_587a0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_si5ev")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_5bwy6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_cbses")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_2dq52")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_kwt3t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_0ouf3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_ieoh3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_tt7n1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_du70v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_o4lle")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_3jkhm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_88qij")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_yly4t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_lwfq0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_jnx35")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_eqbtm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_inm21")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_jjem5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_klj0y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_4n84r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_d76tk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_klu0j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_32xbj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_a6k2b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_4s16q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_5air2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_qxtx8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_ilox2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_ombkk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_gxahc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_aaxx4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_7ckx1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_2oqwq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_d80v6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_o0axx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_5gw61")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_v7l0u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_x7rli")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_fjhug")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_i24ll")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_kyt3e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_0mxav")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_eefwy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_fwgsj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_k7c0o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_tcgv7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_ncgmm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_uif5m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_wa6rx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_7yxov")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_enrb7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_54w3f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_dl3jv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_fl5ej")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_2kq7o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_5b4rj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_4w3ll")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_ayups")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_wrtnr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_x5b4n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_g6ntf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_gcetc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_qlo2e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_6dsfs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_h5ffu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_nq531")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_4kh8t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_hnuqi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_xxetd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_2c8qb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_5qwum")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_66w8o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_b7ppc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_fas4u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("95_6xofv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("96_7fra4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("97_2q5s3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("98_p2p20")
+}, {
+"duration": 1.0,
+"texture": ExtResource("99_kuxfj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("100_rm57v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("101_pbgmk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("102_cpnbg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("103_i67uw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("104_u0gpr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("105_1poxd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("106_a6i84")
+}, {
+"duration": 1.0,
+"texture": ExtResource("107_6xobr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("108_5h7vs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("109_joiqi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("110_yg32a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("111_2fhkj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("112_a8fox")
+}, {
+"duration": 1.0,
+"texture": ExtResource("113_c5uer")
+}, {
+"duration": 1.0,
+"texture": ExtResource("114_wlb0s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("115_waqix")
+}, {
+"duration": 1.0,
+"texture": ExtResource("116_j21gl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("117_hurem")
+}, {
+"duration": 1.0,
+"texture": ExtResource("118_v0n5s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("119_a3f4r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("120_rt6pc")
+}],
+"loop": true,
+"name": &"default",
+"speed": 30.0
+}]

@@ -1,0 +1,45 @@
+[gd_scene load_steps=3 format=3 uid="uid://ccpfvf26t2dxp"]
+
+[ext_resource type="SpriteFrames" uid="uid://ccw4kv326erp6" path="res://addons/icon_animations/spriteframes/57混乱スター_ループ.tres" id="1_fp4lo"]
+
+[sub_resource type="GDScript" id="GDScript_xn1o1"]
+script/source = "@tool
+extends Node
+
+
+func generate() -> void:
+	var dir := DirAccess.open(\"res://addons/icon_animation/assets/\")
+	if dir:
+		dir.list_dir_begin()
+		var file_name = dir.get_next()
+		while file_name != \"\":
+			if dir.current_is_dir():
+				generate_spriteframes(file_name)
+			file_name = dir.get_next()
+
+
+func generate_spriteframes(dir_name:String) -> void:
+	print(dir_name)
+	var sprite_frame = SpriteFrames.new()
+	if not \"ループ\" in dir_name:
+		sprite_frame.set_animation_loop(&\"default\", false)
+	sprite_frame.set_animation_speed(&\"default\", 30)
+	var dir := DirAccess.open(\"res://addons/icon_animation/assets/%s\" % dir_name)
+	if dir:
+		dir.list_dir_begin()
+		var file_name = dir.get_next()
+		while file_name != \"\":
+			if not dir.current_is_dir() and file_name.ends_with(\".png\"):
+				var sprite_path = \"%s/%s\" % [dir.get_current_dir(), file_name]
+				sprite_frame.add_frame(&\"default\", load(sprite_path))
+			file_name = dir.get_next()
+	
+	ResourceSaver.save(sprite_frame, \"res://addons/icon_animation/spriteframes/%s.tres\" % dir_name)
+"
+
+[node name="Generator" type="Node"]
+script = SubResource("GDScript_xn1o1")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = ExtResource("1_fp4lo")
+frame_progress = 0.374311

@@ -1,0 +1,570 @@
+[gd_resource type="SpriteFrames" load_steps=141 format=3 uid="uid://ewa5p37f1div"]
+
+[ext_resource type="Texture2D" uid="uid://ctg3yfd8iacb" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00000.png" id="1_5mdno"]
+[ext_resource type="Texture2D" uid="uid://c8qgcqb654j8s" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00001.png" id="2_rie7o"]
+[ext_resource type="Texture2D" uid="uid://u857senvshwl" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00002.png" id="3_3y51y"]
+[ext_resource type="Texture2D" uid="uid://clt5ffm2wmvt5" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00003.png" id="4_ehn0w"]
+[ext_resource type="Texture2D" uid="uid://x101vanxava8" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00004.png" id="5_kuqlx"]
+[ext_resource type="Texture2D" uid="uid://bqtc3jcbfhaxd" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00005.png" id="6_pdkyw"]
+[ext_resource type="Texture2D" uid="uid://cjj15qfiahnv3" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00006.png" id="7_g15nf"]
+[ext_resource type="Texture2D" uid="uid://d716ytsmr81o" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00007.png" id="8_d6xer"]
+[ext_resource type="Texture2D" uid="uid://3jxepalfvydf" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00008.png" id="9_at7cc"]
+[ext_resource type="Texture2D" uid="uid://djer1aid47opx" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00009.png" id="10_iukqh"]
+[ext_resource type="Texture2D" uid="uid://cnxskn5h5seyu" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00010.png" id="11_5pkwy"]
+[ext_resource type="Texture2D" uid="uid://bwvobst5pligk" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00011.png" id="12_sjxuy"]
+[ext_resource type="Texture2D" uid="uid://crlkxkhbniakm" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00012.png" id="13_tbmh5"]
+[ext_resource type="Texture2D" uid="uid://bo3lfhmug3v8t" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00013.png" id="14_djwek"]
+[ext_resource type="Texture2D" uid="uid://bxjibxwqmvhkr" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00014.png" id="15_vy33s"]
+[ext_resource type="Texture2D" uid="uid://cp1667vi48ljs" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00015.png" id="16_xfap2"]
+[ext_resource type="Texture2D" uid="uid://cqnjcuof3pu0w" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00016.png" id="17_wnhno"]
+[ext_resource type="Texture2D" uid="uid://mih4kolk1ywf" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00017.png" id="18_yo0b2"]
+[ext_resource type="Texture2D" uid="uid://boekvqx1dd1gl" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00018.png" id="19_y8lju"]
+[ext_resource type="Texture2D" uid="uid://ct01a7h16x42b" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00019.png" id="20_4pp3a"]
+[ext_resource type="Texture2D" uid="uid://dmy47g6glslq" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00020.png" id="21_k3fv3"]
+[ext_resource type="Texture2D" uid="uid://ie0lbuy3mnhd" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00021.png" id="22_hhvi8"]
+[ext_resource type="Texture2D" uid="uid://p7out55cpvti" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00022.png" id="23_jolm6"]
+[ext_resource type="Texture2D" uid="uid://bl07cb3jildvu" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00023.png" id="24_dvxna"]
+[ext_resource type="Texture2D" uid="uid://b4qermp00alhc" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00024.png" id="25_gajnt"]
+[ext_resource type="Texture2D" uid="uid://7kexbwq32ebw" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00025.png" id="26_8v2q5"]
+[ext_resource type="Texture2D" uid="uid://bqcwjo8vdcy32" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00026.png" id="27_6ov4w"]
+[ext_resource type="Texture2D" uid="uid://b81l7qwrucheu" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00027.png" id="28_y260s"]
+[ext_resource type="Texture2D" uid="uid://bkmgbqmaedjk0" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00028.png" id="29_t1td8"]
+[ext_resource type="Texture2D" uid="uid://bouh8s2xb4smw" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00029.png" id="30_ynorg"]
+[ext_resource type="Texture2D" uid="uid://b3kg5iryhgvi6" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00030.png" id="31_aarmb"]
+[ext_resource type="Texture2D" uid="uid://7tht5g4o2dk2" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00031.png" id="32_6rl15"]
+[ext_resource type="Texture2D" uid="uid://dlbi1p7w23o8r" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00032.png" id="33_1eni2"]
+[ext_resource type="Texture2D" uid="uid://dy2tgwl0ur7o0" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00033.png" id="34_qhes2"]
+[ext_resource type="Texture2D" uid="uid://l8pf5c04p5wd" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00034.png" id="35_alyru"]
+[ext_resource type="Texture2D" uid="uid://ds6ssvtjaicdu" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00035.png" id="36_t48qg"]
+[ext_resource type="Texture2D" uid="uid://dsbp31r618ocf" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00036.png" id="37_8d31x"]
+[ext_resource type="Texture2D" uid="uid://ce756ctn4fhwt" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00037.png" id="38_ruqpy"]
+[ext_resource type="Texture2D" uid="uid://6p5h5ccxmrak" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00038.png" id="39_lh8od"]
+[ext_resource type="Texture2D" uid="uid://do56hlc1nqyf" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00039.png" id="40_i6kbj"]
+[ext_resource type="Texture2D" uid="uid://dlxijvqof0xqw" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00040.png" id="41_x53yl"]
+[ext_resource type="Texture2D" uid="uid://kemkocinn54o" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00041.png" id="42_jtbqb"]
+[ext_resource type="Texture2D" uid="uid://scn1pe7vggn0" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00042.png" id="43_5l7cb"]
+[ext_resource type="Texture2D" uid="uid://dkpexytdstnuc" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00043.png" id="44_sb0dr"]
+[ext_resource type="Texture2D" uid="uid://hgql1ue5clh0" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00044.png" id="45_c01o2"]
+[ext_resource type="Texture2D" uid="uid://c8ya07328whsr" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00045.png" id="46_xfj7s"]
+[ext_resource type="Texture2D" uid="uid://bglv08ktbuys5" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00046.png" id="47_a85uj"]
+[ext_resource type="Texture2D" uid="uid://bthokpgsf4tjn" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00047.png" id="48_bi5jt"]
+[ext_resource type="Texture2D" uid="uid://572c6wb661e1" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00048.png" id="49_8a14f"]
+[ext_resource type="Texture2D" uid="uid://d1jjqps6cohwp" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00049.png" id="50_mpv23"]
+[ext_resource type="Texture2D" uid="uid://h26r386duq2w" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00050.png" id="51_6nfrj"]
+[ext_resource type="Texture2D" uid="uid://rdkkv8o8knsq" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00051.png" id="52_xb5ql"]
+[ext_resource type="Texture2D" uid="uid://b0p3gkm5msfxd" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00052.png" id="53_cvcr7"]
+[ext_resource type="Texture2D" uid="uid://dgyfa02dmw7fq" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00053.png" id="54_tc4gg"]
+[ext_resource type="Texture2D" uid="uid://l5ks68ic4ps8" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00054.png" id="55_mutsj"]
+[ext_resource type="Texture2D" uid="uid://bcfqk7m0w5bhl" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00055.png" id="56_tppm5"]
+[ext_resource type="Texture2D" uid="uid://cr45oj6xlvuhw" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00056.png" id="57_3epun"]
+[ext_resource type="Texture2D" uid="uid://b0owehcrgetlk" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00057.png" id="58_erjpv"]
+[ext_resource type="Texture2D" uid="uid://cyb831j8fp5c5" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00058.png" id="59_34udd"]
+[ext_resource type="Texture2D" uid="uid://d156x77rcdojq" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00059.png" id="60_2y6pf"]
+[ext_resource type="Texture2D" uid="uid://bfagudgce72pb" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00060.png" id="61_tif80"]
+[ext_resource type="Texture2D" uid="uid://dmmiygaxy1s1q" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00061.png" id="62_wqmqo"]
+[ext_resource type="Texture2D" uid="uid://da5q18x6bb4ov" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00062.png" id="63_n6nqd"]
+[ext_resource type="Texture2D" uid="uid://bcmpm8c688pw" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00063.png" id="64_7w7xf"]
+[ext_resource type="Texture2D" uid="uid://c6k6i43ay7chu" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00064.png" id="65_hswtt"]
+[ext_resource type="Texture2D" uid="uid://da2y63egx0pfl" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00065.png" id="66_x5qps"]
+[ext_resource type="Texture2D" uid="uid://b06fvesayb53n" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00066.png" id="67_uaxa3"]
+[ext_resource type="Texture2D" uid="uid://cwmknvodh6d1m" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00067.png" id="68_xqerx"]
+[ext_resource type="Texture2D" uid="uid://b210ry2ub4af6" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00068.png" id="69_ek5xm"]
+[ext_resource type="Texture2D" uid="uid://b00j7ommrnmgc" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00069.png" id="70_c8gr4"]
+[ext_resource type="Texture2D" uid="uid://d2wbf4jah8851" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00070.png" id="71_q8t7c"]
+[ext_resource type="Texture2D" uid="uid://db72edcyet4xx" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00071.png" id="72_qal15"]
+[ext_resource type="Texture2D" uid="uid://b6ocip5tiyytj" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00072.png" id="73_cfn1f"]
+[ext_resource type="Texture2D" uid="uid://ca82wl2b13ic0" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00073.png" id="74_seapc"]
+[ext_resource type="Texture2D" uid="uid://c5h6svt7fj85c" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00074.png" id="75_ohbvu"]
+[ext_resource type="Texture2D" uid="uid://bg8juy3vcu1dy" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00075.png" id="76_gc6lq"]
+[ext_resource type="Texture2D" uid="uid://6imbui4p5h5k" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00076.png" id="77_4vhic"]
+[ext_resource type="Texture2D" uid="uid://fxe1dyuwoq0n" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00077.png" id="78_7vhqk"]
+[ext_resource type="Texture2D" uid="uid://3tuchnd7y7ss" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00078.png" id="79_37aak"]
+[ext_resource type="Texture2D" uid="uid://chtodw4wjwwpx" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00079.png" id="80_rbssc"]
+[ext_resource type="Texture2D" uid="uid://btfba6llxwkr4" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00080.png" id="81_l82l3"]
+[ext_resource type="Texture2D" uid="uid://cxluspnfuft7a" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00081.png" id="82_k8qlw"]
+[ext_resource type="Texture2D" uid="uid://qv7ilqvmrv1l" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00082.png" id="83_inn73"]
+[ext_resource type="Texture2D" uid="uid://dafb4mc7tom2l" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00083.png" id="84_vq3ql"]
+[ext_resource type="Texture2D" uid="uid://dsbk0cuoi5nna" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00084.png" id="85_mij0m"]
+[ext_resource type="Texture2D" uid="uid://d2w4v80qv4p45" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00085.png" id="86_qy45v"]
+[ext_resource type="Texture2D" uid="uid://barqaxfc5n08t" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00086.png" id="87_n8v8d"]
+[ext_resource type="Texture2D" uid="uid://bxhntlsp7wqv8" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00087.png" id="88_fe2ce"]
+[ext_resource type="Texture2D" uid="uid://dd612sjsx1ekv" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00088.png" id="89_a50rm"]
+[ext_resource type="Texture2D" uid="uid://cl11eltxerorj" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00089.png" id="90_w3qn2"]
+[ext_resource type="Texture2D" uid="uid://4hmemd2o8rdp" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00090.png" id="91_rjus1"]
+[ext_resource type="Texture2D" uid="uid://cjgeo6x3dcl3v" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00091.png" id="92_sqsg0"]
+[ext_resource type="Texture2D" uid="uid://du3jb5q48h6ic" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00092.png" id="93_poo1f"]
+[ext_resource type="Texture2D" uid="uid://bj6ctpf2mgiu6" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00093.png" id="94_jand0"]
+[ext_resource type="Texture2D" uid="uid://ddjfu2py2n6lk" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00094.png" id="95_ehu7b"]
+[ext_resource type="Texture2D" uid="uid://be4n5aeo5v48d" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00095.png" id="96_hwxbv"]
+[ext_resource type="Texture2D" uid="uid://cctab2u1l3y8n" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00096.png" id="97_1arrf"]
+[ext_resource type="Texture2D" uid="uid://cm8oq8i3woswf" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00097.png" id="98_l6syn"]
+[ext_resource type="Texture2D" uid="uid://sngudedxh8ok" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00098.png" id="99_r2goo"]
+[ext_resource type="Texture2D" uid="uid://b3ds587w0rgny" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00099.png" id="100_2eebg"]
+[ext_resource type="Texture2D" uid="uid://db8bskppajsme" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00100.png" id="101_kcthd"]
+[ext_resource type="Texture2D" uid="uid://bdnefjrcewcbg" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00101.png" id="102_vwnrf"]
+[ext_resource type="Texture2D" uid="uid://bcxis571hamuy" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00102.png" id="103_0m045"]
+[ext_resource type="Texture2D" uid="uid://clkbrsxo6da6d" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00103.png" id="104_34tyt"]
+[ext_resource type="Texture2D" uid="uid://b855ji0sew5ex" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00104.png" id="105_hg3so"]
+[ext_resource type="Texture2D" uid="uid://cvdu12lykovvl" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00105.png" id="106_w0bjb"]
+[ext_resource type="Texture2D" uid="uid://d2ojvy6p5huxq" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00106.png" id="107_ertkc"]
+[ext_resource type="Texture2D" uid="uid://cpaj1nf0tvwnc" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00107.png" id="108_17loj"]
+[ext_resource type="Texture2D" uid="uid://c8foe1havvheo" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00108.png" id="109_2uv1q"]
+[ext_resource type="Texture2D" uid="uid://dsx43tdwdek6j" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00109.png" id="110_4ljfr"]
+[ext_resource type="Texture2D" uid="uid://btv16gcfvaf1t" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00110.png" id="111_fuk2j"]
+[ext_resource type="Texture2D" uid="uid://c38jnj42jqndp" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00111.png" id="112_8lf6i"]
+[ext_resource type="Texture2D" uid="uid://b5heajplokb0j" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00112.png" id="113_r2ryv"]
+[ext_resource type="Texture2D" uid="uid://b7njikafbw807" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00113.png" id="114_a4apm"]
+[ext_resource type="Texture2D" uid="uid://ba8spe0uksfwf" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00114.png" id="115_t5hm0"]
+[ext_resource type="Texture2D" uid="uid://obdvp5mt1dbm" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00115.png" id="116_u25ti"]
+[ext_resource type="Texture2D" uid="uid://cwaymi66mrnqa" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00116.png" id="117_6gapw"]
+[ext_resource type="Texture2D" uid="uid://6dqfrgpddnm7" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00117.png" id="118_673dk"]
+[ext_resource type="Texture2D" uid="uid://d4lggcxtyu2yi" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00118.png" id="119_0cg1d"]
+[ext_resource type="Texture2D" uid="uid://3pgfki3ekhlg" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00119.png" id="120_5mc62"]
+[ext_resource type="Texture2D" uid="uid://bak827hu4mdim" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00120.png" id="121_4b466"]
+[ext_resource type="Texture2D" uid="uid://chhssgfpd0oax" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00121.png" id="122_175bn"]
+[ext_resource type="Texture2D" uid="uid://cnyuqaptlw578" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00122.png" id="123_ict7t"]
+[ext_resource type="Texture2D" uid="uid://4e4oxt3xe5k7" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00123.png" id="124_fopdy"]
+[ext_resource type="Texture2D" uid="uid://cfuxt4dfqh1y0" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00124.png" id="125_l8b1t"]
+[ext_resource type="Texture2D" uid="uid://bpa8t46j3g07b" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00125.png" id="126_u4in7"]
+[ext_resource type="Texture2D" uid="uid://dwk6lflqnww7a" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00126.png" id="127_lg4kq"]
+[ext_resource type="Texture2D" uid="uid://btcejami1vtef" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00127.png" id="128_shjdw"]
+[ext_resource type="Texture2D" uid="uid://j16d5clqrmrq" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00128.png" id="129_e1i15"]
+[ext_resource type="Texture2D" uid="uid://cnnvmqkfbenq8" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00129.png" id="130_dbinf"]
+[ext_resource type="Texture2D" uid="uid://c5asuv2est6fw" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00130.png" id="131_5jgr4"]
+[ext_resource type="Texture2D" uid="uid://nckwq62hkmox" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00131.png" id="132_o2k36"]
+[ext_resource type="Texture2D" uid="uid://bqwm2qaphxsii" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00132.png" id="133_r6vmb"]
+[ext_resource type="Texture2D" uid="uid://bbkmaj0gnxop5" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00133.png" id="134_22qat"]
+[ext_resource type="Texture2D" uid="uid://d3jx6n8wliddy" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00134.png" id="135_wnc17"]
+[ext_resource type="Texture2D" uid="uid://b81ubllqftw8n" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00135.png" id="136_uuoiv"]
+[ext_resource type="Texture2D" uid="uid://d1frbcjtjltvl" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00136.png" id="137_uf0aw"]
+[ext_resource type="Texture2D" uid="uid://dh6m3qe7sgtjo" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00137.png" id="138_cfand"]
+[ext_resource type="Texture2D" uid="uid://3ijfc8etd08c" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00138.png" id="139_l87ad"]
+[ext_resource type="Texture2D" uid="uid://bo8lthfyi0drd" path="res://addons/icon_animation/assets/20バッテンA_正面/20バッテンA_正面_rend_00139.png" id="140_w7qhk"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_5mdno")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_rie7o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_3y51y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_ehn0w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_kuqlx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_pdkyw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_g15nf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_d6xer")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_at7cc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_iukqh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_5pkwy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_sjxuy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_tbmh5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_djwek")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_vy33s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_xfap2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_wnhno")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_yo0b2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_y8lju")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_4pp3a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_k3fv3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_hhvi8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_jolm6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_dvxna")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_gajnt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_8v2q5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_6ov4w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_y260s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_t1td8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_ynorg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_aarmb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_6rl15")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_1eni2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_qhes2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_alyru")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_t48qg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_8d31x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_ruqpy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_lh8od")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_i6kbj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_x53yl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_jtbqb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_5l7cb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_sb0dr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_c01o2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_xfj7s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_a85uj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_bi5jt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_8a14f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_mpv23")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_6nfrj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_xb5ql")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_cvcr7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_tc4gg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_mutsj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_tppm5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_3epun")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_erjpv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_34udd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_2y6pf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_tif80")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_wqmqo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_n6nqd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_7w7xf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_hswtt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_x5qps")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_uaxa3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_xqerx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_ek5xm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_c8gr4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_q8t7c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_qal15")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_cfn1f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_seapc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_ohbvu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_gc6lq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_4vhic")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_7vhqk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_37aak")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_rbssc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_l82l3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_k8qlw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_inn73")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_vq3ql")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_mij0m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_qy45v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_n8v8d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_fe2ce")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_a50rm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_w3qn2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_rjus1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_sqsg0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_poo1f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_jand0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("95_ehu7b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("96_hwxbv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("97_1arrf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("98_l6syn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("99_r2goo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("100_2eebg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("101_kcthd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("102_vwnrf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("103_0m045")
+}, {
+"duration": 1.0,
+"texture": ExtResource("104_34tyt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("105_hg3so")
+}, {
+"duration": 1.0,
+"texture": ExtResource("106_w0bjb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("107_ertkc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("108_17loj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("109_2uv1q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("110_4ljfr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("111_fuk2j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("112_8lf6i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("113_r2ryv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("114_a4apm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("115_t5hm0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("116_u25ti")
+}, {
+"duration": 1.0,
+"texture": ExtResource("117_6gapw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("118_673dk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("119_0cg1d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("120_5mc62")
+}, {
+"duration": 1.0,
+"texture": ExtResource("121_4b466")
+}, {
+"duration": 1.0,
+"texture": ExtResource("122_175bn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("123_ict7t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("124_fopdy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("125_l8b1t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("126_u4in7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("127_lg4kq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("128_shjdw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("129_e1i15")
+}, {
+"duration": 1.0,
+"texture": ExtResource("130_dbinf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("131_5jgr4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("132_o2k36")
+}, {
+"duration": 1.0,
+"texture": ExtResource("133_r6vmb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("134_22qat")
+}, {
+"duration": 1.0,
+"texture": ExtResource("135_wnc17")
+}, {
+"duration": 1.0,
+"texture": ExtResource("136_uuoiv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("137_uf0aw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("138_cfand")
+}, {
+"duration": 1.0,
+"texture": ExtResource("139_l87ad")
+}, {
+"duration": 1.0,
+"texture": ExtResource("140_w7qhk")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]

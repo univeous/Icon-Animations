@@ -1,0 +1,322 @@
+[gd_resource type="SpriteFrames" load_steps=79 format=3 uid="uid://br2o53vn8hgwl"]
+
+[ext_resource type="Texture2D" uid="uid://n8yk6kvdutw7" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00000.png" id="1_p4hoi"]
+[ext_resource type="Texture2D" uid="uid://ey17e2lwhg0e" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00001.png" id="2_pgsvo"]
+[ext_resource type="Texture2D" uid="uid://dvos5fxb57486" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00002.png" id="3_qcn1g"]
+[ext_resource type="Texture2D" uid="uid://bsarbumhdav13" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00003.png" id="4_sqi1t"]
+[ext_resource type="Texture2D" uid="uid://b3x6srarx8q5f" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00004.png" id="5_mrqno"]
+[ext_resource type="Texture2D" uid="uid://c47mh7xb4r8fo" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00005.png" id="6_nkws2"]
+[ext_resource type="Texture2D" uid="uid://prap5w2yi0sh" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00006.png" id="7_gbknc"]
+[ext_resource type="Texture2D" uid="uid://gu87bls0unim" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00007.png" id="8_ynkyp"]
+[ext_resource type="Texture2D" uid="uid://pw6r5y7e1e53" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00008.png" id="9_uwmje"]
+[ext_resource type="Texture2D" uid="uid://dc4whdlfgrbex" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00009.png" id="10_01qpc"]
+[ext_resource type="Texture2D" uid="uid://cbdmliuif7uw3" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00010.png" id="11_bwhub"]
+[ext_resource type="Texture2D" uid="uid://bypcf7k7vrud2" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00011.png" id="12_bdsmn"]
+[ext_resource type="Texture2D" uid="uid://cw4nvqxrbiupl" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00012.png" id="13_rtyc3"]
+[ext_resource type="Texture2D" uid="uid://sxxiudk48d4n" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00013.png" id="14_ygvqy"]
+[ext_resource type="Texture2D" uid="uid://ddnubern8js1q" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00014.png" id="15_txxea"]
+[ext_resource type="Texture2D" uid="uid://yu3uot1u6n0r" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00015.png" id="16_vommj"]
+[ext_resource type="Texture2D" uid="uid://w3taulc3s4sm" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00016.png" id="17_v8ws0"]
+[ext_resource type="Texture2D" uid="uid://dag3i00qoavk7" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00017.png" id="18_6d6xm"]
+[ext_resource type="Texture2D" uid="uid://dxdnuneghr4ad" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00018.png" id="19_xjhge"]
+[ext_resource type="Texture2D" uid="uid://cq7bpfd15pbdh" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00019.png" id="20_dn467"]
+[ext_resource type="Texture2D" uid="uid://cjp6exga2d1v5" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00020.png" id="21_28niy"]
+[ext_resource type="Texture2D" uid="uid://d35w6bjxdm0ep" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00021.png" id="22_b08v3"]
+[ext_resource type="Texture2D" uid="uid://biqw4ghf2asr8" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00022.png" id="23_nsod2"]
+[ext_resource type="Texture2D" uid="uid://cblpitfjmhrt5" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00023.png" id="24_jbgfp"]
+[ext_resource type="Texture2D" uid="uid://dpaq52fhvd780" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00024.png" id="25_k52d2"]
+[ext_resource type="Texture2D" uid="uid://dfyr0ktdk2w5i" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00025.png" id="26_p4av8"]
+[ext_resource type="Texture2D" uid="uid://dr1fmq8q8rj5" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00026.png" id="27_jv2vm"]
+[ext_resource type="Texture2D" uid="uid://cdwcimtml85xl" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00027.png" id="28_ml0lu"]
+[ext_resource type="Texture2D" uid="uid://bbnlrc3otfguf" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00028.png" id="29_o1qfr"]
+[ext_resource type="Texture2D" uid="uid://dhlgtd5hq3w7k" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00029.png" id="30_wxxnw"]
+[ext_resource type="Texture2D" uid="uid://c3btem6p8413x" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00030.png" id="31_5t2qg"]
+[ext_resource type="Texture2D" uid="uid://bm4tpwfcwpn8b" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00031.png" id="32_gibwr"]
+[ext_resource type="Texture2D" uid="uid://coe3jq0dt3ykq" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00032.png" id="33_wxstv"]
+[ext_resource type="Texture2D" uid="uid://dno8d028f05vh" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00033.png" id="34_nexp6"]
+[ext_resource type="Texture2D" uid="uid://wx6vu5ridvu8" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00034.png" id="35_vxptu"]
+[ext_resource type="Texture2D" uid="uid://c8dba8frnvvru" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00035.png" id="36_0kop8"]
+[ext_resource type="Texture2D" uid="uid://bj6rhk7sqeo4y" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00036.png" id="37_hrqoc"]
+[ext_resource type="Texture2D" uid="uid://c1jx5bcr6ffx3" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00037.png" id="38_h3y1b"]
+[ext_resource type="Texture2D" uid="uid://wsw8gvpxo1cr" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00038.png" id="39_7m1qm"]
+[ext_resource type="Texture2D" uid="uid://cmi2j8jjcwrrg" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00039.png" id="40_h158m"]
+[ext_resource type="Texture2D" uid="uid://nfebo5ukantw" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00040.png" id="41_eemax"]
+[ext_resource type="Texture2D" uid="uid://7n1aqoqyxlcy" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00041.png" id="42_a51p8"]
+[ext_resource type="Texture2D" uid="uid://ebci8x16xa2b" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00042.png" id="43_wkyeq"]
+[ext_resource type="Texture2D" uid="uid://w0hccq7lksui" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00043.png" id="44_07nuh"]
+[ext_resource type="Texture2D" uid="uid://bn7ibbuu72j2n" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00044.png" id="45_pr0lc"]
+[ext_resource type="Texture2D" uid="uid://cmedltn3fe1wh" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00045.png" id="46_fcauj"]
+[ext_resource type="Texture2D" uid="uid://bwixvm0yquupx" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00046.png" id="47_oq2ox"]
+[ext_resource type="Texture2D" uid="uid://c88v5u50olkdr" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00047.png" id="48_qh3bc"]
+[ext_resource type="Texture2D" uid="uid://c5pep4pt44tu8" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00048.png" id="49_jcx33"]
+[ext_resource type="Texture2D" uid="uid://ma3u577vfb7t" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00049.png" id="50_dd63y"]
+[ext_resource type="Texture2D" uid="uid://cabbvnor2slud" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00050.png" id="51_2lo1s"]
+[ext_resource type="Texture2D" uid="uid://b0anf14w5ksv0" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00051.png" id="52_y72md"]
+[ext_resource type="Texture2D" uid="uid://btqqv4ph56b1t" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00052.png" id="53_ydmpv"]
+[ext_resource type="Texture2D" uid="uid://db5di4na8yjic" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00053.png" id="54_26wv8"]
+[ext_resource type="Texture2D" uid="uid://1ewiyvj4656g" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00054.png" id="55_cggxr"]
+[ext_resource type="Texture2D" uid="uid://veiiiywohi6i" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00055.png" id="56_hyr61"]
+[ext_resource type="Texture2D" uid="uid://b1k0f6f51wqsa" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00056.png" id="57_ornu1"]
+[ext_resource type="Texture2D" uid="uid://bgbwa8wxfwfky" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00057.png" id="58_0yb4i"]
+[ext_resource type="Texture2D" uid="uid://djpsvf0o1ffsv" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00058.png" id="59_i8oxk"]
+[ext_resource type="Texture2D" uid="uid://iyyju6hj51li" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00059.png" id="60_tvhs7"]
+[ext_resource type="Texture2D" uid="uid://dh4uufmkcwxku" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00060.png" id="61_kh0uo"]
+[ext_resource type="Texture2D" uid="uid://c6q8r8bpwxmt3" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00061.png" id="62_4hl04"]
+[ext_resource type="Texture2D" uid="uid://ddciopcu210p5" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00062.png" id="63_8388m"]
+[ext_resource type="Texture2D" uid="uid://bsnugtdbfwiji" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00063.png" id="64_yx1qb"]
+[ext_resource type="Texture2D" uid="uid://dy81usypw7w6e" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00064.png" id="65_sqi0m"]
+[ext_resource type="Texture2D" uid="uid://04dppla373em" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00065.png" id="66_oymrw"]
+[ext_resource type="Texture2D" uid="uid://bwisokuoyoum6" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00066.png" id="67_icrgm"]
+[ext_resource type="Texture2D" uid="uid://bnr5n0svynqra" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00067.png" id="68_45a8q"]
+[ext_resource type="Texture2D" uid="uid://c857w2oi6njvk" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00068.png" id="69_fbo6c"]
+[ext_resource type="Texture2D" uid="uid://c7her1a2w8ysk" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00069.png" id="70_ssa84"]
+[ext_resource type="Texture2D" uid="uid://ckfs6b2twbuhn" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00070.png" id="71_rkvwj"]
+[ext_resource type="Texture2D" uid="uid://kcvwih77fkoj" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00071.png" id="72_i5wop"]
+[ext_resource type="Texture2D" uid="uid://dke72ghydsl7h" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00072.png" id="73_x2dwy"]
+[ext_resource type="Texture2D" uid="uid://dfybi51tv58hu" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00073.png" id="74_8jmws"]
+[ext_resource type="Texture2D" uid="uid://dfhiby033iy57" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00074.png" id="75_kp3ev"]
+[ext_resource type="Texture2D" uid="uid://byetf23g70nee" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00075.png" id="76_b3l1r"]
+[ext_resource type="Texture2D" uid="uid://bxlqu1abs6w87" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00076.png" id="77_yu0cv"]
+[ext_resource type="Texture2D" uid="uid://cpf4qutyadurg" path="res://addons/icon_animation/assets/31衝撃/31衝撃_rend_00077.png" id="78_bmosn"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_p4hoi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_pgsvo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_qcn1g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_sqi1t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_mrqno")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_nkws2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_gbknc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_ynkyp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_uwmje")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_01qpc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_bwhub")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_bdsmn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_rtyc3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_ygvqy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_txxea")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_vommj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_v8ws0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_6d6xm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_xjhge")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_dn467")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_28niy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_b08v3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_nsod2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_jbgfp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_k52d2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_p4av8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_jv2vm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_ml0lu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_o1qfr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_wxxnw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_5t2qg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_gibwr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_wxstv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_nexp6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_vxptu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_0kop8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_hrqoc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_h3y1b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_7m1qm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_h158m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_eemax")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_a51p8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_wkyeq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_07nuh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_pr0lc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_fcauj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_oq2ox")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_qh3bc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_jcx33")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_dd63y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_2lo1s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_y72md")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_ydmpv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_26wv8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_cggxr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_hyr61")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_ornu1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_0yb4i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_i8oxk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_tvhs7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_kh0uo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_4hl04")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_8388m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_yx1qb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_sqi0m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_oymrw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_icrgm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_45a8q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_fbo6c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_ssa84")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_rkvwj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_i5wop")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_x2dwy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_8jmws")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_kp3ev")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_b3l1r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_yu0cv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_bmosn")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]

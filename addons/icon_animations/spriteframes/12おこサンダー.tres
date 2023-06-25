@@ -1,0 +1,382 @@
+[gd_resource type="SpriteFrames" load_steps=94 format=3 uid="uid://cfoo4tuoxuxm6"]
+
+[ext_resource type="Texture2D" uid="uid://c1wm2vrsoy3ps" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00001.png" id="1_jwooy"]
+[ext_resource type="Texture2D" uid="uid://cplx58oxic2pw" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00002.png" id="2_davv5"]
+[ext_resource type="Texture2D" uid="uid://djocq0voophon" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00003.png" id="3_li2ow"]
+[ext_resource type="Texture2D" uid="uid://o7lqk6vlcxli" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00004.png" id="4_r0lfo"]
+[ext_resource type="Texture2D" uid="uid://bnowl1n8vqbbk" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00005.png" id="5_73w8q"]
+[ext_resource type="Texture2D" uid="uid://c1ci3vw31w3d1" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00006.png" id="6_xvjtq"]
+[ext_resource type="Texture2D" uid="uid://c35wvlhs38hmr" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00007.png" id="7_2qk7c"]
+[ext_resource type="Texture2D" uid="uid://65fg1ulcepvb" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00008.png" id="8_rtqj2"]
+[ext_resource type="Texture2D" uid="uid://b300b60he6p3a" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00009.png" id="9_8y7v3"]
+[ext_resource type="Texture2D" uid="uid://cg48dvqr7eqhg" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00010.png" id="10_x4mk6"]
+[ext_resource type="Texture2D" uid="uid://11ovp8j1odms" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00011.png" id="11_cnt6s"]
+[ext_resource type="Texture2D" uid="uid://b4gksd2w23yqx" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00012.png" id="12_8ut03"]
+[ext_resource type="Texture2D" uid="uid://cc3a2o2kxtd5w" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00013.png" id="13_8wu7d"]
+[ext_resource type="Texture2D" uid="uid://dgl3dyswh0sb2" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00014.png" id="14_jcrxv"]
+[ext_resource type="Texture2D" uid="uid://c8laafs74bbq1" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00015.png" id="15_8uouv"]
+[ext_resource type="Texture2D" uid="uid://s5243clathgk" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00016.png" id="16_sis7r"]
+[ext_resource type="Texture2D" uid="uid://cw4ufl42vpkp3" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00017.png" id="17_we2ix"]
+[ext_resource type="Texture2D" uid="uid://5hcidg4e5165" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00018.png" id="18_as62x"]
+[ext_resource type="Texture2D" uid="uid://dv8e5ya0aptd2" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00019.png" id="19_umoj3"]
+[ext_resource type="Texture2D" uid="uid://db5evuc4qqqqf" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00020.png" id="20_2bj00"]
+[ext_resource type="Texture2D" uid="uid://cdcqiqqwlxuc" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00021.png" id="21_aylu7"]
+[ext_resource type="Texture2D" uid="uid://bv6dcai0xqhij" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00022.png" id="22_s0eq0"]
+[ext_resource type="Texture2D" uid="uid://wgwv6k2rfssi" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00023.png" id="23_5gus8"]
+[ext_resource type="Texture2D" uid="uid://desbt3mn3imly" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00024.png" id="24_1clyy"]
+[ext_resource type="Texture2D" uid="uid://crjtqddovol2e" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00025.png" id="25_1qxqp"]
+[ext_resource type="Texture2D" uid="uid://c2ub151x713un" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00026.png" id="26_pcbk2"]
+[ext_resource type="Texture2D" uid="uid://d1u4rx0pvhwpx" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00027.png" id="27_h2blv"]
+[ext_resource type="Texture2D" uid="uid://dxnkqvfsjl5bu" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00028.png" id="28_2o252"]
+[ext_resource type="Texture2D" uid="uid://cgoh0g18h8m6t" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00029.png" id="29_torm2"]
+[ext_resource type="Texture2D" uid="uid://c8kgsppc3nrch" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00030.png" id="30_wnrn6"]
+[ext_resource type="Texture2D" uid="uid://b3egtbg86olgn" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00031.png" id="31_76b8t"]
+[ext_resource type="Texture2D" uid="uid://c8841qybli02r" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00032.png" id="32_v5gpd"]
+[ext_resource type="Texture2D" uid="uid://d70ppmwcnb8w" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00033.png" id="33_fddjv"]
+[ext_resource type="Texture2D" uid="uid://dnh13iepq8h3h" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00034.png" id="34_fnkpr"]
+[ext_resource type="Texture2D" uid="uid://c22ipyfar1ebd" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00035.png" id="35_tusyt"]
+[ext_resource type="Texture2D" uid="uid://6qvyskuct4xa" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00036.png" id="36_mmovq"]
+[ext_resource type="Texture2D" uid="uid://bdty0f81ao0uq" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00037.png" id="37_tvmda"]
+[ext_resource type="Texture2D" uid="uid://bundy12i5xmex" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00038.png" id="38_nmssu"]
+[ext_resource type="Texture2D" uid="uid://d2f0x7h6qj0vq" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00039.png" id="39_5dcjk"]
+[ext_resource type="Texture2D" uid="uid://caq3drm7evds0" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00040.png" id="40_urm4o"]
+[ext_resource type="Texture2D" uid="uid://pkwfcn1bxnro" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00041.png" id="41_5bmfo"]
+[ext_resource type="Texture2D" uid="uid://bo482acx27w21" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00042.png" id="42_fbpe3"]
+[ext_resource type="Texture2D" uid="uid://dula1hjvt3nku" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00043.png" id="43_l4io1"]
+[ext_resource type="Texture2D" uid="uid://dr1pkis6fps1" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00044.png" id="44_fj8op"]
+[ext_resource type="Texture2D" uid="uid://cvgvv6wt0o5vx" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00045.png" id="45_02cth"]
+[ext_resource type="Texture2D" uid="uid://dlq2ju7gq2emm" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00046.png" id="46_iqamm"]
+[ext_resource type="Texture2D" uid="uid://0fpopnw155tb" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00047.png" id="47_pvnoo"]
+[ext_resource type="Texture2D" uid="uid://ldt5kc7gb1e4" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00048.png" id="48_74s1r"]
+[ext_resource type="Texture2D" uid="uid://cdtvgcasrph88" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00049.png" id="49_ccso2"]
+[ext_resource type="Texture2D" uid="uid://d31xqqymfmagv" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00050.png" id="50_de05x"]
+[ext_resource type="Texture2D" uid="uid://cv3lyibcijfcr" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00051.png" id="51_3mryl"]
+[ext_resource type="Texture2D" uid="uid://dqh06fm11hvsq" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00052.png" id="52_lwsmo"]
+[ext_resource type="Texture2D" uid="uid://cqmneohjgwfku" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00053.png" id="53_0wkt8"]
+[ext_resource type="Texture2D" uid="uid://cvwd41eswdc3e" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00054.png" id="54_k5ve4"]
+[ext_resource type="Texture2D" uid="uid://ccpuatd6p0axp" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00055.png" id="55_3xkvc"]
+[ext_resource type="Texture2D" uid="uid://c088mp8lv0yu7" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00056.png" id="56_wc2j8"]
+[ext_resource type="Texture2D" uid="uid://bxn6q1cmylsuf" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00057.png" id="57_k26mx"]
+[ext_resource type="Texture2D" uid="uid://bs0q3dli7odal" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00058.png" id="58_w7q2c"]
+[ext_resource type="Texture2D" uid="uid://chhpk2emf1weu" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00059.png" id="59_j6jaa"]
+[ext_resource type="Texture2D" uid="uid://d2m6d7gpadt7t" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00060.png" id="60_cx7hf"]
+[ext_resource type="Texture2D" uid="uid://bx50nibgyi5r" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00061.png" id="61_3mm0o"]
+[ext_resource type="Texture2D" uid="uid://rkd7hkeypiux" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00062.png" id="62_8sj42"]
+[ext_resource type="Texture2D" uid="uid://ccjkn85170kvo" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00063.png" id="63_suay0"]
+[ext_resource type="Texture2D" uid="uid://b7ldly7mhhbbj" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00064.png" id="64_t5hl2"]
+[ext_resource type="Texture2D" uid="uid://4c237t5afvmo" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00065.png" id="65_k86at"]
+[ext_resource type="Texture2D" uid="uid://d2qs0voq0u35d" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00066.png" id="66_k4m0s"]
+[ext_resource type="Texture2D" uid="uid://cjbvjlvcje3dg" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00067.png" id="67_66mn7"]
+[ext_resource type="Texture2D" uid="uid://c4jn31pd2pxv6" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00068.png" id="68_pgxkd"]
+[ext_resource type="Texture2D" uid="uid://bltfendxilgda" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00069.png" id="69_3lrg5"]
+[ext_resource type="Texture2D" uid="uid://bdmvp8caubgu1" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00070.png" id="70_f2xsy"]
+[ext_resource type="Texture2D" uid="uid://n7jymujmwecl" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00071.png" id="71_31831"]
+[ext_resource type="Texture2D" uid="uid://2xgpsfakh4i7" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00072.png" id="72_3swnp"]
+[ext_resource type="Texture2D" uid="uid://bnqjllhkifvqn" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00073.png" id="73_eo45k"]
+[ext_resource type="Texture2D" uid="uid://delk1113uhwgt" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00074.png" id="74_jsa8e"]
+[ext_resource type="Texture2D" uid="uid://c6s8n20ocwpbf" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00075.png" id="75_fj5cv"]
+[ext_resource type="Texture2D" uid="uid://bkcjekev75dm8" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00076.png" id="76_m1gqy"]
+[ext_resource type="Texture2D" uid="uid://pskety83om2y" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00077.png" id="77_ct4m0"]
+[ext_resource type="Texture2D" uid="uid://cko4a8c6cmlcq" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00078.png" id="78_ax5k3"]
+[ext_resource type="Texture2D" uid="uid://cwlrtb6g3b28k" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00079.png" id="79_6qs0p"]
+[ext_resource type="Texture2D" uid="uid://t55xc7kgmwvb" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00080.png" id="80_ugkoj"]
+[ext_resource type="Texture2D" uid="uid://nqbglnsblwk" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00081.png" id="81_rqkfb"]
+[ext_resource type="Texture2D" uid="uid://3js6eruqlyth" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00082.png" id="82_3tf1a"]
+[ext_resource type="Texture2D" uid="uid://b17afg558mcnr" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00083.png" id="83_yjoms"]
+[ext_resource type="Texture2D" uid="uid://bvnksxic2fmk6" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00084.png" id="84_kfydf"]
+[ext_resource type="Texture2D" uid="uid://bp2qhs6vb6guh" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00085.png" id="85_rcigd"]
+[ext_resource type="Texture2D" uid="uid://bblnprwbpncie" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00086.png" id="86_31ifs"]
+[ext_resource type="Texture2D" uid="uid://dhk0m3riy86gx" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00087.png" id="87_wd2hv"]
+[ext_resource type="Texture2D" uid="uid://y7kmf6oqjuyg" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00088.png" id="88_73ads"]
+[ext_resource type="Texture2D" uid="uid://cis1tcjpauhtn" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00089.png" id="89_icr2x"]
+[ext_resource type="Texture2D" uid="uid://2p0dc61e8yp8" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00090.png" id="90_0767y"]
+[ext_resource type="Texture2D" uid="uid://cvn750xpqwhoa" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00091.png" id="91_xr5hg"]
+[ext_resource type="Texture2D" uid="uid://b1te0uv7yjtmr" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00092.png" id="92_rwofb"]
+[ext_resource type="Texture2D" uid="uid://clu7p8vq4j5j7" path="res://addons/icon_animation/assets/12おこサンダー/12おこサンダー_rend_00093.png" id="93_g30ip"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_jwooy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_davv5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_li2ow")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_r0lfo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_73w8q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_xvjtq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_2qk7c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_rtqj2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_8y7v3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_x4mk6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_cnt6s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_8ut03")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_8wu7d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_jcrxv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_8uouv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_sis7r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_we2ix")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_as62x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_umoj3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_2bj00")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_aylu7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_s0eq0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_5gus8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_1clyy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_1qxqp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_pcbk2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_h2blv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_2o252")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_torm2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_wnrn6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_76b8t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_v5gpd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_fddjv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_fnkpr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_tusyt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_mmovq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_tvmda")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_nmssu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_5dcjk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_urm4o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_5bmfo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_fbpe3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_l4io1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_fj8op")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_02cth")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_iqamm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_pvnoo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_74s1r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_ccso2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_de05x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_3mryl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_lwsmo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_0wkt8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_k5ve4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_3xkvc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_wc2j8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_k26mx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_w7q2c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_j6jaa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_cx7hf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_3mm0o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_8sj42")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_suay0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_t5hl2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_k86at")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_k4m0s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_66mn7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_pgxkd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_3lrg5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_f2xsy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_31831")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_3swnp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_eo45k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_jsa8e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_fj5cv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_m1gqy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_ct4m0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_ax5k3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_6qs0p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_ugkoj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_rqkfb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_3tf1a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_yjoms")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_kfydf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_rcigd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_31ifs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_wd2hv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_73ads")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_icr2x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_0767y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_xr5hg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_rwofb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_g30ip")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]

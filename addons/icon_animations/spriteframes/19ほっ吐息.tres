@@ -1,0 +1,250 @@
+[gd_resource type="SpriteFrames" load_steps=61 format=3 uid="uid://di6vjuov0hmn7"]
+
+[ext_resource type="Texture2D" uid="uid://bg8cmminh42kv" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00000.png" id="1_ym1lu"]
+[ext_resource type="Texture2D" uid="uid://dvpac3pndsyjq" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00001.png" id="2_iawhs"]
+[ext_resource type="Texture2D" uid="uid://cc25fo0krxxwk" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00002.png" id="3_nuq3t"]
+[ext_resource type="Texture2D" uid="uid://by2swnreiyhbc" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00003.png" id="4_kb6ie"]
+[ext_resource type="Texture2D" uid="uid://bc7lwdp2r7nw" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00004.png" id="5_fd05a"]
+[ext_resource type="Texture2D" uid="uid://cf5ikkxjgd2bk" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00005.png" id="6_rh367"]
+[ext_resource type="Texture2D" uid="uid://cr8tt43xq5f65" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00006.png" id="7_uildt"]
+[ext_resource type="Texture2D" uid="uid://c3j308j6xxp6f" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00007.png" id="8_6ayla"]
+[ext_resource type="Texture2D" uid="uid://cawymb5dqmvtt" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00008.png" id="9_5jx0l"]
+[ext_resource type="Texture2D" uid="uid://0271yuu20xm" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00009.png" id="10_bfr4v"]
+[ext_resource type="Texture2D" uid="uid://c2sl5gu8d386" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00010.png" id="11_v0imb"]
+[ext_resource type="Texture2D" uid="uid://cwrq5jhbb6tlx" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00011.png" id="12_bonc8"]
+[ext_resource type="Texture2D" uid="uid://b82nj3wf76omp" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00012.png" id="13_og4tv"]
+[ext_resource type="Texture2D" uid="uid://chsaijsicyftp" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00013.png" id="14_3ybq0"]
+[ext_resource type="Texture2D" uid="uid://d1ehxigqsifq8" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00014.png" id="15_4uqmy"]
+[ext_resource type="Texture2D" uid="uid://cp127q7h7ndih" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00015.png" id="16_wbhte"]
+[ext_resource type="Texture2D" uid="uid://cjbr8jyf0kb5j" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00016.png" id="17_gbosx"]
+[ext_resource type="Texture2D" uid="uid://dyd3dq6aqpt1p" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00017.png" id="18_so3ip"]
+[ext_resource type="Texture2D" uid="uid://duqvnf1bcjcls" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00018.png" id="19_3c3pt"]
+[ext_resource type="Texture2D" uid="uid://drxk1h00gt01d" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00019.png" id="20_8wdj4"]
+[ext_resource type="Texture2D" uid="uid://diuby403c7vts" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00020.png" id="21_c2mr5"]
+[ext_resource type="Texture2D" uid="uid://d30yabmkisfc4" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00021.png" id="22_krirj"]
+[ext_resource type="Texture2D" uid="uid://e52ibl7nsy7y" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00022.png" id="23_g225j"]
+[ext_resource type="Texture2D" uid="uid://bvr12fwvjjley" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00023.png" id="24_r7h7n"]
+[ext_resource type="Texture2D" uid="uid://cl71dh56c8e3r" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00024.png" id="25_h2nav"]
+[ext_resource type="Texture2D" uid="uid://hvqgttdn33p" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00025.png" id="26_tc83q"]
+[ext_resource type="Texture2D" uid="uid://dbaq2j7k17ep7" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00026.png" id="27_3a0ge"]
+[ext_resource type="Texture2D" uid="uid://e0b3h4mjvbeo" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00027.png" id="28_xi8ln"]
+[ext_resource type="Texture2D" uid="uid://ic3wdom1gpi0" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00028.png" id="29_yqhha"]
+[ext_resource type="Texture2D" uid="uid://cio80tvxe73ko" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00029.png" id="30_prkhx"]
+[ext_resource type="Texture2D" uid="uid://jc4omj7aadl" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00030.png" id="31_cp250"]
+[ext_resource type="Texture2D" uid="uid://dm566tac0ik83" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00031.png" id="32_xomxa"]
+[ext_resource type="Texture2D" uid="uid://mqf6cfe8177r" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00032.png" id="33_gvqxh"]
+[ext_resource type="Texture2D" uid="uid://2xrwsk6lp2tq" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00033.png" id="34_r5v72"]
+[ext_resource type="Texture2D" uid="uid://bw637m7sfjtmn" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00034.png" id="35_0jv6g"]
+[ext_resource type="Texture2D" uid="uid://drrybhwgvga2" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00035.png" id="36_vlcrp"]
+[ext_resource type="Texture2D" uid="uid://crxskxfpy24h6" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00036.png" id="37_67cm3"]
+[ext_resource type="Texture2D" uid="uid://cmi5wceq0q4yf" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00037.png" id="38_ech2h"]
+[ext_resource type="Texture2D" uid="uid://b0r7f15pw8b0v" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00038.png" id="39_ehja8"]
+[ext_resource type="Texture2D" uid="uid://cxbfgua47ufu0" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00039.png" id="40_7mjot"]
+[ext_resource type="Texture2D" uid="uid://dem7tevbuiyul" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00040.png" id="41_7t06y"]
+[ext_resource type="Texture2D" uid="uid://byw7xllcnfitn" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00041.png" id="42_vc8e0"]
+[ext_resource type="Texture2D" uid="uid://c76qc31w7cr4d" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00042.png" id="43_74kss"]
+[ext_resource type="Texture2D" uid="uid://bcrlhk6t1170o" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00043.png" id="44_lf1a8"]
+[ext_resource type="Texture2D" uid="uid://b1bvdqpnownw0" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00044.png" id="45_3glm4"]
+[ext_resource type="Texture2D" uid="uid://dgaamc5gt4jqm" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00045.png" id="46_hsjj4"]
+[ext_resource type="Texture2D" uid="uid://d3jp8yk5l44wd" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00046.png" id="47_wrcg2"]
+[ext_resource type="Texture2D" uid="uid://c0yge14kmje7f" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00047.png" id="48_uc1cr"]
+[ext_resource type="Texture2D" uid="uid://dlf1wxbms0b25" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00048.png" id="49_eqaor"]
+[ext_resource type="Texture2D" uid="uid://bhohal5o5ttvm" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00049.png" id="50_6vfi3"]
+[ext_resource type="Texture2D" uid="uid://d1e8jclx3bduo" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00050.png" id="51_7islt"]
+[ext_resource type="Texture2D" uid="uid://b8xlfiko4a1yw" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00051.png" id="52_f36pi"]
+[ext_resource type="Texture2D" uid="uid://clve5whg0xr7s" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00052.png" id="53_n4gxh"]
+[ext_resource type="Texture2D" uid="uid://cfemgnwb8vehm" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00053.png" id="54_6pc72"]
+[ext_resource type="Texture2D" uid="uid://exbqk85ubn2o" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00054.png" id="55_m7e17"]
+[ext_resource type="Texture2D" uid="uid://cw87rt7txt27o" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00055.png" id="56_v6grw"]
+[ext_resource type="Texture2D" uid="uid://cot1v5emnaodm" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00056.png" id="57_k4i1t"]
+[ext_resource type="Texture2D" uid="uid://b8bk5sl7xeisw" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00057.png" id="58_httn4"]
+[ext_resource type="Texture2D" uid="uid://cl7gehl47n2jv" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00058.png" id="59_3k50n"]
+[ext_resource type="Texture2D" uid="uid://b25aqpq5tuqou" path="res://addons/icon_animation/assets/19ほっ吐息/19ほっ吐息_rend_00059.png" id="60_egur8"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_ym1lu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_iawhs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_nuq3t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_kb6ie")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_fd05a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_rh367")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_uildt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_6ayla")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_5jx0l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_bfr4v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_v0imb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_bonc8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_og4tv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_3ybq0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_4uqmy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_wbhte")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_gbosx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_so3ip")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_3c3pt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_8wdj4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_c2mr5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_krirj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_g225j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_r7h7n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_h2nav")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_tc83q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_3a0ge")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_xi8ln")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_yqhha")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_prkhx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_cp250")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_xomxa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_gvqxh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_r5v72")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_0jv6g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_vlcrp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_67cm3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_ech2h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_ehja8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_7mjot")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_7t06y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_vc8e0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_74kss")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_lf1a8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_3glm4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_hsjj4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_wrcg2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_uc1cr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_eqaor")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_6vfi3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_7islt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_f36pi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_n4gxh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_6pc72")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_m7e17")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_v6grw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_k4i1t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_httn4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_3k50n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_egur8")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]

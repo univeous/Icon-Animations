@@ -1,0 +1,250 @@
+[gd_resource type="SpriteFrames" load_steps=61 format=3 uid="uid://c4pya11xoiut7"]
+
+[ext_resource type="Texture2D" uid="uid://bvefe2pwr47yj" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00000.png" id="1_cyva3"]
+[ext_resource type="Texture2D" uid="uid://dyp12n7ueqg2x" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00001.png" id="2_h7nor"]
+[ext_resource type="Texture2D" uid="uid://behed0xdgu7d7" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00002.png" id="3_pxoec"]
+[ext_resource type="Texture2D" uid="uid://dt38orwyooh8p" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00003.png" id="4_bgfo3"]
+[ext_resource type="Texture2D" uid="uid://bphkguw03u8v6" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00004.png" id="5_a7vhe"]
+[ext_resource type="Texture2D" uid="uid://ds6x0pj85es07" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00005.png" id="6_xagww"]
+[ext_resource type="Texture2D" uid="uid://eg1j3arrifys" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00006.png" id="7_crorb"]
+[ext_resource type="Texture2D" uid="uid://cdhqfoa40n3jt" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00007.png" id="8_ypwjq"]
+[ext_resource type="Texture2D" uid="uid://btrcvebcc627b" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00008.png" id="9_hyma5"]
+[ext_resource type="Texture2D" uid="uid://b24uhg4nvxwj4" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00009.png" id="10_p7m7t"]
+[ext_resource type="Texture2D" uid="uid://dw01plvlpsg54" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00010.png" id="11_yt41n"]
+[ext_resource type="Texture2D" uid="uid://bwiq4rp7jeloa" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00011.png" id="12_yuf1i"]
+[ext_resource type="Texture2D" uid="uid://ruahcq5enmtj" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00012.png" id="13_i6uf3"]
+[ext_resource type="Texture2D" uid="uid://d4jylqfm7phcn" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00013.png" id="14_wlcfb"]
+[ext_resource type="Texture2D" uid="uid://cxpllmoushxqc" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00014.png" id="15_wfbn5"]
+[ext_resource type="Texture2D" uid="uid://y4fiyo7rowg7" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00015.png" id="16_36xri"]
+[ext_resource type="Texture2D" uid="uid://b48j3ynwwtinq" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00016.png" id="17_3522i"]
+[ext_resource type="Texture2D" uid="uid://bpnr5l8vimjjy" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00017.png" id="18_dkk3h"]
+[ext_resource type="Texture2D" uid="uid://0wc8votc4ayg" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00018.png" id="19_ccnlj"]
+[ext_resource type="Texture2D" uid="uid://2bw374mrqg3q" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00019.png" id="20_gjkam"]
+[ext_resource type="Texture2D" uid="uid://cre2pdvu04ka5" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00020.png" id="21_7hmaw"]
+[ext_resource type="Texture2D" uid="uid://dkndl2jbgpkqj" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00021.png" id="22_1tpec"]
+[ext_resource type="Texture2D" uid="uid://cdurpghkbupuv" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00022.png" id="23_fwc0f"]
+[ext_resource type="Texture2D" uid="uid://da430r4eywaka" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00023.png" id="24_3c8kh"]
+[ext_resource type="Texture2D" uid="uid://cuukei84af0jy" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00024.png" id="25_5pnsr"]
+[ext_resource type="Texture2D" uid="uid://c3a2w0wj35ge2" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00025.png" id="26_7m63h"]
+[ext_resource type="Texture2D" uid="uid://cwo5s4mh3ys8d" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00026.png" id="27_uu7nx"]
+[ext_resource type="Texture2D" uid="uid://dhph4fd53e1w7" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00027.png" id="28_cvy5q"]
+[ext_resource type="Texture2D" uid="uid://ctm0k65ndxvj0" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00028.png" id="29_seibe"]
+[ext_resource type="Texture2D" uid="uid://8v5f63nwxchd" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00029.png" id="30_qnbbv"]
+[ext_resource type="Texture2D" uid="uid://dr3yjw38mc5jp" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00030.png" id="31_kwai2"]
+[ext_resource type="Texture2D" uid="uid://bxt5gvffawqr2" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00031.png" id="32_vlu3d"]
+[ext_resource type="Texture2D" uid="uid://clsh8tj2n3eun" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00032.png" id="33_u3bbi"]
+[ext_resource type="Texture2D" uid="uid://qwtjsxdrd26c" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00033.png" id="34_55fvu"]
+[ext_resource type="Texture2D" uid="uid://ceia2jcrvatbm" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00034.png" id="35_pgudp"]
+[ext_resource type="Texture2D" uid="uid://plfe2sgqake7" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00035.png" id="36_hvefr"]
+[ext_resource type="Texture2D" uid="uid://do5xe7xsmktqp" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00036.png" id="37_w3m7r"]
+[ext_resource type="Texture2D" uid="uid://n5p727k27wri" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00037.png" id="38_ncn47"]
+[ext_resource type="Texture2D" uid="uid://kjcy240vibpq" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00038.png" id="39_vjdre"]
+[ext_resource type="Texture2D" uid="uid://dniq525debl0p" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00039.png" id="40_8eie0"]
+[ext_resource type="Texture2D" uid="uid://cjpgc2ntmi1u1" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00040.png" id="41_yki1x"]
+[ext_resource type="Texture2D" uid="uid://da64037ooaeao" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00041.png" id="42_7gd6i"]
+[ext_resource type="Texture2D" uid="uid://b0pyt3nowj4qm" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00042.png" id="43_57umn"]
+[ext_resource type="Texture2D" uid="uid://ibcplby1gwx3" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00043.png" id="44_4qtei"]
+[ext_resource type="Texture2D" uid="uid://weyovr8357am" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00044.png" id="45_h0xmy"]
+[ext_resource type="Texture2D" uid="uid://cbfjiadksqn7j" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00045.png" id="46_t6x2b"]
+[ext_resource type="Texture2D" uid="uid://cgojibvduunni" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00046.png" id="47_bg1jl"]
+[ext_resource type="Texture2D" uid="uid://c00b4whka3bgg" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00047.png" id="48_2sia2"]
+[ext_resource type="Texture2D" uid="uid://bkqusgtedp8g5" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00048.png" id="49_jn65g"]
+[ext_resource type="Texture2D" uid="uid://dcv5hyy1f3my1" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00049.png" id="50_b7cfo"]
+[ext_resource type="Texture2D" uid="uid://b0m5f7y8klg7c" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00050.png" id="51_jlg5x"]
+[ext_resource type="Texture2D" uid="uid://cx360iouye1ca" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00051.png" id="52_5g8ir"]
+[ext_resource type="Texture2D" uid="uid://d2yb1g8ixwm5a" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00052.png" id="53_tnl6t"]
+[ext_resource type="Texture2D" uid="uid://ysrt8xvu107b" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00053.png" id="54_tmtiw"]
+[ext_resource type="Texture2D" uid="uid://d1xyow83lfh07" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00054.png" id="55_7bvy7"]
+[ext_resource type="Texture2D" uid="uid://co0hjeynjiuqx" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00055.png" id="56_sgdd2"]
+[ext_resource type="Texture2D" uid="uid://bmxmg07uqt8m1" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00056.png" id="57_l0qgk"]
+[ext_resource type="Texture2D" uid="uid://c0top4avwp76k" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00057.png" id="58_shrcn"]
+[ext_resource type="Texture2D" uid="uid://tcnmfgg3kv7n" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00058.png" id="59_pe550"]
+[ext_resource type="Texture2D" uid="uid://ha65r46de8kg" path="res://addons/icon_animation/assets/43音符A_1個_L側/43音符A_1個_rend_00059.png" id="60_5kjxq"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_cyva3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_h7nor")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_pxoec")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_bgfo3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_a7vhe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_xagww")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_crorb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_ypwjq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_hyma5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_p7m7t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_yt41n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_yuf1i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_i6uf3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_wlcfb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_wfbn5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_36xri")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_3522i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_dkk3h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_ccnlj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_gjkam")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_7hmaw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_1tpec")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_fwc0f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_3c8kh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_5pnsr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_7m63h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_uu7nx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_cvy5q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_seibe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_qnbbv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_kwai2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_vlu3d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_u3bbi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_55fvu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_pgudp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_hvefr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_w3m7r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_ncn47")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_vjdre")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_8eie0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_yki1x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_7gd6i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_57umn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_4qtei")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_h0xmy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_t6x2b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_bg1jl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_2sia2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_jn65g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_b7cfo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_jlg5x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_5g8ir")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_tnl6t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_tmtiw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_7bvy7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_sgdd2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_l0qgk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_shrcn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_pe550")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_5kjxq")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]

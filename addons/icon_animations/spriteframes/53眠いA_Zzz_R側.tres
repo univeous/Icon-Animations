@@ -1,0 +1,490 @@
+[gd_resource type="SpriteFrames" load_steps=121 format=3 uid="uid://bwpoocn8dwsr3"]
+
+[ext_resource type="Texture2D" uid="uid://b4pfj2bln7e1w" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00000.png" id="1_0xs0i"]
+[ext_resource type="Texture2D" uid="uid://bi5d6trudc8nl" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00001.png" id="2_po3pu"]
+[ext_resource type="Texture2D" uid="uid://bk3ygibdyof7d" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00002.png" id="3_i4ywv"]
+[ext_resource type="Texture2D" uid="uid://et0cwrefad40" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00003.png" id="4_vpoal"]
+[ext_resource type="Texture2D" uid="uid://bvfdngr5d3xub" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00004.png" id="5_yk5um"]
+[ext_resource type="Texture2D" uid="uid://buwjw7ser6dre" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00005.png" id="6_ioroc"]
+[ext_resource type="Texture2D" uid="uid://c1472frnkitko" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00006.png" id="7_tp37n"]
+[ext_resource type="Texture2D" uid="uid://e0ai0xyerhi4" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00007.png" id="8_i545u"]
+[ext_resource type="Texture2D" uid="uid://b0dxs765gse67" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00008.png" id="9_1dsgt"]
+[ext_resource type="Texture2D" uid="uid://d3utuhi7wgcvf" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00009.png" id="10_ed6l0"]
+[ext_resource type="Texture2D" uid="uid://7sa30iwh37ii" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00010.png" id="11_3jr0c"]
+[ext_resource type="Texture2D" uid="uid://imrnmvuosf5" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00011.png" id="12_rmbhm"]
+[ext_resource type="Texture2D" uid="uid://cdg6kew2ugkcl" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00012.png" id="13_1h0g5"]
+[ext_resource type="Texture2D" uid="uid://873rqakxccdo" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00013.png" id="14_lml3a"]
+[ext_resource type="Texture2D" uid="uid://dam5xcukw5ry" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00014.png" id="15_dlgvd"]
+[ext_resource type="Texture2D" uid="uid://jdo5m5ghw37q" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00015.png" id="16_ouixt"]
+[ext_resource type="Texture2D" uid="uid://d3gcxwcbt0saf" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00016.png" id="17_ufdnw"]
+[ext_resource type="Texture2D" uid="uid://ya385tvteqiq" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00017.png" id="18_yj4jg"]
+[ext_resource type="Texture2D" uid="uid://bwwg3oqadefbv" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00018.png" id="19_fgk75"]
+[ext_resource type="Texture2D" uid="uid://ba7kh8uv0yt38" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00019.png" id="20_a4bhk"]
+[ext_resource type="Texture2D" uid="uid://dbg3wwri7kycj" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00020.png" id="21_pkirk"]
+[ext_resource type="Texture2D" uid="uid://iec3bldviit6" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00021.png" id="22_0nogr"]
+[ext_resource type="Texture2D" uid="uid://bagjl0qnd6e5r" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00022.png" id="23_66tv2"]
+[ext_resource type="Texture2D" uid="uid://c3b8l3rejgsao" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00023.png" id="24_tg4ta"]
+[ext_resource type="Texture2D" uid="uid://bo31t00av6ro8" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00024.png" id="25_h7rg3"]
+[ext_resource type="Texture2D" uid="uid://kxw3b60gu0eg" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00025.png" id="26_wai4j"]
+[ext_resource type="Texture2D" uid="uid://cjuh723u4pqer" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00026.png" id="27_sdbb4"]
+[ext_resource type="Texture2D" uid="uid://vs8udngbtya" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00027.png" id="28_c2tli"]
+[ext_resource type="Texture2D" uid="uid://bcwhi0bu77j13" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00028.png" id="29_l2lfo"]
+[ext_resource type="Texture2D" uid="uid://dsdgkv0vvkok7" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00029.png" id="30_7ylp6"]
+[ext_resource type="Texture2D" uid="uid://cbxctlqka0sro" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00030.png" id="31_xs6ff"]
+[ext_resource type="Texture2D" uid="uid://dmiqyey62tqgr" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00031.png" id="32_7i7q1"]
+[ext_resource type="Texture2D" uid="uid://gxv5pdplqdme" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00032.png" id="33_hvqki"]
+[ext_resource type="Texture2D" uid="uid://grotknji86x6" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00033.png" id="34_m44vr"]
+[ext_resource type="Texture2D" uid="uid://c6chqp8wykafc" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00034.png" id="35_kxash"]
+[ext_resource type="Texture2D" uid="uid://cbxiw7ribgh2q" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00035.png" id="36_6drbe"]
+[ext_resource type="Texture2D" uid="uid://cp0jxnon406qp" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00036.png" id="37_hpwyk"]
+[ext_resource type="Texture2D" uid="uid://dj7jrdupe0pbd" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00037.png" id="38_b3s2r"]
+[ext_resource type="Texture2D" uid="uid://drgtympl7gtx" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00038.png" id="39_8golo"]
+[ext_resource type="Texture2D" uid="uid://bu055wcbmpr2a" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00039.png" id="40_sw5nj"]
+[ext_resource type="Texture2D" uid="uid://b17v2q18vsnfe" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00040.png" id="41_ikms1"]
+[ext_resource type="Texture2D" uid="uid://di85h12l0m38w" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00041.png" id="42_rhm6m"]
+[ext_resource type="Texture2D" uid="uid://l134ovkuposs" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00042.png" id="43_3cujp"]
+[ext_resource type="Texture2D" uid="uid://dvpr0kwhxiqfj" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00043.png" id="44_wbjif"]
+[ext_resource type="Texture2D" uid="uid://s6cpww8c2rea" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00044.png" id="45_usawl"]
+[ext_resource type="Texture2D" uid="uid://bcqlgy6yc4ocd" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00045.png" id="46_y37u7"]
+[ext_resource type="Texture2D" uid="uid://bcw22gue1orrj" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00046.png" id="47_e5umm"]
+[ext_resource type="Texture2D" uid="uid://dygh0qqo2gmhx" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00047.png" id="48_wpqhd"]
+[ext_resource type="Texture2D" uid="uid://d1hssueve5sly" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00048.png" id="49_hn6pg"]
+[ext_resource type="Texture2D" uid="uid://tawmmp5gsfr2" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00049.png" id="50_1541y"]
+[ext_resource type="Texture2D" uid="uid://cetnordme7n5l" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00050.png" id="51_ggsx7"]
+[ext_resource type="Texture2D" uid="uid://bcwvxo40o1x1w" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00051.png" id="52_em7ys"]
+[ext_resource type="Texture2D" uid="uid://cworceqs6jqcf" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00052.png" id="53_opv1o"]
+[ext_resource type="Texture2D" uid="uid://bttskvwygq81f" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00053.png" id="54_eusix"]
+[ext_resource type="Texture2D" uid="uid://bdhyskpw381q" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00054.png" id="55_di4xk"]
+[ext_resource type="Texture2D" uid="uid://2qqht6oy6vgd" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00055.png" id="56_41x4w"]
+[ext_resource type="Texture2D" uid="uid://bpi2f6lqihj5v" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00056.png" id="57_ri52r"]
+[ext_resource type="Texture2D" uid="uid://dxj3dmwl1hbtn" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00057.png" id="58_1nib5"]
+[ext_resource type="Texture2D" uid="uid://j7j5pcaluf3s" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00058.png" id="59_lirgh"]
+[ext_resource type="Texture2D" uid="uid://bajh70ds7gkox" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00059.png" id="60_t74k4"]
+[ext_resource type="Texture2D" uid="uid://xtyuommosoi6" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00060.png" id="61_erykg"]
+[ext_resource type="Texture2D" uid="uid://dmemwixqxgxna" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00061.png" id="62_lx5u1"]
+[ext_resource type="Texture2D" uid="uid://bd40x4fqpqvgt" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00062.png" id="63_m66pt"]
+[ext_resource type="Texture2D" uid="uid://lmqhrbnbskd2" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00063.png" id="64_bcquu"]
+[ext_resource type="Texture2D" uid="uid://hclqsj0wo1ak" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00064.png" id="65_gqc8o"]
+[ext_resource type="Texture2D" uid="uid://clh0elqpwulys" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00065.png" id="66_sj3ud"]
+[ext_resource type="Texture2D" uid="uid://c63qhd8dntxfc" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00066.png" id="67_ahrb0"]
+[ext_resource type="Texture2D" uid="uid://s6prh24ey3xf" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00067.png" id="68_rbnht"]
+[ext_resource type="Texture2D" uid="uid://c6kojg672faj4" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00068.png" id="69_4lksw"]
+[ext_resource type="Texture2D" uid="uid://b60adp2n0g1cs" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00069.png" id="70_cll2v"]
+[ext_resource type="Texture2D" uid="uid://dxv645pvgpccw" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00070.png" id="71_ouorq"]
+[ext_resource type="Texture2D" uid="uid://oo60th0ve5nn" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00071.png" id="72_bdufs"]
+[ext_resource type="Texture2D" uid="uid://c8q0kq8xcygvt" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00072.png" id="73_ghcjc"]
+[ext_resource type="Texture2D" uid="uid://be5fsk0b5d387" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00073.png" id="74_w4vdv"]
+[ext_resource type="Texture2D" uid="uid://vxlxrlvhhp1u" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00074.png" id="75_d6plf"]
+[ext_resource type="Texture2D" uid="uid://01kstqwv4bs5" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00075.png" id="76_kvfv3"]
+[ext_resource type="Texture2D" uid="uid://d2y3udrqnq80a" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00076.png" id="77_o2p1f"]
+[ext_resource type="Texture2D" uid="uid://bluo75fhwa1vr" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00077.png" id="78_icb3c"]
+[ext_resource type="Texture2D" uid="uid://btcy1kene6f8t" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00078.png" id="79_7eyhd"]
+[ext_resource type="Texture2D" uid="uid://c7e45tabw3ags" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00079.png" id="80_qt2by"]
+[ext_resource type="Texture2D" uid="uid://cnrw5s5nx0gan" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00080.png" id="81_51jam"]
+[ext_resource type="Texture2D" uid="uid://b01eluarhdovm" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00081.png" id="82_xj4ye"]
+[ext_resource type="Texture2D" uid="uid://bmlkuafb8211q" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00082.png" id="83_3xxhv"]
+[ext_resource type="Texture2D" uid="uid://c0522k8ysegyw" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00083.png" id="84_0ices"]
+[ext_resource type="Texture2D" uid="uid://ddlijym4t6ed5" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00084.png" id="85_b3wqb"]
+[ext_resource type="Texture2D" uid="uid://dx55dnwbcjwbw" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00085.png" id="86_spebt"]
+[ext_resource type="Texture2D" uid="uid://kt14yttae20b" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00086.png" id="87_mc7b1"]
+[ext_resource type="Texture2D" uid="uid://uwj62xgha2rv" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00087.png" id="88_vvbp7"]
+[ext_resource type="Texture2D" uid="uid://b7dl30km4b0bl" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00088.png" id="89_gfqlp"]
+[ext_resource type="Texture2D" uid="uid://dcghufcxtg6a0" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00089.png" id="90_gl0xa"]
+[ext_resource type="Texture2D" uid="uid://bggkdhp2em2e0" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00090.png" id="91_baoh2"]
+[ext_resource type="Texture2D" uid="uid://qwn8tv34bqla" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00091.png" id="92_uir76"]
+[ext_resource type="Texture2D" uid="uid://crwx3i3qa5ikd" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00092.png" id="93_2qek3"]
+[ext_resource type="Texture2D" uid="uid://6iqbibfj7hou" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00093.png" id="94_p0t46"]
+[ext_resource type="Texture2D" uid="uid://tb1itb2u3f8i" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00094.png" id="95_ypft0"]
+[ext_resource type="Texture2D" uid="uid://brafiulule5pq" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00095.png" id="96_i2kgw"]
+[ext_resource type="Texture2D" uid="uid://dnn6i78deehpx" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00096.png" id="97_0fosh"]
+[ext_resource type="Texture2D" uid="uid://c6aawgfuxrpl0" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00097.png" id="98_n5y5t"]
+[ext_resource type="Texture2D" uid="uid://ccf5vc6p4tpbu" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00098.png" id="99_npxtf"]
+[ext_resource type="Texture2D" uid="uid://b27dmi8lth403" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00099.png" id="100_k6luw"]
+[ext_resource type="Texture2D" uid="uid://3w6cuvpje2nq" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00100.png" id="101_ls077"]
+[ext_resource type="Texture2D" uid="uid://dn2dp3koaeok8" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00101.png" id="102_2a8a5"]
+[ext_resource type="Texture2D" uid="uid://d3vddwhn5c3po" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00102.png" id="103_1ghju"]
+[ext_resource type="Texture2D" uid="uid://7vekd7a6cslk" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00103.png" id="104_qsipt"]
+[ext_resource type="Texture2D" uid="uid://5knkt2k00vw1" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00104.png" id="105_wa2dr"]
+[ext_resource type="Texture2D" uid="uid://cg6n0maruqogm" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00105.png" id="106_g2fiw"]
+[ext_resource type="Texture2D" uid="uid://bcqp7csv2bcaj" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00106.png" id="107_hpiq1"]
+[ext_resource type="Texture2D" uid="uid://dmvhyjha4r6n5" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00107.png" id="108_meu67"]
+[ext_resource type="Texture2D" uid="uid://ccnm6vtc4jryx" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00108.png" id="109_3fs1h"]
+[ext_resource type="Texture2D" uid="uid://bpxrtmh7gq38f" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00109.png" id="110_vxb0d"]
+[ext_resource type="Texture2D" uid="uid://dbw8b6dw42151" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00110.png" id="111_e37o7"]
+[ext_resource type="Texture2D" uid="uid://r3ktq4ocekny" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00111.png" id="112_flare"]
+[ext_resource type="Texture2D" uid="uid://baspv4ljx6sxy" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00112.png" id="113_u8wjx"]
+[ext_resource type="Texture2D" uid="uid://b1ws2glq86mx1" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00113.png" id="114_r4b8y"]
+[ext_resource type="Texture2D" uid="uid://b50p6oe0grjh3" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00114.png" id="115_45mkg"]
+[ext_resource type="Texture2D" uid="uid://c4v1acn1v3ltf" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00115.png" id="116_tq6hw"]
+[ext_resource type="Texture2D" uid="uid://dka1166grbjbg" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00116.png" id="117_4t5i0"]
+[ext_resource type="Texture2D" uid="uid://chchhelg45ttr" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00117.png" id="118_ipg62"]
+[ext_resource type="Texture2D" uid="uid://b28qh6kedw6xc" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00118.png" id="119_2wg28"]
+[ext_resource type="Texture2D" uid="uid://cb3nu8hnhpg4g" path="res://addons/icon_animation/assets/53眠いA_Zzz_R側/53眠いA_Zzz_反転_rend_00119.png" id="120_8x15x"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_0xs0i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_po3pu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_i4ywv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_vpoal")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_yk5um")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_ioroc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_tp37n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_i545u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_1dsgt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_ed6l0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_3jr0c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_rmbhm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_1h0g5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_lml3a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_dlgvd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_ouixt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_ufdnw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_yj4jg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_fgk75")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_a4bhk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_pkirk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_0nogr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_66tv2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_tg4ta")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_h7rg3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_wai4j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_sdbb4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_c2tli")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_l2lfo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_7ylp6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_xs6ff")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_7i7q1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_hvqki")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_m44vr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_kxash")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_6drbe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_hpwyk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_b3s2r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_8golo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_sw5nj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_ikms1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_rhm6m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_3cujp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_wbjif")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_usawl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_y37u7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_e5umm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_wpqhd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_hn6pg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_1541y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_ggsx7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_em7ys")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_opv1o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_eusix")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_di4xk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_41x4w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_ri52r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_1nib5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_lirgh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_t74k4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_erykg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_lx5u1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_m66pt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_bcquu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_gqc8o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_sj3ud")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_ahrb0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_rbnht")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_4lksw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_cll2v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_ouorq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_bdufs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_ghcjc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_w4vdv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_d6plf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_kvfv3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_o2p1f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_icb3c")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_7eyhd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_qt2by")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_51jam")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_xj4ye")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_3xxhv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_0ices")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_b3wqb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_spebt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_mc7b1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_vvbp7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_gfqlp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_gl0xa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_baoh2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_uir76")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_2qek3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_p0t46")
+}, {
+"duration": 1.0,
+"texture": ExtResource("95_ypft0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("96_i2kgw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("97_0fosh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("98_n5y5t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("99_npxtf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("100_k6luw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("101_ls077")
+}, {
+"duration": 1.0,
+"texture": ExtResource("102_2a8a5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("103_1ghju")
+}, {
+"duration": 1.0,
+"texture": ExtResource("104_qsipt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("105_wa2dr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("106_g2fiw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("107_hpiq1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("108_meu67")
+}, {
+"duration": 1.0,
+"texture": ExtResource("109_3fs1h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("110_vxb0d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("111_e37o7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("112_flare")
+}, {
+"duration": 1.0,
+"texture": ExtResource("113_u8wjx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("114_r4b8y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("115_45mkg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("116_tq6hw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("117_4t5i0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("118_ipg62")
+}, {
+"duration": 1.0,
+"texture": ExtResource("119_2wg28")
+}, {
+"duration": 1.0,
+"texture": ExtResource("120_8x15x")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]

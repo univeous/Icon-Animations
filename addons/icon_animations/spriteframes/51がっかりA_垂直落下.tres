@@ -1,0 +1,406 @@
+[gd_resource type="SpriteFrames" load_steps=100 format=3 uid="uid://05s5oa3t8d72"]
+
+[ext_resource type="Texture2D" uid="uid://vp33omptjnw0" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00000.png" id="1_r1pr7"]
+[ext_resource type="Texture2D" uid="uid://sgwb0umxuud" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00001.png" id="2_i7wc6"]
+[ext_resource type="Texture2D" uid="uid://bt5e7exxemjkc" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00002.png" id="3_m4055"]
+[ext_resource type="Texture2D" uid="uid://bth0pa0jnmhoi" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00003.png" id="4_eb3ih"]
+[ext_resource type="Texture2D" uid="uid://bovmgngkt4o14" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00004.png" id="5_48hwf"]
+[ext_resource type="Texture2D" uid="uid://qp4hov2ceb8b" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00005.png" id="6_giu0y"]
+[ext_resource type="Texture2D" uid="uid://cbj3spje4ctew" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00006.png" id="7_qh28m"]
+[ext_resource type="Texture2D" uid="uid://cwveesfpuf58" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00007.png" id="8_5elbv"]
+[ext_resource type="Texture2D" uid="uid://d1v1rlbykjpga" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00008.png" id="9_t122j"]
+[ext_resource type="Texture2D" uid="uid://c7qlwisftwd5d" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00009.png" id="10_tnfti"]
+[ext_resource type="Texture2D" uid="uid://lhxjuw06rbl6" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00010.png" id="11_o15ct"]
+[ext_resource type="Texture2D" uid="uid://dua1b3fpi4ofn" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00011.png" id="12_mwyyl"]
+[ext_resource type="Texture2D" uid="uid://bpd466fx1krr8" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00012.png" id="13_tvhs4"]
+[ext_resource type="Texture2D" uid="uid://bw7pe6vfxg3x5" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00013.png" id="14_3ss8o"]
+[ext_resource type="Texture2D" uid="uid://d1k4ixgtpwyio" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00014.png" id="15_xjtoe"]
+[ext_resource type="Texture2D" uid="uid://bb5lx5h54vn7h" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00015.png" id="16_3nhle"]
+[ext_resource type="Texture2D" uid="uid://ipree07t2a0b" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00016.png" id="17_sfur4"]
+[ext_resource type="Texture2D" uid="uid://dnuhgp4buqxio" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00017.png" id="18_nuyum"]
+[ext_resource type="Texture2D" uid="uid://njke06va20x5" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00018.png" id="19_vv1wq"]
+[ext_resource type="Texture2D" uid="uid://cpmxffjanfair" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00019.png" id="20_ws55y"]
+[ext_resource type="Texture2D" uid="uid://cqydmp4nnh8nr" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00020.png" id="21_q041j"]
+[ext_resource type="Texture2D" uid="uid://bq5lgov8q8fel" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00021.png" id="22_algkt"]
+[ext_resource type="Texture2D" uid="uid://ddiy4sbugl3ui" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00022.png" id="23_ktabs"]
+[ext_resource type="Texture2D" uid="uid://dmf8i1px7b2p3" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00023.png" id="24_bux0d"]
+[ext_resource type="Texture2D" uid="uid://c1vhhlgt2h6jv" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00024.png" id="25_djyh5"]
+[ext_resource type="Texture2D" uid="uid://0tvbockamdte" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00025.png" id="26_wkr28"]
+[ext_resource type="Texture2D" uid="uid://mlwd50l30po8" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00026.png" id="27_eige0"]
+[ext_resource type="Texture2D" uid="uid://bplmtx2mkjgux" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00027.png" id="28_51fs5"]
+[ext_resource type="Texture2D" uid="uid://dhmykxc1lxh08" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00028.png" id="29_h7aqe"]
+[ext_resource type="Texture2D" uid="uid://bor5vdgs5re34" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00029.png" id="30_y6d0k"]
+[ext_resource type="Texture2D" uid="uid://car4e6cj5rbli" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00030.png" id="31_1kfmv"]
+[ext_resource type="Texture2D" uid="uid://cc75bivmwa22k" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00031.png" id="32_srnwu"]
+[ext_resource type="Texture2D" uid="uid://cthq114eosk3v" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00032.png" id="33_ccl2b"]
+[ext_resource type="Texture2D" uid="uid://ceg0b0ihrrhpd" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00033.png" id="34_41vp7"]
+[ext_resource type="Texture2D" uid="uid://xu854mib7ka0" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00034.png" id="35_6f71q"]
+[ext_resource type="Texture2D" uid="uid://bcpvpb66qtqj0" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00035.png" id="36_tdl66"]
+[ext_resource type="Texture2D" uid="uid://mkc12y40hmv8" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00036.png" id="37_cfcoc"]
+[ext_resource type="Texture2D" uid="uid://brl63l24t0tnn" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00037.png" id="38_hfikc"]
+[ext_resource type="Texture2D" uid="uid://kbsc478wdi2l" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00038.png" id="39_idl57"]
+[ext_resource type="Texture2D" uid="uid://wt105d7efjyg" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00039.png" id="40_irvvp"]
+[ext_resource type="Texture2D" uid="uid://ca2rwtqbfrbde" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00040.png" id="41_q5yjj"]
+[ext_resource type="Texture2D" uid="uid://lhxxc3h4n0b" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00041.png" id="42_dwa48"]
+[ext_resource type="Texture2D" uid="uid://cwd7nu7b54uuq" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00042.png" id="43_mahv4"]
+[ext_resource type="Texture2D" uid="uid://cot6otrmd3vu5" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00043.png" id="44_l225s"]
+[ext_resource type="Texture2D" uid="uid://ktq8huxju5cg" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00044.png" id="45_y40k0"]
+[ext_resource type="Texture2D" uid="uid://btjxkb6t0vapn" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00045.png" id="46_i81jv"]
+[ext_resource type="Texture2D" uid="uid://da3xhhw4qqy2m" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00046.png" id="47_fxd4v"]
+[ext_resource type="Texture2D" uid="uid://b68ge1jp3huq7" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00047.png" id="48_kx3r7"]
+[ext_resource type="Texture2D" uid="uid://b3qdfgm64afcb" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00048.png" id="49_2pap5"]
+[ext_resource type="Texture2D" uid="uid://blrps5adcyx2k" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00049.png" id="50_fnkmd"]
+[ext_resource type="Texture2D" uid="uid://dg75gtw1fws1b" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00050.png" id="51_gumx8"]
+[ext_resource type="Texture2D" uid="uid://befjhdfs2e0gy" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00051.png" id="52_2chyb"]
+[ext_resource type="Texture2D" uid="uid://ck60y1iv7rcl3" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00052.png" id="53_uqvxr"]
+[ext_resource type="Texture2D" uid="uid://b4h1iqlkbm2dj" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00053.png" id="54_tthx3"]
+[ext_resource type="Texture2D" uid="uid://csj5rs1tp7x5" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00054.png" id="55_3516h"]
+[ext_resource type="Texture2D" uid="uid://cnxu1emxtft2w" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00055.png" id="56_ntwdd"]
+[ext_resource type="Texture2D" uid="uid://tlfucxslos00" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00056.png" id="57_bkq51"]
+[ext_resource type="Texture2D" uid="uid://bvppfsvyjwytq" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00057.png" id="58_hkiyb"]
+[ext_resource type="Texture2D" uid="uid://o6pa4haruxq4" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00058.png" id="59_21p65"]
+[ext_resource type="Texture2D" uid="uid://dxylt33njyfbw" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00059.png" id="60_dbhro"]
+[ext_resource type="Texture2D" uid="uid://bmb08e8i14kgj" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00060.png" id="61_dqy7w"]
+[ext_resource type="Texture2D" uid="uid://dgw4q5nc4u1j2" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00061.png" id="62_iyerp"]
+[ext_resource type="Texture2D" uid="uid://1fmknw7vx7m0" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00062.png" id="63_o0dri"]
+[ext_resource type="Texture2D" uid="uid://dvly2nmq45ji4" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00063.png" id="64_kavuq"]
+[ext_resource type="Texture2D" uid="uid://bqhoebtxl0iv0" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00064.png" id="65_fwt8u"]
+[ext_resource type="Texture2D" uid="uid://dgsbj0m4dkmo3" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00065.png" id="66_wj171"]
+[ext_resource type="Texture2D" uid="uid://dop74fswqdwqj" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00066.png" id="67_o8y1i"]
+[ext_resource type="Texture2D" uid="uid://dltcaw0s8kpxd" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00067.png" id="68_v5ktl"]
+[ext_resource type="Texture2D" uid="uid://dl8tvv7mqm8gl" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00068.png" id="69_oi4u8"]
+[ext_resource type="Texture2D" uid="uid://bx3g3x5fnudw" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00069.png" id="70_npdh7"]
+[ext_resource type="Texture2D" uid="uid://ej0g3oko2nj" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00070.png" id="71_f0ihw"]
+[ext_resource type="Texture2D" uid="uid://nl2gu2ykviin" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00071.png" id="72_8t1ln"]
+[ext_resource type="Texture2D" uid="uid://bubqkxk1gx61h" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00072.png" id="73_fvgbq"]
+[ext_resource type="Texture2D" uid="uid://c08e6caepcvdx" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00073.png" id="74_tmjnd"]
+[ext_resource type="Texture2D" uid="uid://b0bs7pf5fxnlr" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00074.png" id="75_a7dcv"]
+[ext_resource type="Texture2D" uid="uid://ci85a35cj1r11" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00075.png" id="76_dygr0"]
+[ext_resource type="Texture2D" uid="uid://da1iy7dlt1dnr" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00076.png" id="77_r7r7y"]
+[ext_resource type="Texture2D" uid="uid://dm122dxo6n4xw" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00077.png" id="78_jhiy3"]
+[ext_resource type="Texture2D" uid="uid://b1lrusa8xejk6" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00078.png" id="79_b68ch"]
+[ext_resource type="Texture2D" uid="uid://l6msw66w5mv0" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00079.png" id="80_wxkg7"]
+[ext_resource type="Texture2D" uid="uid://c112nf21oa4qf" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00080.png" id="81_xc1sq"]
+[ext_resource type="Texture2D" uid="uid://exyndanwfrlh" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00081.png" id="82_loxsh"]
+[ext_resource type="Texture2D" uid="uid://bx1h6tci0cyr2" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00082.png" id="83_o0c2w"]
+[ext_resource type="Texture2D" uid="uid://dcep46gtx75mw" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00083.png" id="84_gshof"]
+[ext_resource type="Texture2D" uid="uid://ehw84ma0ra6i" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00084.png" id="85_h3yen"]
+[ext_resource type="Texture2D" uid="uid://8as0b1d2qgxv" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00085.png" id="86_sfuhy"]
+[ext_resource type="Texture2D" uid="uid://corqgwc74emi" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00086.png" id="87_ggy6q"]
+[ext_resource type="Texture2D" uid="uid://du83jcfc7e8dx" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00087.png" id="88_6ekei"]
+[ext_resource type="Texture2D" uid="uid://dujukdtbkpiau" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00088.png" id="89_pv2cu"]
+[ext_resource type="Texture2D" uid="uid://b8kj28vbkyker" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00089.png" id="90_hrygb"]
+[ext_resource type="Texture2D" uid="uid://cbbwntfihd6su" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00090.png" id="91_uoqqh"]
+[ext_resource type="Texture2D" uid="uid://g5melbxhadk5" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00091.png" id="92_871xq"]
+[ext_resource type="Texture2D" uid="uid://cboj555vv7tpa" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00092.png" id="93_x82fj"]
+[ext_resource type="Texture2D" uid="uid://kj2v72dg3nkx" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00093.png" id="94_kflw0"]
+[ext_resource type="Texture2D" uid="uid://du1i6p2jkswha" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00094.png" id="95_51xt1"]
+[ext_resource type="Texture2D" uid="uid://12cnsngypq1h" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00095.png" id="96_l0cus"]
+[ext_resource type="Texture2D" uid="uid://63312s307m2g" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00096.png" id="97_borxm"]
+[ext_resource type="Texture2D" uid="uid://dage3pyq7y3hq" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00097.png" id="98_qifmm"]
+[ext_resource type="Texture2D" uid="uid://dayv0usof476s" path="res://addons/icon_animation/assets/51がっかりA_垂直落下/51_がっかりA_垂直落下_rend_00098.png" id="99_mfc2g"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_r1pr7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_i7wc6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_m4055")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_eb3ih")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_48hwf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_giu0y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_qh28m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_5elbv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_t122j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_tnfti")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_o15ct")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_mwyyl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_tvhs4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_3ss8o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_xjtoe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_3nhle")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_sfur4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_nuyum")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_vv1wq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_ws55y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_q041j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_algkt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_ktabs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_bux0d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_djyh5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_wkr28")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_eige0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_51fs5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_h7aqe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_y6d0k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_1kfmv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_srnwu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_ccl2b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_41vp7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_6f71q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_tdl66")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_cfcoc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_hfikc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_idl57")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_irvvp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_q5yjj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_dwa48")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_mahv4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_l225s")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_y40k0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_i81jv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_fxd4v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_kx3r7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_2pap5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_fnkmd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_gumx8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_2chyb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_uqvxr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_tthx3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_3516h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_ntwdd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_bkq51")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_hkiyb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_21p65")
+}, {
+"duration": 1.0,
+"texture": ExtResource("60_dbhro")
+}, {
+"duration": 1.0,
+"texture": ExtResource("61_dqy7w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("62_iyerp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("63_o0dri")
+}, {
+"duration": 1.0,
+"texture": ExtResource("64_kavuq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("65_fwt8u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("66_wj171")
+}, {
+"duration": 1.0,
+"texture": ExtResource("67_o8y1i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("68_v5ktl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("69_oi4u8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("70_npdh7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("71_f0ihw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("72_8t1ln")
+}, {
+"duration": 1.0,
+"texture": ExtResource("73_fvgbq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("74_tmjnd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("75_a7dcv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("76_dygr0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("77_r7r7y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("78_jhiy3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("79_b68ch")
+}, {
+"duration": 1.0,
+"texture": ExtResource("80_wxkg7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("81_xc1sq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("82_loxsh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("83_o0c2w")
+}, {
+"duration": 1.0,
+"texture": ExtResource("84_gshof")
+}, {
+"duration": 1.0,
+"texture": ExtResource("85_h3yen")
+}, {
+"duration": 1.0,
+"texture": ExtResource("86_sfuhy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("87_ggy6q")
+}, {
+"duration": 1.0,
+"texture": ExtResource("88_6ekei")
+}, {
+"duration": 1.0,
+"texture": ExtResource("89_pv2cu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("90_hrygb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("91_uoqqh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("92_871xq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("93_x82fj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("94_kflw0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("95_51xt1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("96_l0cus")
+}, {
+"duration": 1.0,
+"texture": ExtResource("97_borxm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("98_qifmm")
+}, {
+"duration": 1.0,
+"texture": ExtResource("99_mfc2g")
+}],
+"loop": false,
+"name": &"default",
+"speed": 30.0
+}]
