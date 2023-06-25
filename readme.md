@@ -1,7 +1,7 @@
 
 # ![Icon](icon.png) Icon Animations
 
-This addon includes some common emotion expression icon animations, which are generally used in dialogue or anywhere you want.
+This [Godot](https://godotengine.org/) addon includes some common emotion expression icon animations, which are generally used in dialogue or anywhere you want.
 
 Sprites and pre-made SpriteFrames are included.
 
