@@ -1,5 +1,5 @@
 
-# ![Icon](icon.png) Icon Animations
+# <img src="icon.png" width="64"> Icon Animations
 
 This [Godot](https://godotengine.org/) addon includes some common emotion expression icon animations, which are generally used in dialogue or anywhere you want.
 
@@ -10,5 +10,11 @@ All the images come from スタジオデムサト, who generously released these
 The original images are too large for common game development in both size and resolution, so I've scaled them down to 20%. If you need higher-resolution images, feel free to download them from booth and replace them in the assets folder.
 
 You should take a closer look at the image's license on booth and the original readme.txt (both in Japanese) in docs folder.
+
+## examples
+(portrait is not included.)
+
+|<img src="docs/1.gif" width="128">|<img src="docs/2.gif" width="128">|<img src="docs/3.gif" width="128">|
+
 
 ![Animations](docs/animations.png)
