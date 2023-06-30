@@ -14,7 +14,7 @@ The license for all images in the assets folder is in the readme.txt.
 ## examples
 (portrait is not included.)
 
-|<img src="docs/1.gif" width="128">|<img src="docs/2.gif" width="128">|<img src="docs/3.gif" width="128">|
+<img src="docs/1.gif" width="128"><img src="docs/2.gif" width="128"><img src="docs/3.gif" width="128">
 
 
 ![Animations](docs/animations.png)
